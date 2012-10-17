@@ -1,0 +1,1 @@
+insert into mediavolap.Auto_Dim_AutoPriceRange (AutoModeID, PriceRange, MinPrice, MaxPrice, RawPrice, PriceSource, Updatetime) values ('1685','5万-15万','5.29','5.99','5.29,5.69,5.99,','官方出厂价格','2012-05-10 08:00:00'),('1686','45万-55万','31.88','48.48','31.88,34.68,36.88,47.88,48.48,','官方出厂价格','2012-05-10 08:00:00');

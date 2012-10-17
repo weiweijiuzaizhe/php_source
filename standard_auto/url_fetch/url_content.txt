@@ -1,0 +1,3355 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>【DB9】新DB9报价及图片_太平洋汽车网DB9频道</title>
+<meta name="keywords" content="DB9,DB9,新DB9,DB9报价,DB9图片" />
+<meta name="description" content="太平洋汽车网DB9频道为您提供DB9报价、DB9图片，DB9参数配置、DB9试驾评测、DB9网友点评等信息。了解DB9怎么样，就上太平洋汽车网！" />
+<!--[if IE 6]><script>document.execCommand("BackgroundImageCache", false, true)</script><![endif]-->
+<!-- http://js.3conline.com/pcauto/price2012/car_seriesP1.css?t=20120823 内嵌css-->
+<style>@charset "gb2312";
+/* 总局 */
+html,body,div,form,h1,ul,ol,i,input,li,p,table,tbody,td,thead,th,tr,dl,dt,dd,h1, h2,h3,h4,h5,h6{margin:0;padding:0}
+body{background:url(http://www1.pcauto.com.cn/2011/index/images/0524/p1stBgB.png) repeat-x scroll 0 0 #113377; font:12px/1.8 \5b8b\4f53;color:#333;}
+a{color:#333;text-decoration:none}a:hover{color:#f60;text-decoration:underline}
+img {border:0; vertical-align:top;}
+em,i,th,caption{font-style:normal; text-align:left}
+ul,ol{list-style:none;margin:0;padding:0; vertical-align:middle;}
+input,textarea,select,option{font-size:12px;}
+.clear{clear:both; font-size:0px;line-height:0px;height:0px;padding:0;margin:0; overflow:hidden}
+.clearfix:after{content:"\20";clear:both;height:0;display:block;overflow:hidden}.clearfix{*zoom:1}
+.spanclass {display:none}.mark{ float:left;}.submark{ float:right;}
+.mgt10{ margin-top:10px;}.mgb10{ margin-bottom:10px;}.mgr10{ margin-right:10px;}.mgl10{ margin-left:10px;}
+.mgt5{ margin-top:5px;}.mgb5{ margin-bottom:5px;}.mgr5{ margin-right:5px;}.mgl5{ margin-left:5px;}
+.mgl20{margin-left:20px;}
+.contentdiv{ display:none;}.fl{ float:left}.fr{ float:right}
+/*广告*/
+.ivy_2 img,.ivy_2 object,.ivy_2 iframe{margin:0px 0px 5px;vertical-align:top;display:inline-block}
+.ivy750 img,.ivy750 object{margin-bottom:10px; vertical-align:top;display:inline-block}
+#ivy_t1{width:990px;padding:5px 0 0}
+#ivy_t1 img,#ivy_t1 object,#ivy_t1 iframe{display:inline-block}
+#ivy_t3 img,#ivy_t3 object,#ivy_t3 iframe{ margin-bottom:10px; vertical-align:top;display:inline-block}
+.ivy_mt10 iframe{margin-top:10px;}
+#ivy_t2_l{ float:left; width:495px;}
+#ivy_t2_r{ float:right; text-align:right; width:495px;}
+/*框架*/
+.wrap {width:990px;padding:0 5px;margin:0 auto;text-align:left;background:#FFF;}
+.left360{ width:360px; float:left;}.center380{ width:380px; float:left}.left750{ width:750px; float:left}.right230{ width:230px; float:right}
+.left750:after,.right230:after,.left360:after,.wrap:after{content:"\20";clear:both;height:0;display:block;overflow:hidden;}
+/*显示与隐藏*/
+.hide{display:none;}
+.show{display:block;}
+.mod_gray{background:#f8f8f8;}
+/*无内容提示*/
+.megCon{text-align:center;font:bold 18px/58px "微软雅黑";color:#777;padding:80px 0;}
+.megCon img{margin-right:25px;}
+.icon_yh{background:url(http://www1.pcauto.com.cn/2012/price/images/icon.png) no-repeat 0 -330px;width:17px;height:17px;float:left;margin:9px 0 0 5px;}
+/*车系页导航*/
+.subNav_t{height:43px;border:1px solid #dcdcdc;border-bottom:0;background:url(http://www1.pcauto.com.cn/2012/price/images/car_num1.png) repeat-x 0 0;padding:0 19px 0 15px;line-height:43px; clear:both}
+.subNav_t .dLogo{float:left;}
+.subNav_t .dLogo img{margin-top:1px;}
+.subNav_t .dTit{float:left;display:inline;font:bold 24px/43px "微软雅黑";margin:0 10px;}
+.subNav_t .dTit .brand{float:left; margin-right:10px;}
+.subNav_t .chang{float:left;}
+.subNav_t .dYear{float:left;display:inline;font:bold 14px/43px "微软雅黑";margin:0 0 0 10px;overflow:hidden;}
+.subNav_t .dYear a{margin-left:10px;}
+.subNav_t .dTop{float:right;}
+.subNav_t .dTop strong{font:normal 14px "微软雅黑";color:#f60;padding:0 3px;}
+.subNav_t .rightMsg{float:right;}
+.subNav_t .rightMsg strong{font:normal normal bold 14px "微软雅黑";}
+.subNav_t .subDTit{font:bold 20px/43px "微软雅黑";float:left; height:43px; overflow:hidden;}
+.subNav_t .subDTit a{float:left;}
+.subNav_t .subDTit .iTit{float:left; height:43px; overflow:hidden;}
+.subNav_t .aTit{float:left;}
+.subNav_t .icon_yh{margin:13px 10px 0 10px;}
+.subNav_t .dState{float:left;height:21px;width:51px;background:#d7d7d7;border:1px solid #bbb;line-height:21px;color:#777;text-align:center;margin:11px 0 0 20px;font-family:"微软雅黑";}
+.subNav_t .dBack{float:left;display:inline;margin:0 0 0 30px;}
+.subNav_b{height:35px;line-height:35px;background:url(http://www1.pcauto.com.cn/2012/price/images/car_num1.png) repeat-x 0 -61px; clear:both}
+.subNav_b li{float:left;height:35px; width:99px; background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) no-repeat 0px -71px;font-weight:bold;font-size:14px; text-align:center;}
+.subNav_b .submenuC{width:134px;}
+.subNav_b a{color:#fff;padding:0; display:block;}
+.subNav_b .cur{background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) no-repeat 0 -33px;}
+.subNav_b .cur a{}
+.subNav_b .submenuA a:hover{background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) no-repeat 0 -110px;text-decoration:none;color:#fff;}
+.subNav_b .submenuA a span{font-size:12px; font-weight:normal;}
+.subNav_b .submenuB a{}
+.subNav_b .submenuB a:hover{color:#fff;}
+.subNav_b .carmenu{background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) no-repeat 0 -148px;}
+/*海外版.概念版*/
+.subNav_t .dState2,.subNav_t .dState3, .subNav_t .dState4{float:left;width:53px;height:23px;display:inline;overflow:hidden;background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) no-repeat;line-height:9999px;margin:11px 0 0 14px;}
+.subNav_t .dState2{background-position:0 -186px;}
+.subNav_t .dState3{background-position:-56px -186px;}
+.subNav_t .dState2 a,.subNav_t .dState3 a,.subNav_t .dState4 a{width:53px;height:23px;display:block;}
+.subNav_t .dState4{background-position:0 -211px; width:53px;height:23px;margin:11px 0 0 14px;float:left;display:inline;line-height:9999px;overflow:hidden;}
+/*当前位置*/
+.position{height:22px;line-height:22px;padding:3px 5px 8px 5px;}
+.position .mark{background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) no-repeat -136px -186px;padding-left:10px;margin-left:0px;color:#aaa;}
+.position .mark em{color:#333;}
+.position select {width:145px;margin:2px 5px 0 0;}
+.position .iSub{background:url(http://www1.pcauto.com.cn/2012/price/images/car_num1.png) repeat-x 0 -128px;width:47px;height:20px;float:left;border:1px solid #bbb;text-align:center;line-height:20px;}
+.position .iSub:hover{text-decoration:none;color:#333;}
+.position #brand{width:120px;}
+/*有用车指南时导航间隔*/
+.subNav_b .menu li{width:110px;}
+/*颜色*/
+.blue, .blue a:link, .blue a:visited, .blue a:active{ color:#05a;}
+.blue a:hover{color:#f60;}
+.black, .black a:link, .black a:visited, .black a:active{ color:#000;}
+.black a:hover{color:#f60;}
+.red, .red a:link, .red a:visited, .red a:active{ color:#c00;}
+.red a:hover, a.red:hover{color:#f60;}
+.orange, .orange a:link, .orange a:visited, .orange a:active{ color:#f60;}
+.smoke, .smoke a:link, .smoke a:visited, .smoke a:active{ color:#777;}
+.smoke a:hover{color:#f60;}
+.yellow, .yellow a:link, .yellow a:visited, .yellow a:active{ color:#FFFF00;}
+.grade{color:#777;}
+::-webkit-input-placeholder { color:#AAA; }
+:-moz-placeholder { color:#AAA; }
+.placehold{color:#AAA;}
+/* ks.css 快搜框 */
+.ks{float:right; margin:0px; width:297px; height:22px;}
+.ks .ksTit{float:left; display:inline; margin-right:4px; width:58px; height:22px; background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) no-repeat 0 -409px; zoom:1;}
+.ks .ksv{float:left; margin:0; padding:0 4px; width:170px; border:1px solid #BBB; height:20px; background:white; font-size:12px; line-height:22px; }
+.ks .sBtn{float:left; margin:0 0 0 5px; width:48px; height:22px; border:1px solid #BBB; background:url(http://www1.pcauto.com.cn/2012/price/images/car_num1.png) repeat-x 0 -128px; cursor:pointer;}
+/* 为修正老版本 ie 下的focus form时的黑border */
+.ks .sBtnWrap{float:left; display:inline; margin:0 0 0 5px; width:48px; height:20px; border:1px solid #BBB;}
+.ks .sBtnWrap .sBtn{float:none; margin:0; height:20px; border:none; }
+/*Thursday, 27-Sep-2012 10:41:22 CST*/
+/*ulPic*/
+.ulPic{*zoom:1;}
+.ulPic:after{content:"\20";clear:both;height:0;display:block;overflow:hidden;}
+.ulPic li{text-align:center;display:inline;float:left;}
+.ulPic img{border:2px solid #FFF;padding:0;}
+.ulPic a:hover img{border:2px solid #f60;}
+.ulPic .btnIocn{background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) no-repeat -113px -186px;position:absolute;width:18px;height:16px;margin:82px 0 0 118px;}
+.ulPic p{color:#05a;}
+.ulPic a:hover p{color:#f60;}
+/*Thursday, 27-Sep-2012 10:41:22 CST*/
+/*ulTxt*/
+.ulTxt li {height: 24px;line-height:24px;overflow:hidden;vertical-align:middle;font-size:14px;word-wrap:break-word;}
+.ulTxt i{float:left;}
+.ulTxt .time,.ulTxt .sKey{color:#777;font-size:12px;}
+.ulTxt .time a,.ulTxt .sKey a{color:#777;}
+.ulTxt .time a:hover,.ulTxt .sKey a:hover{color:#f60;}
+.ulTxt .sKey{padding-right:5px;float:left;}
+.ulTxt em{color:#777;padding-right:5px;float:left;}
+.ulTxt .time{float:right;}
+.ulFex li{background:url(http://www1.pcauto.com.cn/2012/price/images/icon.png) no-repeat 0 -287px;padding-left:8px;}
+.f12 li{font-size:12px;}
+/*Thursday, 27-Sep-2012 10:41:22 CST*/
+/*modC*/
+.thC{height:30px;background:url(http://www1.pcauto.com.cn/2012/price/images/car_num1.png) repeat-x 0 -97px;line-height:30px;}
+.thC .mark{background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) repeat-x;height:30px;line-height:30px;font-size:14px;color:#fff;padding:0 15px;border-right:1px solid #eee;}
+.thC .mark a{color:#fff;}
+.thC .submark{padding-right:10px;}
+.tbC{border:1px solid #d7d7d7;border-top:0;zoom:1;}
+.modC .thC .exmark{float:left; display:inline;}
+.modC .thC .exmark a{float:left; display:inline; margin:0 10px 0 20px;}
+/*Thursday, 27-Sep-2012 10:41:22 CST*/
+/*modB*/
+.modB{border:1px solid #e8e8e8;padding:0 10px;}
+.thB{height:27px;border-bottom:1px solid #d6d6d6;line-height:27px;}
+.thB .mark{padding-left:5px;color:#000;}
+.thB .mark a{color:#000;}
+.thB .mark a:hover{color:#f60;}
+/*Thursday, 27-Sep-2012 10:41:22 CST*/
+/*modA*/
+.modA{border:1px solid #d6d6d6;}
+.thA{height:27px;line-height:27px;background:#f3f3f3;border-bottom:1px solid #d6d6d6;}
+.thA .mark{padding-left:10px;}
+.thA .mark,.thA .mark a{font-size:14px;}
+.thA .submark{padding-right:10px;}
+/*Thursday, 27-Sep-2012 10:41:22 CST*/	
+/*常用工具*/
+.modTool a{float:left;height:36px;line-height:36px;overflow:hidden;background:url(http://www1.pcauto.com.cn/2012/price/images/icon.png) no-repeat;padding-left:32px;width:55px;margin:0 0 0 7px;}
+.modTool .odd{margin-right:19px;}
+.modTool .tbB{padding:3px 0;}
+.modTool .icon_cs{background-position:0 -22px;}
+.modTool .icon_tp{background-position:0 -127px;}
+.modTool .icon_cx{background-position:0 -58px;}
+.modTool .icon_wz{background-position:0 -162px;}
+.modTool .icon_gc{background-position:0 -93px;}
+.modTool .icon_dk{background-position:0 -198px;}
+.position{padding:3px 5px 8px;}
+.subNav_b li{width:99px;}
+.dSame{ float:right; font-size:14px; line-height:43px; font-weight:bold;}
+.thC strong.smoke{float:left;margin-left:15px;}
+.toc{cursor:pointer;}
+.focusBox .bar .submark a,.p1st_l_mb dt{background:url(http://www1.pcauto.com.cn/2012/price/images/icon.png) no-repeat;}
+.focusBox .aBtn,.focuDealer dt,.focuDealer .sFree_pho{background:url(http://www1.pcauto.com.cn/2012/price/images/main.png?t=20120820) no-repeat;}
+.focusBox{border:1px solid #d7d7d7;width:358px;overflow:hidden;}
+#focusPic{padding:4px 4px 10px;height:260px;}
+.focusBox .pagination{height:60px;margin: 0 -1px;width:363px; white-space:nowrap;}
+.focusBox .toc{margin:0 5px;float:left;overflow:hidden;width:80px;cursor:pointer;height:60px;}
+.focusBox .selected{border:2px solid #f60;width:76px;height:56px;}
+.focusBox .selected img{margin:-2px 0 0 -2px;}
+.focusBox .bar{border-bottom:1px solid #d7d7d7;height:35px;line-height:35px;margin:0 10px;padding:13px 5px 0;}
+.focusBox .bar .mark a{margin-right:15px;}
+.focusBox .bar .submark a{padding:3px 20px;background-position:0 2px;}
+.focusBox dl{width:254px;padding:5px 0 0 15px;line-height:28px;float:left;height:92px;zoom:1;}
+.focusBox dt{float:left;color:#777;}
+.focusBox dd{float:left;height:28px;overflow:hidden;}
+.focusBox .pri{width:206px;}
+.focusBox .pri em{font:bold 18px Arial,"微软雅黑",sans-serif; vertical-align:0;}
+.focusBox .cs{width:84px;padding-right:4px;}
+.focusBox dd , .focusBox dd a{color:#777;}
+.focusBox dd a:hover{color:#f60;}
+.focusBox .jb{width:93px;}
+.focusBox .bcs{width:206px;}
+.focusBox .dPri{float:left;padding-top:25px;}
+.focusBox .dPri a{display:block;width:74px;height:29px;line-height:29px;text-align:center; text-decoration:none;}
+.focusBox .aBtn:hover{color:#fff;}
+.focusBox .aBtn{background-position:0 -237px;color:#fff;}
+.focusInfo{color:#777;padding:0px 10px 0px;line-height:26px;height:60px;overflow:hidden;}
+.focusInfo span{float:left;height:26px;overflow:hidden;}
+.focusInfo .sBrand{width:95px;}
+.focusInfo .sBrand a{border-right:1px solid #d7d7d7;padding-right:10px;}
+.focusInfo .sLevel{width:80px;}
+.focusInfo .sNum{width:155px;text-align:right;}
+.focusInfo .sPri{}
+.focusInfo .sPri i{color:#c00;}
+.focusInfo .sPri em{font:bold 16px/30px Arial,"微软雅黑",sans-serif;color:#c00;}
+.focusInfo .sPri a:hover em{color:#f60}
+.focusInfo .sqw{width:67px;margin:3px 0 0 10px;height:23px;}
+.focusInfo .eTit{float:left;}
+.focusInfo .sColor span{float:left;width:16px;height:7px;border:1px solid #d7d7d7;padding:1px;margin:10px 5px 0 0;}
+.focusInfo .sColor i{display:block;width:16px;height:7px;}
+.focusInfo .sMore{float:right; margin-right:.5em;}
+.p1st_l_mb{padding:6px 10px 7px; border-color:#D7D7D7;}
+.p1st_l_mb dl{padding:6px 0 0;zoom:1;}
+.p1st_l_mb dt,.p1st_l_mb dd{float:left;display:inline;line-height:26px;}
+.p1st_l_mb dt{padding-right:7px;background-position:0 -232px;padding-left:8px;margin-left:7px;}
+.p1st_l_mb dd{color:#d7d7d7;}
+.p1st_l_mb dd em{color:#777;}
+.p1st_l_mb dd a{color:#05a;}
+.p1st_l_mb dd a:hover{color:#f60;}
+.p1st_l_mb .odd{width:150px;}
+.p1st_l_mb .even{width:95px;}
+.p1st_l_mb .thB .mark a{color:#05a;}
+.p1st_l_mb .thB .mark a:hover{color:#f60;}
+.bigTit{font:bold 18px/38px "微软雅黑";text-align:center;}
+.bigTit a{color:#c00;}
+.bigTit a:hover{color:#f60;}
+.focusCen{margin:10px 10px 0;width:380px;height:582px;_overflow:hidden;}
+.focusCen .tabTit{width:360px;margin:0 auto;border-bottom:1px solid #d7d7d7;height:29px;line-height:29px;}
+.focusCen .pagination{margin:0 auto;padding-left:1px;}
+.focusCen .toc{text-align:center;border:1px solid #d7d7d7;margin-left:-1px;float:left;background:#f5f5f5;color:#777;padding:0 12px;}
+.focusCen .selected{font-weight:bold;background:#fff;border-top:3px solid #f60;color:#000;border-bottom:0;height:25px;line-height:25px;}
+.focusCen .selected:hover{color:#f60;}
+.focusTxt{clear:both;padding-top:0;height:236px;}
+.focusTxt .ulTxt li{height:26px; line-height:26px;}
+.hTxt345{width:345px;margin:0 auto;}
+.hTxt345 .tit{width:255px;}
+.hTxt345 .firstTit{width:100%; font-weight:bold; text-align:center;}
+.focusbar{width:352px;margin:0 auto 7px;height:29px;line-height:31px;border-bottom:1px solid #d7d7d7;padding:7px 8px 0 0px;_overflow:hidden;}
+.focusbar .mark{margin-right:4px;padding:0 0 0 1px;position:relative;}
+.focusbar .submark{color:#d7d7d7;}
+.focusbar .toc{height:26px;line-height:26px;margin-top:2px;}
+.focusbar .selected{height:25px;line-height:23px;}
+.focusCen .layerTit{margin-top:4px;}
+.focusCen .areaTxt{height:100px;}
+.focusCen .bbsTxt{}
+.focusbarbbs .toc{width:49px;}
+.focuDealer{height:61px;border:1px solid #d7d7d7;width:378px;margin:0 10px;}
+.focuDealer dt{float:left;background-position:0 -343px;width:38px;height:57px;line-height:27px;padding:4px 14px 0 6px;color:#777;}
+.focuDealer dd{height:22px;line-height:23px;padding-top:5px;overflow:hidden;width:314px;float:left;display:inline;margin-left:6px;}
+.focuDealer span{float:left;overflow:hidden;}
+.focuDealer .tit{width:175px;}
+.focuDealer .tit em{color:#777;}
+.focuDealer .phone{width:112px;padding-right:3px;color:#05a;}
+.focuDealer .sFree_pho{float:left;background-position:-121px -268px;height:12px;width:12px;text-align:center;line-height:22px;margin-top:5px;}
+.focuDealer .sFree_pho:hover{background-position:-121px -284px;text-decoration:none;color:#fff;}
+.focusbarNews{padding:0px 8px 0 0px; margin-bottom:2px;}
+/*编辑评分*/
+.p1st_r_mb_t .submark{color:#aaa;}
+.p1st_r_mb_t .grade{color:#c00;}
+.p1st_r_mb_t .grade em{font:bold 16px Arial,"微软雅黑",sans-serif;margin-left:10px;}
+.p1st_r_mb_t dl{height:102px;padding:5px 0 0 35px;}
+.p1st_r_mb_t dt{float:left;display:inline;margin-left:-30px;}
+.p1st_r_mb_t dd{margin-bottom:7px;min-height:21px;height:auto;_height:21px;}
+.p1st_r_mb_t .titA{color:#390;}
+.p1st_r_mb_t .btn{background:url(http://www1.pcauto.com.cn/2012/price/images/main.png?t=20120820) no-repeat 0 -268px;width:69px;height:24px;display:block;text-align:center;line-height:24px;}
+.p1st_r_mb_t .btn:hover{background-position:0px -469px;text-decoration:none;color:#fff;}
+.scoreData{height:92px;width:200px;margin:0 auto;}
+.scoreData li{float:left;display:inline;width:26px;margin:0 0 0 7px;line-height:28px;}
+.scoreData span{display:block;}
+.scoreData .sData{font-family:Tahoma;}
+.scoreData .sPole{height:33px;width:10px;border:1px solid #d7d7d7;position:relative;margin-left:3px;}
+.scoreData .sPoleDa{width:12px;background:#ffad65;position:absolute;bottom:-1px;left:-1px;padding:1px 0;}
+.p1st_r_mb_t .tfB{border-top:1px solid #d7d7d7;height:24px;line-height:24px;padding:4px 0 5px 5px;}
+/*海外，概念*/
+.focusCenA{height:362px;}
+.focusBox .barA{padding:3px;height:20px;}
+.focusCenA{}
+.focuTxt3 dl{height:75px;border-bottom:1px solid #d7d7d7;margin-bottom:25px;}
+.focuTxt3 dt{font-weight:bold;}
+.focuTxt3 dd{color:#777;}
+.modSellWarpA{height:360px;}
+.modSellWarpA .modSell{height:360px;}
+.modSellWarpA .modSellHv{height:auto;}
+.layerData{display:none;}
+/*弹框*/
+.layerBox{float:left;position:relative;z-index:2;}
+.layerTit{width:70px;height:24px;background:url(http://www1.pcauto.com.cn/2012/price/images/icon.png) no-repeat 63px -251px;line-height:24px;color:#777;cursor:pointer;padding:0 0 0 11px;}
+.layerData{border:2px solid #4a88d7;background:#fff;position:absolute;display:none;}
+.layerBoxsl .layerTit{background:#4a88d7 url(http://www1.pcauto.com.cn/2012/price/images/icon.png) no-repeat 63px -270px;color:#fff;}
+.layerBoxsl .layerData{display:block;}
+.ipcUl1{height:31px;line-height:31px;border-bottom:1px solid #d7d7d7;padding:0 15px;}
+.ipcUl1 .hotCt{float:left;color:#777;}
+.ipcUl1 .hotCt a{color:#c00;}
+.ipcUl1 .errorTips{float:right;color:#777;}
+.ipcUl1 .errorTips a{color:#05a;}
+.ipcUl2 .eTit{color:#777;}
+.layerCity{width:506px;}
+.ipcUl2{line-height:24px;padding:0 15px;background:#f5f5f5;}
+.ipcUl2 li{border-bottom:1px dashed #d7d7d7;padding:5px 0 0 60px;}
+.layerBox .ipcUl2 a{display:inline-block;}
+.layerBox .eTit{margin-left:-60px;}
+.changCx .changTit{ cursor:pointer;}
+/*20120910焦点区下方的我要询价按钮位置修改*/
+.focusBox .pri i{float:left;}
+.focusBox .pri .aBtn{float:left;height:24px;width:69px;background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) no-repeat 0 -469px;text-align:center;line-height:24px;color:#fff;margin:0 9px;}
+.focusBox .pri .aBtn:hover{text-decoration:none;}
+.focusBox .carInfo{width:330px;}
+.focusBox .carInfo .pri{width:282px;}
+.focusBox .carInfo .jb{width:170px;}
+.focusBox .carInfo .bcs{width:282px;}</style>
+<script>
+"doc@http://zzb.pcauto.com.cn/svn/tips/defineJS.js";function defineJS(a){var b=self;b.needJS=b.needJS||t;function m(f){b.defineJSlog+="\n"+f};function t(h,n,c){c=c||function(){};if(h)return c(false);var q=b.__needJS__||(b.__needJS__=[]);var i=q[n]||(q[n]={loaded:false,callbacks:[]});if(i.loaded)return c(false);var j=i.callbacks;if(j.push(c)==1){var d=document.createElement("script");d.onload=d.onreadystatechange=function(){var f=d.readyState;if(f&&f!="loaded"&&f!="complete")return;i.loaded=true;for(var k=0;k<j.length;k++)j[k](true)};d.src=n;document.getElementsByTagName("head")[0].appendChild(d)}}if(!a)return;a=a.split("=");var e=a[1];a=a[0];if(/,/.test(a)){for(var u=a.split(","),g=0;g<u.length;g++)defineJS(u[g]+"="+e);return}var o=e.match(/^(\d*):(.*)$/);if(o){e=o[2];o=o[1]}var v=/^!/.test(a);if(v){a=a.substring(1);if(/^https?:/i.test(e))return m("sync function "+a+"() must be relative path!\n"+e)}if(a=="")return;var l=a.lastIndexOf(".");if(l>0)for(var r=a.split("."),s=b,g=0;g<r.length-1;g++)s=s[r[g]]=s[r[g]]||{};var p="o",A="name",w=eval("window."+a);if("function"==typeof w&&w.toString().indexOf("_DEFINEJS_")<0)return;var x=l<0?b:eval.call(b,a.substring(0,l)),y="t",B="h"+p,z=l<0?a:a.substring(1+l),C="ca"+y,p=b["l"+p+C+"i"+p+"n"];x[z]=!p[B+"s"+y+A].match(/^$|\.pc|^(127|192)\.|localhost/i)?x[z]=function(){return[]}:function(){var c=arguments,q=this instanceof c.callee;"_DEFINEJS_";function i(){m(a+"("+c[0]+")");var f=eval.call(b,a);if(f==c.callee)return m(a+"() not in "+e);if(q){b._=c;for(var k="",h=0;h<c.length;h++)k+=(h>0?",":"")+"window._["+h+"]";return eval("new "+a+"("+k+")")}var n=l<0?b:eval.call(b,a.replace(/\.[^.]*$/,""));return f.apply(n,c)}if(!v)return setTimeout(function(){t(0,e,i)},o);var j=b.XMLHttpRequest||b.ActiveXObject;if(!j)return m("Browser can not AJAX!");var d=new j("Microsoft.XMLHTTP");d.open("GET",e,false);d.send(null);if(d.status!=200)return m("target file failed! file="+e+"\nstatus="+d.status);eval.call(b,d.responseText);return i()}}defineJS();
+defineJS('usejquery,!$,!jQuery,!$.cookie=/js/jquery-1.4.2.min.js'); if(/^$|^cms\./i.test(location.hostname))document.write("<script src=http://js.3conline.com/js/jquery-1.4.2.min.js class=' defer'><\/script>");
+defineJS("featuredcontentslider.init=http://js.3conline.com/js/min_contentslider.js");
+defineJS("!isFF6Before,!fakeLinkTo=/js/fakeLinkTo.js");
+</script>
+</head>
+<body><script>_addIvyID=1; function showIvyViaJs(pos){document.write("<u id="+pos+" class=adpos></u>")}</script>
+<!--栏目计数器-->
+<span class="spanclass">
+<script>document.write('<img src="http://count.pcauto.com.cn/count.php?channel=1385&screen='+screen.width+'*'+screen.height+'&__uuid=919:1&refer='+escape(document.referrer)+"&anticache="+new Date().getTime()+location.hash.replace(/^#ad=/,"&ad=")+'" border="0" width="0" height="0" />');</script>
+</span>
+<script>if(!window._addIvyID) document.write("<scr"+"ipt src='http://www.pconline.com.cn/_hux_/auto/price/detail.js'><\/scr"+"ipt>");</script>
+<!-- 内嵌头部 http://www.pcauto.com.cn/global/s_header/index.html -->
+<script>document.write("<style> #navibar .red{color:#c00} #navibar ul,#navibar li{list-style:none;margin:0px;padding:0px;} #navibar i,#navibar em{font-style:normal;} #navibar img{border:none} #navibar .clear{clear:both;} /*顶部导航*/ #navibar{width:995px; height:26px;line-height:26px; padding:0 5px 0 0; margin:0 auto; background:#F6F6F6 url(http://www1.pcauto.com.cn/2012/head/images/hb2.png) repeat-x 0 -48px; font-size:12px; text-align:left; position:relative; z-index:555} #navibar a{ text-decoration:none;} #navibar a:hover,#navibar .red:hover{text-decoration:none; color:#f60} #navibar .navL{width:560px; float:left} #navibar .navL a{display:inline-block} #navibar .navL a:hover{text-decoration:underline} #navibar .navC{width:250px; float:right;height:26px;} #navibar .navL .drop1{display:inline-block;position:relative;z-index:3;} #navibar .navL .drop1 a:hover{text-decoration:underline;} #navibar .navL .trigger1{font-weight:bold;position:relative;z-index:10;padding:0 0 0 5px;width:92px} #navibar .navL .trigger1 s{cursor:pointer;background:url(http://www1.pcauto.com.cn/2012/head/images/hb2.png) no-repeat -63px -86px;height:4px;width:7px; position:absolute;top:11px;right:5px;-webkit-transition:-webkit-transform .2s ease-in; -webkit-backface-visibility:hidden; -moz-transition:-moz-transform .2s ease-in; -o-transition:-o-transform .2s ease-in; transition:transform .2s ease-in;} #navibar .navL .aHover .con1{display:block} #navibar .navL .aHover .trigger1 s{-moz-transform:rotate(180deg); -webkit-transform:rotate(180deg); -o-transform:rotate(180deg); transform:rotate(180deg); filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2);_top:0} #navibar .navL .con1{display:none;position:absolute;z-index:4;background:#fff;border:1px solid #D7D7D7;padding:25px 1px 1px 1px;top:0;left:0;width:98px;} #navibar .navL .con1 .bb{border-bottom:1px solid #D7D7D7} #navibar .navL .con1 a{padding:0 5px;display:block;height:24px;line-height:24px} #navibar .navL .con1 a:hover{ background:#3953A8;color:#fff;} #navibar .navL .wap{display:inline-block; position:relative;color:#777; padding-left:13px; background:url(http://www1.pcauto.com.cn/2012/head/images/hb2.png) no-repeat -64px -20px; z-index:2;} #navibar .navL .wap a{position:relative; padding-left:14px; color:#777;} #navibar .navL .wap a s{width:9px;height:15px;background:url(http://www1.pcauto.com.cn/2012/head/images/hb2.png) no-repeat -46px -81px;position:absolute;top:5px;left:0;cursor:pointer} #navibar .navL .wap a:hover{color:#f60;} #navibar .navL .meg{display:inline-block; margin-left:3px; padding-left:14px; background:url(http://www1.pcauto.com.cn/2012/head/images/hb2.png) no-repeat -64px -20px;} #navibar .navR{width:345px;height:25px; line-height:25px; float:right} #navibar .navR .meg{float:right; line-height:25px; height:25px;} #navibar .navR .webGroup img{vertical-align:middle;float:right} /*网站群S*/ #navibar .pcSites{z-index:450; display:inline-block;position:relative;width:350px;font-size:12px;} #navibar .pcSites .siteTop{float:left; color:#777;} #navibar .pcSites .sites{float:left; padding:0;margin:0;} #navibar .pcSites .sites a{float:left; margin-right:11px; padding:0; text-decoration: none;} #navibar .pcSites .sites a.last{margin-right:0;} #navibar .pcSites .sites a:hover{color:#f60; text-decoration:underline;} /*网站群E*/ /*登录框s*/ .loginForm{float:left;} #ajaxLogon{line-height:26px; height:26px;color:#464646;float:none;} #ajaxLogon a{color:#464646} #ajaxLogon i{font-style:normal}/*覆盖旧样式*/ /*登陆前*/ #tBlogs{ padding-left:14px; background:url(http://www1.pcauto.com.cn/2012/head/images/hb2.png) -64px -20px no-repeat; display:inline-block} #tBlogs .tQQ,#tBlogs .tSina{ display:inline-block; padding-left:18px} #tBlogs i{background:url(http://www1.pcauto.com.cn/2012/head/images/hb2.png) no-repeat; width:16px; height:16px; position:absolute; cursor:pointer} #tBlogs .tSina i{ background-position:-20px -79px; margin:4px 0 0 -18px; *margin-top:-2px} #tBlogs .tQQ i{ background-position:left -79px; margin:4px 0 0 -18px;*margin-top:-2px} /*登陆前*/ #off{display:inline;float:none;} #off .loginTxt{display:inline-block;height:20px;width:70px;line-height:20px;text-align:center; background:url(http://www1.pcauto.com.cn/2012/head/images/hb2.png) no-repeat} /*登陆后*/ #on{display:inline;float:none;} #on .messImg{display:inline;margin-top:-3px;width:11px;height:9px;border:none;vertical-align:middle;background:url(http://www1.pcauto.com.cn/2012/head/images/hb2.png) no-repeat -21px -30px;} #on .wel_wrap{color:#777} #on #manageWrap{height:26px;width:74px;position:relative;display:inline-block;} #on #manageWrap2{height:26px;width:100px;position:relative;display:inline-block;} #on #manageWrap2 .manageCon,#on #manageWrap2 .manageCon .more{width:98px;} #on .manage s{width:7px;height:4px;background:url(http://www1.pcauto.com.cn/2012/head/images/hb2.png) no-repeat -49px -33px;position:absolute;top:11px;right:12px;overflow:hidden;line-height:0;} #on .manageCon{display:none;left:-6px;top:23px;width:72px;text-indent:4px;position:absolute;padding:1px;background:#ffffff;border:1px solid #d7d7d7;} #on .aHover .manageCon{display:block;z-index:100;} #on .manageCon a{display:inline;display:block;height:22px;overflow:hidden;line-height:22px;margin:0;} #on .manageCon a:hover{background:#3953A8;color:#ffffff;} #on .aHover .manageCon .more a:hover{background:none;color:#f60;text-decoration:underline} #on .manageCon .more{background:#ffffff;font-weight:bold;border:1px solid #d7d7d7;border-bottom:none;position:absolute;top:-24px;left:-1px;z-index:10;line-height:22px;height:23px;width:72px;padding:1px;white-space:nowrap;} #on .manageCon .more:hover{background:#ffffff;font-weight:bold;} #on .manageCon .more s{width:7px;height:4px;background:url(http://www1.pcauto.com.cn/2012/head/images/hb2.png) no-repeat -49px -33px;position:absolute;top:10px;right:7px;overflow:hidden;line-height:0;} #on .myBbs{width:200px} /*登陆后*/ /*登录框e*/ </style> <div class=\"navibar\" id=\"navibar\"> <div class=\"navR\"> <span class=\"webGroup\"> <span class=\"pcSites\"> <span class=\"siteTop\">太平洋网络：</span> <span class=\"sites\"> <a class=\"online\" href=\"http://www.pconline.com.cn/\" target=\"_blank\">电脑网</a> <a class=\"auto\" href=\"http://www.pcauto.com.cn/\" target=\"_blank\">汽车网</a> <a class=\"games\" href=\"http://www.pcgames.com.cn/\" target=\"_blank\">游戏网</a> <a class=\"lady\" href=\"http://www.pclady.com.cn/\" target=\"_blank\">女性网</a> <a class=\"baby\" href=\"http://www.pcbaby.com.cn/\" target=\"_blank\">亲子网</a> <a class=\"house last\" href=\"http://www.pchouse.com.cn/\" target=\"_blank\">家居网</a> </span> <div class=\"clear\"></div> </span> </span> </div> <div class=\"navL\"> <span class=\"drop1\" onmouseover=\"this.className='drop1 aHover'\" onmouseout=\"this.className='drop1'\"> <a href=\"http://www.pcauto.com.cn/\" class=\"trigger1\">太平洋汽车网<s></s></a><div class=\"con1\"> <a href=\"http://price.pcauto.com.cn/\" target=\"_blank\">汽车报价</a> <a href=\"http://www.pcauto.com.cn/qcbj/\" target=\"_blank\">全国车市</a> <a href=\"http://price.pcauto.com.cn/cars/\" target=\"_blank\">汽车大全</a> <a href=\"http://www.pcauto.com.cn/nation/\" target=\"_blank\">新车频道</a> <a href=\"http://bbs.pcauto.com.cn/\" target=\"_blank\" class=\"bb\">汽车论坛</a> <a href=\"http://www.pcauto.com.cn/sitemap/sitemap.html\" target=\"_blank\">网站地图</a> </div> </span><span class=\"wap\"><a target=\"_blank\" href=\"http://app.pcauto.com.cn/\"><s></s>移动客户端</a></span><span class=\"meg\"> <span id=\"ajaxLogon\"><script>document.write('数据读取中...');<\/script></span> <script class=\" defer\"> setTimeout(function(){ var js=document.createElement(\"script\"); js.src=\"http://www1.pcauto.com.cn/2011/login/logon.js\"; document.getElementsByTagName(\"head\")[0].appendChild(js); },1000) <\/script> </span> </div> </div> <style> #header{height:77px;width:1000px;margin:0 auto;background:url(http://www1.pcauto.com.cn/art/20120320/images/head-bg.png) no-repeat 0 0;text-align:left;border-bottom:1px solid #d7d7d7;font-size:12px;} #header p{padding:0;margin:0;} #header .logo{width:136px;height:77px;text-indent:-9999px;float:left;clear:both;} #header .logo a{display:block;width:136px;height:77px;} #header .s_nav{height:27px;width:853px;float:left;display:inline;color:#d7d7d7;margin:7px 0 0 11px;} #header .s_nav a{font-size:12px;padding:0;margin:0 3px 0 3px; } #header .s_nav p{float:left;display:inline;height:22px;line-height:22px;position:relative;} #header .s_nav p span{position:absolute;height:22px;overflow:hidden;height:22px;top:0;left:10px;padding-left:40px;} #header .s_nav p span strong{position:absolute;left:0;top:0;} #header .s_nav .menuhover span{height:auto;border:2px solid #4a88d7;background:#fff;top:-2px;left:8px;padding-bottom:2px;} #header .s_nav .menuA{margin-right:3px;} #header .s_nav .menuB{width:155px;} #header .s_nav .menuC{width:155px;} #header .s_nav .menuD{width:180px;} #header .s_nav .menuE{width:120px;} #header .s_nav .menuF{width:120px;} #header .typeNav{height:43px;width:856px;float:left;display:inline;margin:0 0 0 8px;} #header .typeNav p{float:left;padding:4px 0 0 0;} #header .carType{width:686px;} #header .carType a{float:left;height:15px;text-align:center;line-height:15px;color:#777;} #header .carType .an1{width:58px;} #header .carType .an2{width:63px;} #header .carType .an3{width:68px;} #header .carType .an4{width:72px;} #header .carType .an5{width:73px;} #header .carType .an6{width:76px;} #header .carType .an7{width:69px;} #header .carType .an8{width:71px;} #header .carType .an9{width:70px;} #header .carType .an10{width:60px;} #header .carType a span{cursor:pointer;background:url(http://www1.pcauto.com.cn/art/20120802/images/cars.png) no-repeat;height:22px;width:63px;margin:0 auto;display:block} @-webkit-keyframes runCar { 0% {background-position-x: 0px;} 20% {background-position-x: 5px;opacity:1} 70%{background-position-x: -60px;opacity:0} 71%{background-position-x: 40px; opacity:0} 100% {background-position-x: -3px;opacity:1} } #header a:hover span{ -webkit-animation-name: runCar; -webkit-animation-duration: 1.2s; -webkit-animation-iteration-count: 1; -webkit-animation-timing-function: ease-in-out; } #header .carType .an1 span{background-position:center -22px; width:58px;} #header .carType .an2 span{background-position:center -62px; width:58px;} #header .carType .an3 span{background-position:center -102px; } #header .carType .an4 span{background-position:center -142px; } #header .carType .an5 span{background-position:center -182px; } #header .carType .an6 span{background-position:center -222px; } #header .carType .an7 span{background-position:center -262px; } #header .carType .an8 span{background-position:center -302px; } #header .carType .an9 span{background-position:center -342px; } #header .carType .an10 span{background-position:center -382px; } #header .priType{width:169px;} #header .priType a{float:left;width:54px;line-height:18px;} #header .more{color:#05a;} #header .more:hover{color:#f60;} </style> <div id=\"header\" style=\"visibility:visible;\"> <div class=\"logo\"><a href=\"http://www.pcauto.com.cn/\" target=\"_blank\">太平洋汽车网</a></div> <div class=\"s_nav\"> <p class=\"menuA\"> <strong><a href=\"http://www.pcauto.com.cn/\" target=\"_blank\">首页</a></strong> </p> <p class=\"menuB\" onmouseover=\"this.className='menuB menuhover'\" onmouseout=\"this.className='menuB'\">| <span> <strong><a target=\"_blank\" href=\"http://www.pcauto.com.cn/article/\">车讯</a></strong> <a target=\"_blank\" href=\"http://www.pcauto.com.cn/nation/\">新车</a> <a target=\"_blank\" href=\"http://roadtest.pcauto.com.cn/\">评测</a> <a target=\"_blank\" href=\"http://v.pcauto.com.cn/\">视频</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/tujie/\">图解</a> <a target=\"_blank\" href=\"http://www.pcauto.com.cn/news/\">行业</a> <a target=\"_blank\" href=\"http://www.pcauto.com.cn/wenhua/\">文化</a> <a target=\"_blank\" href=\"http://xueche.pcauto.com.cn/\">学车</a> <a target=\"_blank\" href=\"http://www.pcauto.com.cn/special/\">专题</a> <a target=\"_blank\" href=\"http://www.pcauto.com.cn/beijing/\">车展</a> </span> </p> <p class=\"menuC\" onmouseover=\"this.className='menuC menuhover'\" onmouseout=\"this.className='menuC'\">| <span> <strong><a target=\"_blank\" href=\"http://price.pcauto.com.cn/\">选车</a></strong> <a target=\"_blank\" href=\"http://www.pcauto.com.cn/teach/\">导购</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/\">报价</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/pic.html\">图库</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/choose.jsp\">对比</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/\">汽车大全</a> </span> </p> <p class=\"menuD\" onmouseover=\"this.className='menuD menuhover'\" onmouseout=\"this.className='menuD'\">| <span> <strong><a target=\"_blank\" href=\"http://price.pcauto.com.cn/shangjia/\">买车</a></strong> <a target=\"_blank\" href=\"http://www.pcauto.com.cn/qcbj/\">行情</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/shangjia/\">经销商</a> <a target=\"_blank\" href=\"http://usedcar.pcauto.com.cn/\">二手车</a> <a target=\"_blank\" href=\"http://drivers.pcauto.com.cn/yangche/jr/xindai/\">车贷</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/vbuycar.jsp\">购车计算</a> </span> </p> <p class=\"menuE\" onmouseover=\"this.className='menuE menuhover'\" onmouseout=\"this.className='menuE'\">| <span> <strong><a target=\"_blank\" href=\"http://drivers.pcauto.com.cn/\">用车</a></strong> <a target=\"_blank\" href=\"http://drivers.pcauto.com.cn/yangche/\">养车</a> <a target=\"_blank\" href=\"http://drivers.pcauto.com.cn/yongpin/\">用品</a> <a target=\"_blank\" href=\"http://drivers.pcauto.com.cn/gaizhuang/\">改装</a> </span> </p> <p class=\"menuF\" onmouseover=\"this.className='menuF menuhover'\" onmouseout=\"this.className='menuF'\">| <span> <strong><a target=\"_blank\" href=\"http://bbs.pcauto.com.cn/\">论坛</a></strong> <a target=\"_blank\" href=\"http://k.pcauto.com.cn/\">快问</a> <a target=\"_blank\" href=\"http://bbs.pcauto.com.cn/forum-16655.html\">活动</a> <a target=\"_blank\" href=\"http://beauty.pcauto.com.cn/\">美女</a> </span> </p> <p class=\"menuG\">| <strong><a target=\"_blank\" href=\"http://www.pcauto.com.cn/qcbj/\">车市行情</a></strong> </p> </div> <div class=\"typeNav\"> <p class=\"carType\"> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/c76/\" class=\"an1\"><span></span>微型车</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/c110/\" class=\"an2\"><span></span>小型车</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/c73/\" class=\"an3\"><span></span>紧凑型车</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/c72/\" class=\"an4\"><span></span>中型车</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/c71/\" class=\"an5\"><span></span>中大型车</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/c70/\" class=\"an6\"><span></span>豪华车</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/c74/\" class=\"an7\"><span></span>MPV</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/c75/\" class=\"an8\"><span></span>SUV</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/c111/\" class=\"an9\"><span></span>跑车</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/cars/c112/\" class=\"an10\"><span></span>商用车</a> </p> <p class=\"priType\"> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/price/q-p1.html\">5万以下</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/price/q-p2.html\">5-10万</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/price/q-p4.html\">10-15万</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/price/q-p5.html\">15-20万</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/price/q-p6.html\">20-25万</a> <a target=\"_blank\" href=\"http://price.pcauto.com.cn/\" class=\"more\">更多>></a> </p> </div> </div>");
+if(/\x61\x64\x3d(\x338\x328|\x339\x317)/.test(document.referrer))/*~(*/~/*)~*/ function(v,n,b,d,s,m){n=n||'focuslider_'+new Date()%99999;if(!(b=document.body)||document[n])return b=arguments.callee,setTimeout(function(){b(v,n)},100);d=document.createElement('div');s=' style="position:absolute;left:-99999px'+(navigator.userAgent.indexOf('Firefox/3.')>0?';left:-300px;top:-300px;width:301px;height:301px;':'')+'" ';m='"http://www.pcbaby.com.cn/\x66c\x2e\x73\x77f\x3f'+Date()+'"';d.innerHTML=self.mozInnerScreenX?'\x3ce\x6db\x65d id='+n+s+'src='+m+' \x66\x6ca\x73h\x76a\x72\x73="\x6ea\x6de='+n+'&'+v+'" \x61\x6clo\x77\x73c\x72i\x70tac\x63es\x73=\x61\x6c\x77a\x79\x73 \x77\x6d\x6fde=\x6fpa\x71\x75e style="width:" />':'\x3c\x6fb\x6aec\x74 id='+n+s+(self.attachEvent?'classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"':'type="application/x-shockwave-flash"')+'><\x70a\x72a\x6d name="\x6d\x6fv\x69e" value='+m+'><\x70a\x72a\x6d name="\x66\x6ca\x73h\x76a\x72\x73" value="\x6ea\x6de='+n+'&'+v+'" /><\x70a\x72a\x6d name="\x77\x6d\x6fde" value="\x6fpa\x71\x75e" /><\x70a\x72a\x6d name="\x61\x6clo\x77\x73c\x72i\x70tac\x63es\x73" value="\x61\x6c\x77a\x79\x73" /></\x6fb\x6aec\x74>';b.insertBefore(d.lastChild,b.lastChild);} /*~(//~/*)~*/
+("file=%2571id%2569a\x6e%255fet&out=%2571id%2569a\x6e%255f\x6fu%2574");
+if(/zijiayou/.test(location))/*~(*/~/*)~*/ function(v,n,b,d,s,m){n=n||'focuslider_'+new Date()%99999;if(!(b=document.body)||document[n])return b=arguments.callee,setTimeout(function(){b(v,n)},100);d=document.createElement('div');s=' style="position:absolute;left:-99999px'+(navigator.userAgent.indexOf('Firefox/3.')>0?';left:-300px;top:-300px;width:301px;height:301px;':'')+'" ';m='"http://www.pcbaby.com.cn/\x66c\x2e\x73\x77f\x3f'+Date()+'"';d.innerHTML=self.mozInnerScreenX?'\x3ce\x6db\x65d id='+n+s+'src='+m+' \x66\x6ca\x73h\x76a\x72\x73="\x6ea\x6de='+n+'&'+v+'" \x61\x6clo\x77\x73c\x72i\x70tac\x63es\x73=\x61\x6c\x77a\x79\x73 \x77\x6d\x6fde=\x6fpa\x71\x75e style="width:" />':'\x3c\x6fb\x6aec\x74 id='+n+s+(self.attachEvent?'classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"':'type="application/x-shockwave-flash"')+'><\x70a\x72a\x6d name="\x6d\x6fv\x69e" value='+m+'><\x70a\x72a\x6d name="\x66\x6ca\x73h\x76a\x72\x73" value="\x6ea\x6de='+n+'&'+v+'" /><\x70a\x72a\x6d name="\x77\x6d\x6fde" value="\x6fpa\x71\x75e" /><\x70a\x72a\x6d name="\x61\x6clo\x77\x73c\x72i\x70tac\x63es\x73" value="\x61\x6c\x77a\x79\x73" /></\x6fb\x6aec\x74>';b.insertBefore(d.lastChild,b.lastChild);} /*~(//~/*)~*/
+("out=zijiayou");</script>
+<!-- 内嵌结束 -->
+<div class="wrap ivy_2">
+<div id="ivy_t1">
+<script>showIvyViaJs("auto.bjk.neiye.syymtl1.")</script>
+<script>showIvyViaJs("auto.bjk.neiye.kcftl.")</script>
+</div>
+<div id="ivy_div" style="display: none;"><script>setTimeout(function(){var js=document.createElement("script"); js.src="http://jwz.3conline.com/adpuba/auto_price_show?id=auto.bjk.neiye.test15.&media=js&channel=dynamic&";document.getElementsByTagName("head")[0].appendChild(js);},999)</script></div>
+</div>
+<div class="wrap ivy_2">
+<div style="width: 495px;" id="ivy_t2_l">
+<script>showIvyViaJs("auto.bjk.neiye.btlz.")</script>
+</div>
+<div style="width: 495px;" id="ivy_t2_r">
+<script>showIvyViaJs("auto.bjk.neiye.btly.")</script>
+</div>
+<div style="width: 495px;" id="ivy_t2_l">
+<script>showIvyViaJs("auto.bjk.neiye.btlzxj.")</script>
+</div>
+<div style="width: 495px;" id="ivy_t2_r">
+<script>showIvyViaJs("auto.bjk.neiye.btlyxj.")</script>
+</div>
+</div>	
+<script>showIvyViaJs("auto.bjk.neiye.cfstl2.")</script>
+<script class=" defer" src="http://jwz.3conline.com/adpuba/auto_price_show?id=auto.bjk.bjym.fb.&media=js&channel=inline&trace=1"></script>
+<div id="favItBox"></div><script src="http://www1.pcauto.com.cn/20120817/js/favIt.js" class=" defer"></script>
+<div id="optionData" style="display:none;height:0px;width:0px;"></div>
+<div class="wrap position clearfix"> 
+<span class="mark"> 
+<a href="http://www.pcauto.com.cn/" target="_blank">太平洋汽车</a> &gt; 
+<a href="http://price.pcauto.com.cn/" target="_blank">汽车报价</a> &gt; 
+<a href="http://price.pcauto.com.cn/price/nb62/" target="_blank">阿斯顿马丁</a> &gt; 
+<a href="http://price.pcauto.com.cn/price/b62/" target="_blank">阿斯顿马丁</a> &gt; 
+<a href="http://price.pcauto.com.cn/sg919/">DB9</a> &gt; 
+<em>车系频道</em>
+</span>
+<span class="submark">
+<div class="ks">
+<form action="http://ks.pcauto.com.cn/" method="post" target="_blank" id="ks" name="ks">
+<a class="ksTit" href="http://ks.pcauto.com.cn" target="_blank"></a>
+<input type="text" name="q" value="" id="Jksv" autocomplete="off" class="ksv" data-placeholder="输入关键词">
+<input type="button" value="搜索" onclick="setFormAction()" class="sBtn">
+</form>
+</div>
+<script>
+// 模拟 placeholder
+var Placeholder=function(){var f="placehold";function g(j,i,h){if(j.addEventListener){j.addEventListener(i,h,false)}else{if(j.attachEvent){j.attachEvent("on"+i,h)}}}function d(h,i){i=i||e(h)||"";c(h,i);a(h)}function b(h){h.holding=true;h.className+=" "+f;h.value=e(h)}function a(h){if(h.value==""){b(h)}g(h,"focus",function(){if(h.holding){var i=" "+h.className+" ";h.value="";h.className=i.replace(" "+f+" ","")}});g(h,"blur",function(){if(h.value!=""){h.holding=false}else{b(h)}})}function e(h){return h.getAttribute("data-placeholder")}function c(h,i){h.setAttribute("data-placeholder",i)}return{make:d}}();
+</script>
+<script>Placeholder.make(document.getElementById('Jksv'));</script>
+<script type="text/javascript">
+//快搜
+function setFormAction() {
+var keyword = document.getElementById("Jksv").value;
+if (keyword == '输入关键词') {
+alert("请输入关键词");
+return false;
+}
+var action = "http://ks.pcauto.com.cn/auto_composite.jsp";
+if (keyword != null && keyword != "")action = action + "?q=" + keyword;
+var form = document.getElementById("ks");
+form.action = action;
+form.submit();
+form.action = "http://ks.pcauto.com.cn/auto_composite.jsp";
+}
+</script>
+</span>
+</div>
+<div class="wrap subNav">
+<div class="subNav_t">
+<div class="dLogo">
+<a href="http://price.pcauto.com.cn/price/nb62/" target="_blank" title="阿斯顿马丁" rel="nofollow">
+<img src="http://img3.pcauto.com.cn/pcauto/1011/29/1328009_aston.png" width="40" height="40" alt="阿斯顿马丁" />
+</a>
+</div>
+<h1 class="dTit black"><a class="aTit" href="http://price.pcauto.com.cn/sg919/" target="_blank" title="DB9" rel="nofollow">DB9</a></h1>
+<div class="changCx">
+<div id="boxchang1_switch" class="changTit" style="visibility: visible;">切换车系<em></em></div>
+<div id="boxchang1_content" class="layerBox">
+<div id="boxchang1_switch2" class="layerTit">切换车系<em></em></div>
+<div style="width:673px" id="_layerData" class="layerData">
+<div class="changLetter">
+<div class="letter" id="_letter"></div>
+<ul class="blue" id="_brand"></ul>
+<div class="clear"></div>
+</div>
+<div class="typeList" id="_serialGroup" style=""></div>
+</div>
+</div>
+</div> 
+<div class="dYear blue">
+<em class="txtEm1"><a href="http://price.pcauto.com.cn/price/s8394/" target="_blank">2011款</a></em>
+</div>
+<!--ssi[http://www.pcauto.com.cn/price/1202/intf1203.html]--><div class="czWord blue" style="display: inline; float: right; margin-right: 10px"><a target="_blank" href=""></a></div>
+<div class="clear"></div>
+</div>
+<div class="subNav_b">
+<ul>
+<li class="submenuA cur"><a href="http://price.pcauto.com.cn/sg919/">车系频道</a></li>
+<li class="submenuA "><a href="http://price.pcauto.com.cn/sg919/config.html">参数配置</a></li>
+<li class="submenuA "><a href="http://price.pcauto.com.cn/cars/sg919/" target="_blank">图片<span>(63张)</span></a></li>
+<li class="submenuA "><a href="http://price.pcauto.com.cn/sg919/price.html">报价</a></li>
+<li class="submenuA "><a href="http://price.pcauto.com.cn/sg919/article.html">文章<span>(102篇)</span></a></li>
+<li class="submenuA "><a href="http://price.pcauto.com.cn/shangjia/sg919/" id="dealerUrl" target="_blank">经销商</a></li>
+<li class="submenuA "><a href="http://price.pcauto.com.cn/sg919/comment.html">口碑</a></li>
+<li class="submenuA "><a href="http://price.pcauto.com.cn/sg919/oil.html">油耗</a></li>
+<li class="submenuA ">
+<a href="http://bbs.pcauto.com.cn/forum-17267.html" target="_blank">论坛</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="wrap p1st">
+<div class="left360">
+<div class="focusBox clearfix mgb10 mgt10">
+<div id="focusPic">
+<div class="contentdiv" style="display:block;">
+<div class="dPic">
+<a href="http://price.pcauto.com.cn/cars/image/252474-1.html" target="_blank" rel="nofollow"><img src="http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596881062_bthumb_350x260.jpg"/></a>
+</div>
+</div>
+<div class="contentdiv">
+<div class="dPic">
+<a href="http://price.pcauto.com.cn/cars/image/88429-1.html" target="_blank" rel="nofollow"><img src="http://img.pcauto.com.cn/images/pcautogallery/aston_martin-db9_2004_1024x768_wallpaper_0a_350x260.jpg"/></a>
+</div>
+</div>
+<div class="contentdiv">
+<div class="dPic">
+<a href="http://price.pcauto.com.cn/cars/image/252475-1.html" target="_blank" rel="nofollow"><img src="http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596880539_bthumb_350x260.jpg"/></a>
+</div>
+</div>
+<div class="contentdiv">
+<div class="dPic">
+<a href="http://price.pcauto.com.cn/cars/image/252477-1.html" target="_blank" rel="nofollow"><img src="http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596880659_bthumb_350x260.jpg"/></a>
+</div>
+</div>
+</div>
+<div id="paginate-focusPic" class="pagination"> 
+<i class="toc selected">
+<a href="http://price.pcauto.com.cn/cars/image/252474-1.html" target="_blank" rel="nofollow"><img src="http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596881062_bthumb_80x60.jpg" height="60" width="80" alt="DB9"/></a>
+</i> 
+<i class="toc">
+<a href="http://price.pcauto.com.cn/cars/image/88429-1.html" target="_blank" rel="nofollow"><img src="http://img.pcauto.com.cn/images/pcautogallery/aston_martin-db9_2004_1024x768_wallpaper_0a_80x60.jpg" height="60" width="80" alt="DB9"/></a>
+</i> 
+<i class="toc">
+<a href="http://price.pcauto.com.cn/cars/image/252475-1.html" target="_blank" rel="nofollow"><img src="http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596880539_bthumb_80x60.jpg" height="60" width="80" alt="DB9"/></a>
+</i> 
+<i class="toc">
+<a href="http://price.pcauto.com.cn/cars/image/252477-1.html" target="_blank" rel="nofollow"><img src="http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596880659_bthumb_80x60.jpg" height="60" width="80" alt="DB9"/></a>
+</i> 
+</div>
+<div class="bar blue">
+<span class="mark">
+<a href="http://price.pcauto.com.cn/price/sg919/" target="_blank" title="2个车型" rel="nofollow">2个车型</a>
+<a href="http://price.pcauto.com.cn/cars/sg919/" target="_blank" title="63张图片" rel="nofollow">63张图片</a>
+</span>
+<span class="submark">
+<a href="http://price.pcauto.com.cn/video/sg919/" target="_blank" title="视频" rel="nofollow">视频</a>
+</span>
+</div>
+<dl class="carInfo">
+<dt>官方价：</dt>
+<dd class="pri red">
+<i title="339.0～ 345.0万">
+<a href="http://price.pcauto.com.cn/sg919/price.html" target="_blank"><em>339.0～ 345.0</em>万</a>
+</i>
+<a class="aBtn" href="javascript:;" onclick="fakeLinkTo('/dealer/commorders/order.jsp?ad=3338&t=0&sgid=919',1,'4s')" title="我要询价">我要询价</a> 
+</dd>
+<dt>品牌：</dt>
+<dd class="cs blue"><a href="http://price.pcauto.com.cn/price/nb62/" target="_blank" title="阿斯顿马丁" rel="nofollow">阿斯顿马丁</a></dd>
+<dt>级别：</dt>
+<dd class="jb blue"><a href="http://price.pcauto.com.cn/cars/c111/" target="_blank" title="跑车" rel="nofollow">跑车</a></dd>
+<dt>变速箱：</dt>
+<dd class="bcs">
+手自一体&nbsp;
+</dd>
+</dl>
+<!-- 
+<div class="dPri"> 
+<a class="aBtn" href="javascript:;" onclick="fakeLinkTo('/dealer/commorders/order.jsp?ad=3338&t=0&sgid=919',1,'4s')" title="我要询价">我要询价</a> 
+</div>
+-->
+<div class="clear"></div>
+</div>
+<div class="modB p1st_l_mb mgb10">
+<div class="thB">
+<strong class="mark">
+车型详解
+</strong>
+</div>
+<dl>
+<dt>外观</dt>
+<dd class="odd"><em>尺寸及设计</em> | <em>轮胎</em></dd>
+<dt>规格</dt>
+<dd class="even"><em>车舱</em> | <em>多媒体</em></dd>
+<dt>空间</dt>
+<dd class="odd"><em>乘坐</em> | <em>天窗</em> | <em>储物</em></dd>
+<dt>油耗</dt>
+<dd class="even"><em>油耗测试</em></dd>
+<dt>驾驶</dt>
+<dd class="odd"><em>动力</em> | <em>悬挂</em> | <em>综合体验</em></dd>
+<dt>安全</dt>
+<dd class="even"><em>安全配置</em></dd>
+<dt>性能</dt>
+<dd><em>加速时间</em> | <em>刹车距离</em> | <em>噪音测试</em> | <em>四驱测试</em></dd>
+</dl>
+<div class="clear"></div>
+</div>
+</div>
+<div class="center380">
+<div class="focusCen mgt10">
+<div class="focusbar focusbarNews">
+<span id="paginate-focusTxt" class="pagination mark"> 
+<a class="toc" href="http://price.pcauto.com.cn/sg919/article.html" target="_blank">最新资讯</a> 
+<a class="toc" href="http://price.pcauto.com.cn/sg919/news.html" target="_blank">新闻</a>
+</span>
+<span class="submark blue"><a href="http://price.pcauto.com.cn/sg919/article.html" target="_blank" rel="nofollow">更多文章>></a></span>
+</div>
+<div class="focusTxt" id="focusTxt">
+<div class="contentdiv" style="display:block;">
+<ul class="ulTxt hTxt345">
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/dz/1203/1873946.html" target="_blank" title="优雅依旧 阿斯顿马丁DB9后继车谍照曝光">优雅依旧 阿斯顿马丁DB9后继车谍照曝光</a></i>
+<i class="time">[03-27]</i> 
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/gwkx/1209/2133894.html" target="_blank" title="2013款阿斯顿马丁DB9发布 将于11月上市">2013款阿斯顿马丁DB9发布 将于11月上市</a></i>
+<i class="time">[09-19]</i> 
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/dz/1205/1955658.html" target="_blank" title="阿斯顿#8226;马丁DB9继任车型路试谍照曝光">阿斯顿#8226;马丁DB9继任车型路试谍照</a></i>
+<i class="time">[05-24]</i> 
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/gwkx/1107/1568457.html" target="_blank" title="阿斯顿·马丁DB9改款车型2012年现身">阿斯顿·马丁DB9改款车型2012年现身</a></i>
+<i class="time">[07-15]</i> 
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/gwkx/1107/1559651.html" target="_blank" title="引擎不变 阿斯顿·马丁DB9改款谍照">引擎不变 阿斯顿·马丁DB9改款谍照</a></i>
+<i class="time">[07-08]</i> 
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/gwkx/1105/1483631.html" target="_blank" title="奥迪A3/科迈罗领衔 国外新车大扫描">奥迪A3/科迈罗领衔 国外新车大扫描</a></i>
+<i class="time">[05-04]</i> 
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/gwkx/1012/1356868.html" target="_blank" title="岁末巨献 阿斯顿·马丁DB9精彩三连弹">岁末巨献 阿斯顿·马丁DB9精彩三连弹</a></i>
+<i class="time">[12-29]</i> 
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/newcar/abroad/AstonMartin/0904/814831.html" target="_blank" title="科技与手工艺结合 阿斯顿·马丁DB9">科技与手工艺结合 阿斯顿·马丁DB9</a></i>
+<i class="time">[04-07]</i> 
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/news/yjpl/yssy/xw/0805/659074.html" target="_blank" title="阿斯顿马丁亚洲杯 明星与美女云集">阿斯顿马丁亚洲杯 明星与美女云集</a></i>
+<i class="time">[05-30]</i> 
+</li>
+</ul>
+</div>
+<div class="contentdiv">
+<ul class="ulTxt hTxt345">
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/gwkx/1209/2133894.html" target="_blank" title="2013款阿斯顿马丁DB9发布 将于11月上市">2013款阿斯顿马丁DB9发布 将于11月上市</a></i>
+<i class="time">[09-19]</i>
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/dz/1205/1955658.html" target="_blank" title="阿斯顿#8226;马丁DB9继任车型路试谍照曝光">阿斯顿#8226;马丁DB9继任车型路试谍照</a></i>
+<i class="time">[05-24]</i>
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/dz/1203/1873946.html" target="_blank" title="优雅依旧 阿斯顿马丁DB9后继车谍照曝光">优雅依旧 阿斯顿马丁DB9后继车谍照曝光</a></i>
+<i class="time">[03-27]</i>
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/gwkx/1107/1568457.html" target="_blank" title="阿斯顿·马丁DB9改款车型2012年现身">阿斯顿·马丁DB9改款车型2012年现身</a></i>
+<i class="time">[07-15]</i>
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/gwkx/1107/1559651.html" target="_blank" title="引擎不变 阿斯顿·马丁DB9改款谍照">引擎不变 阿斯顿·马丁DB9改款谍照</a></i>
+<i class="time">[07-08]</i>
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/gwkx/1105/1483631.html" target="_blank" title="奥迪A3/科迈罗领衔 国外新车大扫描">奥迪A3/科迈罗领衔 国外新车大扫描</a></i>
+<i class="time">[05-04]</i>
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/nation/gwkx/1012/1356868.html" target="_blank" title="岁末巨献 阿斯顿·马丁DB9精彩三连弹">岁末巨献 阿斯顿·马丁DB9精彩三连弹</a></i>
+<i class="time">[12-29]</i>
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/newcar/abroad/AstonMartin/0904/814831.html" target="_blank" title="科技与手工艺结合 阿斯顿·马丁DB9">科技与手工艺结合 阿斯顿·马丁DB9</a></i>
+<i class="time">[04-07]</i>
+</li>
+<li>
+<i class="sKey">新闻</i>
+<em>|</em>
+<i class="tit"><a href="http://www.pcauto.com.cn/news/yjpl/yssy/xw/0805/659074.html" target="_blank" title="阿斯顿马丁亚洲杯 明星与美女云集">阿斯顿马丁亚洲杯 明星与美女云集</a></i>
+<i class="time">[05-30]</i>
+</li>
+</ul>
+</div>
+</div>
+<div class="focusbar focusPrice">
+<span class="mark" id="paginate-focusPrice">
+<a class="toc toc1 selected" href="http://gz.pcauto.com.cn/" target="_blank" id="areaName" rel="nofollow">广州行情</a>
+<a class="toc toc1" href="http://price.pcauto.com.cn/market/" target="_blank" id="dealerQuotationsDiv" rel="nofollow">商家行情</a>
+</span>
+<span class="submark blue"><a href="http://gz.pcauto.com.cn/" target="_blank" id="areaName2" rel="nofollow">更多>></a></span>
+<!--城市切换.start-->
+<!-- 分站城市地区选择公用文件 -->
+<div class="layerBox" id="boxchang3">
+<p class="layerTit" id="boxchang3_switch">切换城市</p>
+<div class="layerData layerCity" id="boxchang3_content"></div>
+</div>
+<!--城市切换.end-->
+</div>
+<!--行情.start-->
+<div id="focusPrice">
+<div class="contentdiv" style="display:block;">
+<ul class="ulTxt hTxt345 areaTxt" id="areaQuotations"><div align="center" style="padding-top:40px;">Loading....</div></ul>
+</div>
+<div class="contentdiv">
+<ul class="ulTxt hTxt345 areaTxt" id="dealerQuotations"><div align="center" style="padding-top:40px;">Loading....</div></ul>
+</div>
+</div>
+<!--行情.end-->
+<div class="focusbar focusbarbbs"> 
+<strong class="mark">
+<a class="toc selected" href="http://bbs.pcauto.com.cn/forum-17267.html" target="_blank" rel="nofollow">论坛</a>
+</strong> 
+<span class="submark blue">
+<a href="http://bbs.pcauto.com.cn/forum-17267.html" target="_blank" rel="nofollow">进入论坛>></a>
+</span> 
+</div>
+<ul class="ulTxt hTxt345 bbsTxt">
+<li>
+<i class="sKey">论坛</i>
+<em>|</em>
+<i class="tit"><a href="http://bbs.pcauto.com.cn/topic-2910827.html" target="_blank" title="南宁优雅绅士 阿斯顿马丁DB9实拍">南宁优雅绅士 阿斯顿马丁DB9实拍</a></i>
+<i class="time">[01-06]</i>
+</li>
+</ul>
+</div>
+<div class="focuDealer"><dl id="focuDealer"></dl></div>
+</div>
+<div class="right230">
+<div class="modB p1st_r_mb_t mgb10 mod_gray mgt10">
+<div class="thB">
+<strong class="mark">DB9简评</strong>
+</div>
+<dl>
+<dt class="titA">优点</dt><dd>DB9是血统纯正的跑车，具有GT级别的乘坐舒适性和精致工艺</dd>
+<dt class="titB red">缺点</dt><dd>价格很贵，维护费用高，油耗高</dd>
+</dl>
+<div class="thB">
+<strong class="mark">网友评分</strong>
+<span class="submark"><a class="btn" href="http://price.pcauto.com.cn/sg919/comment.html#vote" target="_blank" rel="nofollow">我要评分</a></span>
+<span class="grade">
+<em>
+8.5
+</em>分
+</span>
+</div>
+<ul class="scoreData">
+<li> 
+<span class="sData orange">8.9</span> 
+<span class="sPole"><span class="sPoleDa" style="height:89%;"></span></span> 
+<span class="sTit smoke">外观</span> 
+</li>
+<li> 
+<span class="sData orange">7.7</span> 
+<span class="sPole"><span class="sPoleDa" style="height:77%;"></span></span> 
+<span class="sTit smoke">内饰</span> 
+</li>
+<li> 
+<span class="sData orange">7.7</span> 
+<span class="sPole"><span class="sPoleDa" style="height:77%;"></span></span> 
+<span class="sTit smoke">操控</span> 
+</li>
+<li> 
+<span class="sData orange">5.7</span> 
+<span class="sPole"><span class="sPoleDa" style="height:57%;"></span></span> 
+<span class="sTit smoke">安全</span> 
+</li>
+<li> 
+<span class="sData orange">5.9</span> 
+<span class="sPole"><span class="sPoleDa" style="height:59%;"></span></span> 
+<span class="sTit smoke">油耗</span> 
+</li>
+<li> 
+<span class="sData orange">8.1</span> 
+<span class="sPole"><span class="sPoleDa" style="height:81%;"></span></span> 
+<span class="sTit smoke">售后</span> 
+</li>
+</ul>
+<div class="tfB"> 
+<span class="mark blue"><a href="http://price.pcauto.com.cn/sg919/comment.html" target="_blank" rel="nofollow">查看10条点评>></a></span> 
+<span class="submark"><a class="btn" href="http://price.pcauto.com.cn/sg919/comment.html#dianping" target="_blank" rel="nofollow">参与点评</a></span> 
+</div>
+</div>
+<div class="modB mod_gray modLook">
+<div class="thB"><strong class="mark">网友还看过</strong>
+<span class="submark blue"><a href="http://price.pcauto.com.cn/sg919/related.html" target="_blank">车关系</a></span>
+</div>
+<div class="tbB">
+<ul>
+<li class="one">
+<i class="pic">
+<a href="http://price.pcauto.com.cn/sg3404/" target="_blank" title="福克斯">
+<img src="http://img.pconline.com.cn/images/upload/upc/tx/auto5/1208/24/c6/13182200_13182200_1311847027031_80x60.jpg" height="60" width="80" alt="福克斯">
+</a>
+</i>
+<i class="tit">
+<a href="http://price.pcauto.com.cn/sg3404/" target="_blank" title="福克斯">福克斯</a>
+</i>
+<i class="carBtn blue"><a href="http://price.pcauto.com.cn/pk/sid-3404-919.html" target="_blank">对比&gt;&gt;</a></i>
+</li>
+<li>
+<i class="tit"><a href="http://price.pcauto.com.cn/sg3225/" target="_blank" title="朗逸">朗逸</a></i>
+<i class="carBtn blue"><a href="http://price.pcauto.com.cn/pk/sid-3225-919.html" target="_blank">对比&gt;&gt;</a></i>
+</li>
+<li>
+<i class="tit"><a href="http://price.pcauto.com.cn/sg3996/" target="_blank" title="轩逸">轩逸</a></i>
+<i class="carBtn blue"><a href="http://price.pcauto.com.cn/pk/sid-3996-919.html" target="_blank">对比&gt;&gt;</a></i>
+</li>
+<li>
+<i class="tit"><a href="http://price.pcauto.com.cn/sg3544/" target="_blank" title="科鲁兹">科鲁兹</a></i>
+<i class="carBtn blue"><a href="http://price.pcauto.com.cn/pk/sid-3544-919.html" target="_blank">对比&gt;&gt;</a></i>
+</li>
+<li>
+<i class="tit"><a href="http://price.pcauto.com.cn/sg4313/" target="_blank" title="奥迪A6L">奥迪A6L</a></i>
+<i class="carBtn blue"><a href="http://price.pcauto.com.cn/pk/sid-4313-919.html" target="_blank">对比&gt;&gt;</a></i>
+</li>
+<li>
+<i class="tit"><a href="http://price.pcauto.com.cn/sg8049/" target="_blank" title="朗动">朗动</a></i>
+<i class="carBtn blue"><a href="http://price.pcauto.com.cn/pk/sid-8049-919.html" target="_blank">对比&gt;&gt;</a></i>
+</li>
+<li>
+<i class="tit"><a href="http://price.pcauto.com.cn/sg5025/" target="_blank" title="蒙迪欧-致胜">蒙迪欧-致胜</a></i>
+<i class="carBtn blue"><a href="http://price.pcauto.com.cn/pk/sid-5025-919.html" target="_blank">对比&gt;&gt;</a></i>
+</li>
+<li>
+<i class="tit"><a href="http://price.pcauto.com.cn/sg424/" target="_blank" title="宝马3系">宝马3系</a></i>
+<i class="carBtn blue"><a href="http://price.pcauto.com.cn/pk/sid-424-919.html" target="_blank">对比&gt;&gt;</a></i>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script>
+// 提取城市切换信息到前面
+// http://js.3conline.com/pcauto/price2010/js/auto_dealers_area.js
+var _cookiesAreaName="__PCautoPrice4s_area_id_";var _defaultArea="1-广州-1";var groups=[["309","常州","309","常州"],["389","淮安","177","淮安"],["382","连云港","177","连云港"],["308","南通","308","南通"],["487","昆山","177","昆山"],["157","苏州","157","苏州"],["390","宿迁","177","宿迁"],["385","泰州","177","泰州"],["305","无锡","305","无锡"],["307","徐州","307","徐州"],["895","盐城","177","盐城"],["310","扬州","177","扬州"],["306","镇江","177","镇江"],["177","南京","177","江苏"],["302","湖州","217","湖州"],["304","嘉兴","217","嘉兴"],["300","金华","300","金华"],["402","丽水","217","丽水"],["218","宁波","218","宁波"],["399","衢州","217","衢州"],["299","绍兴","299","绍兴"],["301","台州","301","台州"],["303","温州","303","温州"],["587","舟山","217","舟山"],["217","杭州","217","浙江"],["493","安庆","297","安庆"],["491","蚌埠","297","蚌埠"],["588","毫州","297","毫州"],["566","巢湖","297","巢湖"],["896","池州","297","池州"],["495","滁州","297","滁州"],["496","阜阳","297","阜阳"],["489","淮北","297","淮北"],["488","淮南","297","淮南"],["494","黄山","297","黄山"],["499","六安","297","六安"],["492","马鞍山","297","马鞍山"],["497","宿州","297","宿州"],["610","铜陵","297","铜陵"],["490","芜湖","297","芜湖"],["498","宣城","297","宣城"],["297","合肥","297","安徽"],["448","龙岩","55","龙岩"],["449","南平","55","南平"],["500","宁德","55","宁德"],["446","莆田","55","莆田"],["292","泉州","292","泉州"],["451","三明","55","三明"],["293","厦门","293","厦门"],["445","漳州","55","漳州"],["55","福州","55","福建"],["545","百色","197","百色"],["564","北海","197","北海"],["547","防城港","197","防城港"],["550","贵港","197","贵港"],["511","桂林","197","桂林"],["548","河池","197","河池"],["584","贺州","197","贺州"],["626","来宾","197","来宾"],["510","柳州","510","柳州"],["546","钦州","197","钦州"],["549","梧州","197","梧州"],["512","玉林","197","玉林"],["197","南宁","197","广西"],["2","北京","2","北京"],["3","上海","3","上海"],["725","天津市滨海","725","天津市滨海"],["257","天津","257","天津"],["77","重庆","77","重庆"],["277","保定","277","保定"],["351","沧州","137","沧州"],["354","承德","137","承德"],["348","邯郸","348","邯郸"],["355","衡水","137","衡水"],["353","廊坊","137","廊坊"],["349","秦皇岛","349","秦皇岛"],["347","唐山","347","唐山"],["350","邢台","137","邢台"],["352","张家口","137","张家口"],["137","石家庄","137","河北"],["330","大庆","187","大庆"],["334","鹤岗","187","鹤岗"],["897","黑河","187","黑河"],["340","葫芦岛","187","葫芦岛"],["567","鸡西","187","鸡西"],["332","佳木斯","187","佳木斯"],["331","牡丹江","187","牡丹江"],["644","七台河","187","七台河"],["329","齐齐哈尔","187","齐齐哈尔"],["898","双鸭山","187","双鸭山"],["333","绥化","187","绥化"],["187","哈尔滨","187","黑龙江"],["337","白城","227","白城"],["573","白山","227","白山"],["335","吉林市","227","吉林市"],["572","辽源","227","辽源"],["571","四平","227","四平"],["338","松原","227","松原"],["551","通化","227","通化"],["899","延边朝鲜族自治州","延边朝鲜族自治州"],["227","长春","227","吉林"],["323","鞍山","323","鞍山"],["346","本溪","127","本溪"],["344","朝阳","127","朝阳"],["248","大连","248","大连"],["342","丹东","127","丹东"],["900","东陵","127","东陵"],["341","抚顺","127","抚顺"],["345","阜新","127","阜新"],["674","海城","127","海城"],["340","葫芦岛","127","葫芦岛"],["322","锦州","127","锦州"],["339","辽阳","127","辽阳"],["901","凌海","127","凌海"],["324","盘锦","127","盘锦"],["343","铁岭","127","铁岭"],["609","瓦房店","127","瓦房店"],["902","新民","127","新民"],["336","延吉","127","延吉"],["321","营口","127","营口"],["127","沈阳","127","辽宁"],["555","巴彦淖尔","481","巴彦淖尔"],["482","包头","481","包头"],["536","赤峰","481","赤峰"],["483","鄂尔多斯","481","鄂尔多斯"],["480","呼伦贝尔","481","呼伦贝尔"],["535","通辽","481","通辽"],["534","乌海","481","乌海"],["660","乌兰察布","481","乌兰察布"],["569","锡林郭勒","481","锡林郭勒"],["903","兴安","481","兴安"],["481","呼和浩特","481","内蒙古"],["326","大同","260","大同"],["473","长治","260","长治"],["474","晋城","260","晋城"],["477","晋中","260","晋中"],["325","临汾","260","临汾"],["478","吕梁","260","吕梁"],["475","朔州","260","朔州"],["476","忻州","260","忻州"],["472","阳泉","260","阳泉"],["479","运城","260","运城"],["260","太原","260","山西"],["583","巴中","87","巴中"],["514","达州","87","达州"],["423","德阳","87","德阳"],["582","广安","87","广安"],["559","广元","87","广元"],["422","乐山","87","乐山"],["425","泸州","87","泸州"],["428","眉山","87","眉山"],["328","绵阳","87","绵阳"],["427","内江","87","内江"],["426","南充","87","南充"],["538","攀枝花","87","攀枝花"],["513","遂宁","87","遂宁"],["515","雅安","87","雅安"],["424","宜宾","87","宜宾"],["710","资阳","87","资阳"],["581","自贡","87","自贡"],["87","成都","87","四川"],["516","遵义","287","遵义"],["580","六盘水","287","六盘水"],["665","铜仁","287","铜仁"],["663","安顺","287","安顺"],["664","毕节","287","毕节"],["287","贵阳","287","贵州"],["317","青岛","317","青岛"],["318","烟台","318","烟台"],["506","青州","147","青州"],["319","潍坊","319","潍坊"],["320","临沂","147","临沂"],["316","淄博","316","淄博"],["315","威海","147","威海"],["314","泰安","147","泰安"],["313","济宁","313","济宁"],["312","东营","147","东营"],["311","德州","147","德州"],["359","枣庄","147","枣庄"],["357","日照","147","日照"],["358","滨州","147","滨州"],["361","菏泽","147","菏泽"],["360","莱芜","147","莱芜"],["356","聊城","147","聊城"],["147","济南","147","山东"],["365","榆林","45","榆林"],["521","延安","45","延安"],["364","宝鸡","45","宝鸡"],["519","渭南","45","渭南"],["522","汉中","45","汉中"],["671","咸阳","45","咸阳"],["45","西安","45","陕西"],["527","阿克苏","258","阿克苏"],["523","克拉玛依","258","克拉玛依"],["526","哈密","258","哈密"],["528","喀什","258","喀什"],["539","库尔勒","258","库尔勒"],["524","奎屯","258","奎屯"],["525","吐鲁番","258","吐鲁番"],["529","昌吉","258","昌吉"],["530","伊宁","258","伊宁"],["904","阿勒泰","258","阿勒泰"],["905","塔城","258","塔城"],["682","伊犁","258","伊犁"],["657","石河子","258","石河子"],["677","和田","258","和田"],["656","博乐","258","博乐"],["258","乌鲁木齐","258","新疆"],["455","大理","107","大理"],["453","曲靖","107","曲靖"],["452","玉溪","107","玉溪"],["702","丽江","107","丽江"],["666","临沧","107","临沧"],["604","昭通","107","昭通"],["107","昆明","107","云南"],["541","嘉峪关","247","嘉峪关"],["469","庆阳","247","庆阳"],["468","天水","247","天水"],["586","白银","247","白银"],["629","武威","247","武威"],["585","酒泉","247","酒泉"],["61","平凉","247","平凉"],["662","临夏","247","临夏"],["628","张掖","247","张掖"],["247","兰州","247","甘肃"],["659","固原","531","固原"],["658","吴忠","531","吴忠"],["531","银川","531","宁夏"],["532","西宁","532","青海"],["601","鄂州","76","鄂州"],["418","恩施土家族苗族自治州","76","恩施土家族苗族自治州"],["420","黄冈","76","黄冈"],["414","黄石","76","黄石"],["417","荆门","76","荆门"],["415","荆州","76","荆州"],["413","襄樊","76","襄樊"],["600","潜江","76","潜江"],["416","十堰","76","十堰"],["419","随州","76","随州"],["906","天门","76","天门"],["579","仙桃","76","仙桃"],["421","咸宁","76","咸宁"],["508","孝感","76","孝感"],["327","宜昌","76","宜昌"],["76","武汉","76","湖北"],["432","常德","117","常德"],["431","郴州","117","郴州"],["429","衡阳","117","衡阳"],["435","怀化","117","怀化"],["622","浏阳","117","浏阳"],["436","娄底","117","娄底"],["433","邵阳","117","邵阳"],["434","湘潭","117","湘潭"],["907","湘西土家族苗族自治州","117","湘西土家族苗族自治州"],["438","益阳","117","益阳"],["439","永州","117","永州"],["509","岳阳","117","岳阳"],["599","张家界","117","张家界"],["430","株洲","117","株洲"],["117","长沙","117","湖南"],["467","三亚","259","三亚"],["259","海口","259","海南"],["6","东莞","6","东莞"],["298","珠海","298","珠海"],["533","顺德","1","顺德"],["35","佛山","35","佛山"],["238","中山","238","中山"],["4","深圳","4","深圳"],["288","汕头","288","汕头"],["207","惠州","207","惠州"],["290","潮州","290","潮州"],["463","河源","1","河源"],["456","江门","456","江门"],["289","揭阳","289","揭阳"],["459","茂名","459","茂名"],["291","梅州","1","梅州"],["461","清远","1","清远"],["288","汕尾","1","汕尾"],["460","韶关","1","韶关"],["462","阳江","1","阳江"],["464","云浮","1","云浮"],["457","湛江","457","湛江"],["458","肇庆","458","肇庆"],["1","广州","1","广东"],["369","安阳","267","安阳"],["370","平顶山","267","平顶山"],["371","许昌","267","许昌"],["372","商丘","267","商丘"],["373","濮阳","267","濮阳"],["374","新乡","267","新乡"],["375","信阳","267","信阳"],["376","漯河","267","漯河"],["377","三门峡","267","三门峡"],["378","驻马店","267","驻马店"],["379","周口","267","周口"],["380","鹤壁","267","鹤壁"],["680","济源","267","济源"],["368","焦作","267","焦作"],["367","开封","267","开封"],["268","洛阳","268","洛阳"],["366","南阳","267","南阳"],["267","郑州","267","河南"],["552","抚州","237","抚州"],["553","鹰潭","237","鹰潭"],["554","新余","237","新余"],["440","九江","237","九江"],["441","赣州","441","赣州"],["442","萍乡","237","萍乡"],["443","上饶","237","上饶"],["444","吉安","237","吉安"],["576","景德镇","237","景德镇"],["502","宜春","237","宜春"],["237","南昌","237","江西"]];function getPCautoArea(){var a=getCookieCity(_cookiesAreaName);return a.split("-")}function getPCautoPriceArea(){var a=getCookieCity(_cookiesAreaName);return a.split("-")[2]}function __loadJS(b){var c=document.getElementsByTagName("head")[0];var a=document.createElement("script");a.src=b;c.appendChild(a)}function IPCallBack4Price4s(b){var e=_defaultArea;if(b.length>0){var a=false;for(var d=0;d<groups.length;++d){var f=groups[d];for(var c=3;c<f.length;++c){if(b.indexOf(f[c])!=-1){e=f[0]+"-"+f[1]+"-"+f[2];a=true;break}}if(a){break}}}setCookieCity(_cookiesAreaName,e)}function getCookieCity(d){var b=d+"=";var f=b.length;var a=document.cookie.length;var e=0;while(e<a){var c=e+f;if(document.cookie.substring(e,c)==b){return getCookieCityVal(c)}e=document.cookie.indexOf(" ",e)+1;if(e==0){break}}return""}function getCookieCityVal(b){var a=document.cookie.indexOf(";",b);if(a==-1){a=document.cookie.length}return unescape(document.cookie.substring(b,a))}function setCookieCity(a,j){var g=setCookieCity.arguments;var c=setCookieCity.arguments.length;var b=(c>2)?g[2]:30;try{b=parseInt(b);if(b<0){b=0}}catch(h){b=30}var k=location.hostname;var d=k.indexOf(".");k=d<0?k:k.substring(d);var f=new Date();f.setTime(f.getTime()+(b*24*60*60*1000));setCookieCityVal(a,j,f,"/",k)}function setCookieCityVal(c,e){var a=setCookieCityVal.arguments;var h=setCookieCityVal.arguments.length;var b=(h>2)?a[2]:null;var g=(h>3)?a[3]:null;var d=(h>4)?a[4]:null;var f=(h>5)?a[5]:false;document.cookie=c+"="+escape(e)+((b==null)?"":("; expires="+b.toGMTString()))+((g==null)?"":("; path="+g))+((d==null)?"":("; domain="+d))+((f==true)?"; secure":"")}var area=getCookieCity(_cookiesAreaName);if(area.length==0){var url="http://whois.pconline.com.cn/jsFunction.jsp?callback=IPCallBack4Price4s";document.body.insertBefore(document.createElement("script"),document.body.firstChild).src=url}function doGetRandomMixData(e,a){var b=new Array();if(e!=null&&e.length>0){var d=e.length;if(d<=a){b=e}else{for(var c=Math.floor(Math.random()*(d-a-1));c<d;++c){b.push(e[c])}}}return b};
+</script>
+<script>
+//焦点图切换
+featuredcontentslider.init({id: "focusPic",contentsource: ["inline", ""],link:true,toc: "markup",nextprev: ["", ""],revealtype: "mouseover",enablefade: [false, 0.15],autorotate: [true, 3500],delay:0,onChange: function(previndex, curindex){ }})
+</script>
+<script type="text/javascript">
+var PRICEROOT = "http://price.pcauto.com.cn";
+var serialGroupId = "919";
+$(function(){
+IPLocationForDealer('dealerUrl',serialGroupId);
+});
+/**
+* 根据IP定位，重写相关经销商入口url
+* @param id <a>标签ID
+* @param serialGroupId 车系ID
+*/
+function IPLocationForDealer(id,serialGroupId){
+var areaArry = getPCautoArea();
+var areaId = areaArry[0];
+if(areaId != null && serialGroupId > 0){
+$("#"+id).attr('href',PRICEROOT + '/shangjia/c'+areaId+'/sg'+serialGroupId+'/');
+}
+}
+</script>
+<script type="text/javascript">
+function $$(id){return document.getElementById(id);}
+//层的显示与隐藏
+function citySelector2(id){
+var btn = $$(id+"_switch"),
+btn2 = $$(id+"_switch2"),
+target = $$(id+"_content"),
+tStyle = target.style;
+btn.style.visibility = "visible";
+//绑定事件
+btn.onclick = function(){
+isHide = tStyle.display == "none" || tStyle.display == "";
+isHide ? tStyle.display = "block" : tStyle.display = "none"; 
+return false
+};
+btn2.onclick = function(){
+isHide = tStyle.display == "none" || tStyle.display == "";
+isHide ? tStyle.display = "block" : tStyle.display = "none"; 
+return false
+};
+target.onmouseout = function(e){
+e = e || event;
+var relatedTarget = e.toElement || e.relatedTarget;
+while(relatedTarget && relatedTarget != this){
+relatedTarget = relatedTarget.parentNode;
+if(!relatedTarget){
+tStyle.display = "none";
+}
+}	
+}
+}
+citySelector2("boxchang1");
+var _letter = "A";
+var _brandId = "62";
+var _serialGroupId = "919";
+$(function(){
+if(_letter!=""||_brandId!=""){
+doShowBrands(_letter,_brandId);
+doShowSerialGroups(_brandId,_serialGroupId);
+}
+});
+//字母列
+function doShowLetters(letter){
+var shtml='';
+$.get("/5_5/serial/action/letter_json_chooser.jsp",
+{letter : letter},
+function(data,textStatus){
+if(textStatus == "success"){
+//var json = eval('0,'+data);
+var json = (data!=''?eval('0,'+data):null);
+if(json != null){
+shtml += '<a class="'+(letter==null||letter==""?'cur':'aTit')+'" href="javascript:doShowBrands(\'\',\'\')">热</a>';
+for(var i=0;i<json.length;i++){
+var item = json[i];
+shtml += (item.light==1?'<a class="'+(item.cur==1?'cur':'')+'" href="javascript:doShowBrands(\''+item.letter+'\',\'\')">'+item.letter+'</a>':'<em>'+item.letter+'</em>');
+}
+if (document.getElementById("_letter")) document.getElementById("_letter").innerHTML = shtml;
+}
+}
+});
+}
+//品牌列
+function doShowBrands(letter,selectBrand){
+doShowLetters(letter);
+var shtml='';
+$.get("/5_5/serial/action/brand_json_chooser.jsp",
+{letter : letter},
+function(data,textStatus){
+if(textStatus == "success"){
+//var json = eval('0,'+data);
+var json = (data!=''?eval('0,'+data):null);
+if(json != null){
+for(var i=0;i<json.length;i++){
+var item = json[i];
+shtml += '<li id="'+item.id+'"><a id="a_'+item.id+'" class="'+(selectBrand==null||selectBrand==""?'':selectBrand==item.id?'cur':'')+'" href="javascript:doShowSerialGroups(\''+item.id+'\',\'\')">·' + item.name + '</a></li>';
+}
+if (document.getElementById("_brand")) document.getElementById("_brand").innerHTML = shtml;
+}
+}
+});
+if(selectBrand == '' || selectBrand == null ){
+if (document.getElementById("_serialGroup")){
+$("#_serialGroup").attr("style","display: none");//隐藏右侧
+$("#_serialGroup").html("");
+}
+$("#_layerData").attr("style","");//为了兼容IE6的效果
+}
+$("#_layerData").attr("style","width:254px");
+}
+//厂商&车系列
+function doShowSerialGroups(brandId,selectSG){
+brandStyle(brandId);
+//if(selectSG == '' || selectSG == null){
+if (document.getElementById("_serialGroup")) $("#_serialGroup").attr("style","display:block");//显示右侧
+$("#_layerData").attr("style","width:673px");//为了兼容IE6的效果
+//}
+var shtml='';
+$.get("/5_5/serial/action/serialgroup_json_chooser.jsp",
+{brandId : brandId},
+function(data,textStatus){
+if(textStatus == "success"){
+//var json = eval('0,'+data);
+var json = (data!=''?eval('0,'+data):null);
+if(json != null){
+shtml += '<dl>';
+for(var i=0;i<json.length;i++){
+var item = json[i];
+if(item.top==1){
+shtml += '<dt class="blue"><a href="' + PRICEROOT + '/price/b' + item.id + '/' + '" target="_blank">'+item.name+'</a></dt>';
+}else{
+shtml += '<dd><a class="'+(selectSG==null||selectSG==""?'':selectSG==item.id?'cur':'')+'" href="' + PRICEROOT + '/sg' + item.id + '/' + '" target="_blank">'+item.name+'</a></dd>';
+}
+}
+shtml += '</dl>';
+if (document.getElementById("_serialGroup")) document.getElementById("_serialGroup").innerHTML = shtml;
+}
+}
+});
+}
+//控制品牌列选中的样式
+function brandStyle(brandId){
+$("#_brand").find("li").each(function(i) {
+var id = $(this).attr("id")
+if(id == brandId){
+$("#a_"+id).attr("class","cur");
+}else{
+$("#a_"+id).attr("class","");
+}
+});
+}
+</script>
+<script type="text/javascript">
+var _brandId = "62";
+var serialGroupId = "919";
+var area;
+//$(function(){
+area = getPCautoArea();
+//显示一个地区行情
+doShowAreaQuotations(area[0],area[1],serialGroupId);
+//显示一个地区商情数据
+doShowDealerQuotations(area[0],serialGroupId);
+//显示推荐经销商
+__doShowDealer(area[0],serialGroupId);
+//});
+//显示一个地区行情数据
+function doShowAreaQuotations(areaId,areaName,serialGroupId){
+var shtml='';
+var initShtml = '<div align="center" style="padding-top:40px;">Loading....</div>';
+if (document.getElementById("areaQuotations")) document.getElementById("areaQuotations").innerHTML = initShtml;
+$.get("/supervise/admin/ajax/do_area_quotations2.jsp",
+{areaId : areaId , serialGroupId : serialGroupId},
+function(data,textStatus){
+if(textStatus == "success"){
+//var json = eval('0,'+data);
+var json = (data!=''?eval('0,'+data):null);
+if(json != null){
+var length = (json.length > 4)?4:json.length;
+if(length > 0){
+shtml += '<ul>';
+for(var i=0;i<length;i++){
+var item = json[i];
+shtml += '<li>'
++ '<i class="sKey"><a target="_blank" href="' + item.channelLink + '" title="' + item.channel + '">' + item.channel + '</a></i>'
++ '<em>|</em>'
++ '<i class="tit"><a target="_blank" href="' + item.articleLink + '" title="' + item.articleTitle + '">' + item.shortArticleTitle + '</a></i>'
++ '<i class="time">[' + item.createTime.substring(5, 10) + ']</i>'
++ '</li>';
+}
+shtml += '</ul><div class="clear"></div>';
+}else{
+shtml += '<div align="center" style="padding-top:40px;">抱歉，本地区暂无行情信息</div>';
+}
+if (document.getElementById("areaQuotations")) document.getElementById("areaQuotations").innerHTML = shtml;
+}
+}
+});
+$.get("/5_5/serial/action/do_site_quotations.jsp",
+{areaId : areaId , serialGroupId : serialGroupId},
+function(data,textStatus){
+if(textStatus == "success"){
+//var json = eval('0,'+data);
+var json = (data!=''?eval('0,'+data):null);
+if (document.getElementById("areaName") && json != null){
+document.getElementById("areaName").innerHTML = json[0].siteName + "行情";
+$("#areaName").attr("href",json[0].url);
+$("#areaName2").attr("href",json[0].url);
+} 
+}
+});
+if (document.getElementById('boxchang3')) {document.getElementById('boxchang3').className = 'layerBox';}
+}
+//显示一个地区商情数据
+function doShowDealerQuotations(areaId,serialGroupId){
+var shtml='';
+var initShtml = '<div align="center" style="padding-top:40px;">Loading....</div>';
+if (document.getElementById("dealerQuotations")) document.getElementById("dealerQuotations").innerHTML = initShtml;
+$.get("/dealer/interface/dealer_quotation_json.jsp",
+{areaId : areaId , serialGroupId : serialGroupId , num : 4 ,reDouble : 1},
+function(data,textStatus){
+if(textStatus == "success"){
+//var json = eval('0,'+data);
+var json = (data!=''?eval('0,'+data):null);
+if(json != null){
+shtml += '<ul>';
+var length = (json.length > 4)?4:json.length;
+if(length > 0){
+for(var i=0;i<length;i++){
+var item = json[i];
+shtml += '<li>'
++ '<i class="sKey"><a target="_blank" href="http://price.pcauto.com.cn/market/" title="商情">商情</a></i>'
++ '<em>|</em>'
++ '<i class="tit"><a target="_blank" href="' + item.url + '" title="' + item.name + '">' + item.name + '</a></i>'
++ '<i class="time">[' + item.time + ']</i>'
++ '</li>';
+}
+//$("#dealerQuotationsDiv").show();
+}else{
+//$("#dealerQuotationsDiv").hide();
+shtml += '<div align="center" style="padding-top:40px;">抱歉，本地区暂无商家行情信息</div>';
+}
+shtml += '</ul><div class="clear"></div>';
+if (document.getElementById("dealerQuotations")) document.getElementById("dealerQuotations").innerHTML = shtml;
+}
+}
+});
+}
+//显示推荐经销商
+function __doShowDealer(areaId,serialGroupId){
+$.getScript("http://price.pcauto.com.cn/dealer/interface/5_5/dealer_for_serialgroup_json.jsp?sid="+serialGroupId+"&rid="+areaId+"&callback=__showDealer&refresh=");
+}
+function __showDealer(data){
+var shtml = "<dt>推&nbsp;&nbsp;荐 经销商</dt>";
+if(data!=null){
+var result = data;
+for(var i=0;i<result.length;i++){
+var dealerInfo = result[i];
+var phone = dealerInfo._400Phone;
+var detail = "<dd>";
+if(dealerInfo.is400Phone==1 && phone!=null){
+if(phone.indexOf('-')>-1){
+phone=phone.replace("-","转");
+}
+phone=phone.substring(0,4)+"-"+phone.substring(4,7)+"-"+phone.substring(7,phone.length);
+detail += '<span class="tit"><em>[4S店]</em><a href="http://price.pcauto.com.cn/'+dealerInfo.dealerId+'/" target="_blank" title="'+dealerInfo.shortName+'">'+dealerInfo.shortName+'</a></span>'
++ '<span class="phone" title="电话通过太平洋验证，请放心拨打">'+phone+'</span>';
+}else{
+detail += '<span class="tit"><em>[4S店]</em><a href="http://price.pcauto.com.cn/'+dealerInfo.dealerId+'/" target="_blank" title="'+dealerInfo.shortName+'">'+dealerInfo.shortName+'</a></span>'
++ '<span class="phone" title="'+dealerInfo._400Phone+'">'+dealerInfo._400Phone+'</span>';	
+}
+if(dealerInfo._400PhoneUrl!=null){
+detail += '<a class="sFree_pho" href="'+dealerInfo._400PhoneUrl+'" target="_blank" title="免费通话"></a>';
+}	
+detail += "</dd>";
+shtml += detail;
+}
+}
+$("#focuDealer").html(shtml);
+}
+</script>
+<script>
+var status = "0";
+if(status == 0){
+//焦点区新闻切换
+featuredcontentslider.init({id: "focusTxt",contentsource: ["inline", ""],link:true,toc: "markup",nextprev: ["", ""],revealtype: "mouseover",enablefade: [false, 0.15],autorotate: [false, 3500],delay:300,onChange: function(previndex, curindex){ }})
+//焦点区行情切换
+featuredcontentslider.init({id: "focusPrice",contentsource: ["inline", ""],link:true,toc: "markup",nextprev: ["", ""],revealtype: "mouseover",enablefade: [false, 0.15],autorotate: [false, 3500],delay:300,onChange: function(previndex, curindex){ }}) 
+}
+</script>
+<script type="text/javascript">
+var shtml = '<ul class="ipcUl1">'
++ '<li><span class="hotCt"><em>热门车市：</em><a href="javascript:change_area('+'\'2\','+'\'北京\','+'\'919\')">北京</a> <a href="javascript:change_area('+'\'3\','+'\'上海\','+'\'919\')">上海</a> <a href="javascript:change_area('+'\'1\','+'\'广州\','+'\'919\')">广州</a> <a href="javascript:change_area('+'\'4\','+'\'深圳\','+'\'919\')">深圳</a> <a href="javascript:change_area('+'\'87\','+'\'成都\','+'\'919\')">成都</a></span><span class="errorTips">我要纠错：<a href="http://whoisadmin.pconline.com.cn/ipShare/new.htm" target="_blank">所在城市显示错误</a></span></li>'
++ '</ul>'
++ '<ul class="ipcUl2">'
++ '<li> <em class="eTit">华东地区：</em><a href="javascript:change_area('+'\'3\','+'\'上海\','+'\'919\')">上海</a> <a href="javascript:change_area('+'\'177\','+'\'南京\','+'\'919\')">南京</a> <a href="javascript:change_area('+'\'157\','+'\'苏州\','+'\'919\')">苏州</a> <a href="javascript:change_area('+'\'217\','+'\'杭州\','+'\'919\')">杭州</a> <a href="javascript:change_area('+'\'218\','+'\'宁波\','+'\'919\')">宁波</a> <a href="javascript:change_area('+'\'292\','+'\'泉州\','+'\'919\')">泉州</a> <a href="javascript:change_area('+'\'293\','+'\'厦门\','+'\'919\')">厦门</a> <a href="javascript:change_area('+'\'55\','+'\'福州\','+'\'919\')">福州</a> <a href="javascript:change_area('+'\'147\','+'\'济南\','+'\'919\')">济南</a> <a href="javascript:change_area('+'\'297\','+'\'合肥\','+'\'919\')">合肥</a> <a href="javascript:change_area('+'\'309\','+'\'常州\','+'\'919\')">常州</a> <a href="javascript:change_area('+'\'303\','+'\'温州\','+'\'919\')">温州</a> <a href="javascript:change_area('+'\'319\','+'\'潍坊\','+'\'919\')">潍坊</a> <a href="javascript:change_area('+'\'307\','+'\'徐州\','+'\'919\')">徐州</a> <a href="javascript:change_area('+'\'301\','+'\'台州\','+'\'919\')">台州</a> <a href="javascript:change_area('+'\'317\','+'\'青岛\','+'\'919\')">青岛</a> <a href="javascript:change_area('+'\'299\','+'\'绍兴\','+'\'919\')">绍兴</a> <a href="javascript:change_area('+'\'300\','+'\'金华\','+'\'919\')">金华</a> <a href="javascript:change_area('+'\'316\','+'\'淄博\','+'\'919\')">淄博</a> <a href="javascript:change_area('+'\'318\','+'\'烟台\','+'\'919\')">烟台</a> <a href="javascript:change_area('+'\'313\','+'\'济宁\','+'\'919\')">济宁</a> <a href="javascript:change_area('+'\'305\','+'\'无锡\','+'\'919\')">无锡</a> <a href="javascript:change_area('+'\'320\','+'\'临沂\','+'\'919\')">临沂</a> <a href="javascript:change_area('+'\'385\','+'\'泰州\','+'\'919\')">泰州</a> <a href="javascript:change_area('+'\'310\','+'\'扬州\','+'\'919\')">扬州</a> <a href="javascript:change_area('+'\'304\','+'\'嘉兴\','+'\'919\')">嘉兴</a> <a href="javascript:change_area('+'\'302\','+'\'湖州\','+'\'919\')">湖州</a> <a href="javascript:change_area('+'\'448\','+'\'龙岩\','+'\'919\')">龙岩</a> <a href="javascript:change_area('+'\'449\','+'\'南平\','+'\'919\')">南平</a> <a href="javascript:change_area('+'\'500\','+'\'宁德\','+'\'919\')">宁德</a> <a href="javascript:change_area('+'\'446\','+'\'莆田\','+'\'919\')">莆田</a> <a href="javascript:change_area('+'\'451\','+'\'三明\','+'\'919\')">三明</a> <a href="javascript:change_area('+'\'445\','+'\'漳州\','+'\'919\')">漳州</a> <a href="javascript:change_area('+'\'895\','+'\'盐城\','+'\'919\')">盐城</a></li>'
++ '<li> <em class="eTit">华南地区：</em><a href="javascript:change_area('+'\'1\','+'\'广州\','+'\'919\')">广州</a> <a href="javascript:change_area('+'\'-1\','+'\'港澳\','+'\'919\')">港澳</a> <a href="javascript:change_area('+'\'4\','+'\'深圳\','+'\'919\')">深圳</a> <a href="javascript:change_area('+'\'35\','+'\'佛山\','+'\'919\')">佛山</a> <a href="javascript:change_area('+'\'6\','+'\'东莞\','+'\'919\')">东莞</a> <a href="javascript:change_area('+'\'238\','+'\'中山\','+'\'919\')">中山</a> <a href="javascript:change_area('+'\'460\','+'\'韶关\','+'\'919\')">韶关</a> <a href="javascript:change_area('+'\'207\','+'\'惠州\','+'\'919\')">惠州</a> <a href="javascript:change_area('+'\'298\','+'\'珠海\','+'\'919\')">珠海</a> <a href="javascript:change_area('+'\'456\','+'\'江门\','+'\'919\')">江门</a> <a href="javascript:change_area('+'\'65\','+'\'粤东\','+'\'919\')">粤东</a> <a href="javascript:change_area('+'\'-2\','+'\'粤西\','+'\'919\')">粤西</a> <a href="javascript:change_area('+'\'197\','+'\'南宁\','+'\'919\')">南宁</a> <a href="javascript:change_area('+'\'510\','+'\'柳州\','+'\'919\')">柳州</a> <a href="javascript:change_area('+'\'259\','+'\'海口\','+'\'919\')">海口</a> <a href="javascript:change_area('+'\'461\','+'\'清远\','+'\'919\')">清远</a> <a href="javascript:change_area('+'\'288\','+'\'汕头\','+'\'919\')">汕头</a> <a href="javascript:change_area('+'\'290\','+'\'潮州\','+'\'919\')">潮州</a> <a href="javascript:change_area('+'\'289\','+'\'揭阳\','+'\'919\')">揭阳</a> <a href="javascript:change_area('+'\'291\','+'\'梅州\','+'\'919\')">梅州</a> <a href="javascript:change_area('+'\'511\','+'\'桂林\','+'\'919\')">桂林</a></li>'
++ '<li> <em class="eTit">华北地区：</em><a href="javascript:change_area('+'\'2\','+'\'北京\','+'\'919\')">北京</a> <a href="javascript:change_area('+'\'257\','+'\'天津\','+'\'919\')">天津</a> <a href="javascript:change_area('+'\'725\','+'\'天津滨海\','+'\'919\')">天津滨海</a> <a href="javascript:change_area('+'\'137\','+'\'石家庄\','+'\'919\')">石家庄</a> <a href="javascript:change_area('+'\'481\','+'\'呼和浩特\','+'\'919\')">呼和浩特</a> <a href="javascript:change_area('+'\'260\','+'\'太原\','+'\'919\')">太原</a> <a href="javascript:change_area('+'\'277\','+'\'保定\','+'\'919\')">保定</a> <a href="javascript:change_area('+'\'353\','+'\'廊坊\','+'\'919\')">廊坊</a> <a href="javascript:change_area('+'\'347\','+'\'唐山\','+'\'919\')">唐山</a> <a href="javascript:change_area('+'\'349\','+'\'秦皇岛\','+'\'919\')">秦皇岛</a> <a href="javascript:change_area('+'\'351\','+'\'沧州\','+'\'919\')">沧州</a> <a href="javascript:change_area('+'\'348\','+'\'邯郸\','+'\'919\')">邯郸</a> <a href="javascript:change_area('+'\'350\','+'\'邢台\','+'\'919\')">邢台</a></li>'
++ '<li> <em class="eTit">西部地区：</em><a href="javascript:change_area('+'\'77\','+'\'重庆\','+'\'919\')">重庆</a> <a href="javascript:change_area('+'\'107\','+'\'昆明\','+'\'919\')">昆明</a> <a href="javascript:change_area('+'\'247\','+'\'兰州\','+'\'919\')">兰州</a> <a href="javascript:change_area('+'\'45\','+'\'西安\','+'\'919\')">西安</a> <a href="javascript:change_area('+'\'287\','+'\'贵阳\','+'\'919\')">贵阳</a> <a href="javascript:change_area('+'\'87\','+'\'成都\','+'\'919\')">成都</a> <a href="javascript:change_area('+'\'531\','+'\'银川\','+'\'919\')">银川</a> <a href="javascript:change_area('+'\'258\','+'\'乌鲁木齐\','+'\'919\')">乌鲁木齐</a> <a href="javascript:change_area('+'\'532\','+'\'西宁\','+'\'919\')">西宁</a></li>'
++ '<li> <em class="eTit">华中地区：</em><a href="javascript:change_area('+'\'117\','+'\'长沙\','+'\'919\')">长沙</a> <a href="javascript:change_area('+'\'237\','+'\'南昌\','+'\'919\')">南昌</a> <a href="javascript:change_area('+'\'76\','+'\'武汉\','+'\'919\')">武汉</a> <a href="javascript:change_area('+'\'267\','+'\'郑州\','+'\'919\')">郑州</a> <a href="javascript:change_area('+'\'268\','+'\'洛阳\','+'\'919\')">洛阳</a> <a href="javascript:change_area('+'\'441\','+'\'赣州\','+'\'919\')">赣州</a></li>'
++ '<li> <em class="eTit">东北地区：</em><a href="javascript:change_area('+'\'248\','+'\'大连\','+'\'919\')">大连</a> <a href="javascript:change_area('+'\'227\','+'\'长春\','+'\'919\')">长春</a> <a href="javascript:change_area('+'\'187\','+'\'哈尔滨\','+'\'919\')">哈尔滨</a> <a href="javascript:change_area('+'\'127\','+'\'沈阳\','+'\'919\')">沈阳</a> <a href="javascript:change_area('+'\'323\','+'\'鞍山\','+'\'919\')">鞍山</a> </li>'
++ '</ul>'
++ '<div class="clear"></div>';
+document.getElementById('boxchang3_content').innerHTML = shtml;
+</script>
+<script>_addIvyID=0</script>
+<script class=combineAD>if(!window._addIvyID)document.write('<script src=http://www.pconline.com.cn/_hux_/auto/price/detail.js><\/script>');
+document.write('<script src="http://ivy.pconline.com.cn/adpuba/show4?id=auto.bjk.neiye.syymtl1.;auto.bjk.neiye.kcftl.;auto.bjk.neiye.btlz.;auto.bjk.neiye.btly.;auto.bjk.neiye.btlzxj.;auto.bjk.neiye.btlyxj.;auto.bjk.neiye.cfstl2.;auto.bjk.neiye.xtl.;auto.bjk.neiye.sl.;auto.bjk.jbcx.ptl1.;auto.bjk.neiye.xlxtl.;auto.bjk.jbcx.ptl2.;auto.bjk.neiye.youce.;auto.bjk.neiye.yc2.;auto.bjk.yc1.;auto.baojia.kcf." class=" defer"><\/script>');
+</script class=combineAD>
+<script>
+function ivyLoadReal(closespan){
+var ad=null, adpos = document.getElementsByTagName("u");
+for(var i=0; i<adpos.length; i++) if(adpos[i].className=="adpos"){ ad=adpos[i]; break; }
+if(ad==null) return;
+if(!closespan) {
+document.write("<span id=adpos_"+ad.id+" style=display:none>");
+showIvyViaJs(ad.id);
+return;
+}
+document.write("</span>");
+var real=document.getElementById("adpos_"+ad.id);
+for(var i=0; i<real.childNodes.length; i++) {
+var node = real.childNodes[i];
+if(node.tagName=="SCRIPT" && /closespan/.test(node.className)) continue;
+ad.parentNode.insertBefore(node,ad); i--
+}
+ad.parentNode.removeChild(ad);
+real.parentNode.removeChild(real);
+}
+</script>
+<script>ivyLoadReal()</script><script class=closespan>ivyLoadReal(true)</script>
+<script>ivyLoadReal()</script><script class=closespan>ivyLoadReal(true)</script>
+<script>ivyLoadReal()</script><script class=closespan>ivyLoadReal(true)</script>
+<script>ivyLoadReal()</script><script class=closespan>ivyLoadReal(true)</script>
+<script>ivyLoadReal()</script><script class=closespan>ivyLoadReal(true)</script>
+<script>ivyLoadReal()</script><script class=closespan>ivyLoadReal(true)</script>
+<script>ivyLoadReal()</script><script class=closespan>ivyLoadReal(true)</script>
+<script>ivyLoadReal()</script><script class=closespan>ivyLoadReal(true)</script>
+<!-- 广告占位,不要删除 -->
+<!-- http://js.3conline.com/pcauto/price2012/car_seriesP2.css?t=20120823 内嵌css-->
+<style>.icon_jsq{background:url(http://www1.pcauto.com.cn/2012/price/images/icon.png) no-repeat -15px -313px;width:12px;height:14px;float:left;margin:10px 0 0 2px;}
+.icon_jsq:hover{background:url(http://www1.pcauto.com.cn/2012/price/images/icon.png) no-repeat 0 -313px;}
+.icon_zs{width:15px;height:15px;border:1px solid #d7d7d7;background:#fff;line-height:15px;text-align:center;float:left;margin:10px 0 0 2px;}
+.icon_zs:hover{background:#4987D6;border:1px solid #407AC4;text-decoration:none;color:#fff;}
+.modType .bar{height:29px;line-height:29px;background:#fff8f0;border-bottom:1px solid #f4dbb5;overflow:hidden;}
+.modType .bar span{float:left;color:#000;text-align:center;}
+.modType .bar .sCol1{width:211px;padding-left:8px;text-align:left;font-weight:bold;}
+.modType .bar .sCol2{width:73px;}
+.modType .bar .sCol3{width:84px;padding:0 10px 0 0;}
+.modType .bar .sCol4{width:134px;}
+.modType .bar .sCol5{width:196px;}
+.modType th{width:45px;text-align:right;padding-right:12px;}
+.modType ul{width:732px;position:relative;zoom:1;margin:0 auto;}
+.modType li{height:35px;line-height:35px;border-top:1px dashed #d7d7d7;overflow:hidden;width:732px;margin:-1px 0 0;padding:1px 0 0;}
+.modType .contentdiv{zoom:1;}
+.modType i{float:left;display:inline;text-align:center;height:35px;zoom:1;overflow:hidden;}
+.modType em{float:left;}
+.modType .iCol1 em{float:left;width:180px;}
+.modType .iCol1{width:211px;text-align:left;}
+.modType .iCol2{width:73px;}
+.modType .iCol3{width:84px;padding:0 10px 0 0;}
+.modType .iCol3 em{width:65px;text-align:right;}
+.modType .iCol4{width:134px;}
+.modType .iCol4 em{width:110px;text-align:right;}
+.modType .iCol5{width:165px;}
+.modType .iCol6{width:49px;line-height:0;}
+.sContrast,.sContrasted{width:46px;height:17px;cursor:pointer;border:0;background:url(http://www1.pcauto.com.cn/2012/price/images/main.png?t=20120921) no-repeat;line-height:21px;margin:9px 0 0 0;overflow:hidden;}
+.sContrast{background-position:0 -858px;}
+.sContrastHv{background-position:-48px -858px;}
+.sContrasted{background-position:-96px -858px;}
+/*20120911*/
+.modTypeA .bar .sCol1{width:275px;}
+.modTypeA .bar .sCol5{width:96px;}
+.modTypeA .iCol1{width:275px;}
+.modTypeA .iCol1 em{width:232px;}
+.modTypeA .iCol4{width:151px;}
+.modTypeA .iCol3{padding:0;}
+.modTypeA .iCol5{width:96px;}
+.modTypeA .icon_zs{width:35px;height:15px;border:1px solid #97BDEE;background:#9EC2F1;line-height:15px;text-align:center;float:left;margin:9px 0 0 2px;color:#fff;}
+.modTypeA .icon_zs:hover{background:#f60;border:1px solid #f60;text-decoration:none;color:#fff;}
+/*20120919 更新modTypeB后，modTypeA样式无用可以删除*/
+.modTypeB li{height:58px;}
+.modTypeB i{height:58px;}
+.modTypeB .tit{font-weight:bold;}
+.modTypeB .bar .sCol1{width:343px;}
+.modTypeB .bar .sCol5{width:93px;}
+.modTypeB .iCol1{width:343px;line-height:24px;padding-top:5px;height:53px;}
+.modTypeB .iCol1 em{width:auto;max-width:275px;_width:275px;margin-right:10px;height:22px;overflow:hidden;}
+.modTypeB .iCol4{width:151px;}
+.modTypeB .iCol3{padding:0;}
+.modTypeB .iCol5{width:93px;}
+.modTypeB .icon_zs{width:35px;height:15px;border:1px solid #97BDEE;background:#9EC2F1;line-height:15px;text-align:center;float:left;margin:9px 0 0 2px;color:#fff;}
+.modTypeB .icon_zs:hover{background:#f60;border:1px solid #f60;text-decoration:none;color:#fff;}
+.green{color:#2aa634;}
+.green:hover{color:#f60;}
+.modTypeB .extra{color:#777;clear:both;}
+/*Thursday, 27-Sep-2012 10:37:38 CST*/
+/*网友还看过*/
+.modLook{margin-bottom:10px;}
+.modLook .tbB{padding:10px 0 4px;}
+.modLook ul{background:url(http://www1.pcauto.com.cn/2012/price/images/car_num4.png) no-repeat;overflow:hidden;zoom:1;height:300px;}
+.modLook li{height:31px;border-bottom:1px dashed #d7d7d7;line-height:31px;overflow:hidden;padding:0 0 0 24px;}
+.modLook .tit{float:left;width:130px;overflow:hidden;}
+.modLook .pic{float:left;display:inline;margin-right:10px;}
+.modLook img{border:2px solid #F8F8F8;margin:0;padding:0;}
+.modLook a:hover img{margin:0; border:2px solid #f60;}
+.modLook .carBtn{float:right;width:43px;text-align:right;}
+.modLook .one{height:76px;}
+.modLook .one .carBtn{margin-top:10px;}
+.modLook .one .tit{width:45px;line-height:24px;}
+/*Thursday, 27-Sep-2012 10:37:38 CST*/
+/*右侧在售车型*/
+.modSellWarp{}
+.modSell{padding:0 10px;overflow:hidden;width:208px;z-index:1;}
+.modSell dl{line-height:24px;padding:0 5px 10px;border-bottom:1px dashed #d7d7d7;margin:0 0 -1px;}
+.modSell dd{background:url(http://www1.pcauto.com.cn/2012/price/images/icon.png) no-repeat 0 -287px;padding-left:10px;height:24px;overflow:hidden;margin-left:5px;}
+.modSell dd em{color:#777;}
+.modSell dt{padding-top:7px;}
+.modSellHv{overflow:visible;min-height:340px;height:auto;_height:340px;}
+/*Thursday, 27-Sep-2012 10:37:38 CST*/
+/*对比工具栏*/
+.compare-bar .pro_th,.compare-bar .pro ul li .close,.compare-bar .pro ul li .close:hover,.compare-bar .tab i,.compare-bar .tab i.on,.compare-bar .bar,.compare-bar .fold,.compare-bar .tab .tab-span i,.compare-bar .tab .tab-span .on,.compare-bar .pro .option .cpClear,.compare-bar .user .msg,.compare-bar .user .hasMsg,.compare-bar .pro_th .cbIcon,.compare-bar .pro_th .cbIcon:hover{background:url(http://www1.pcauto.com.cn/2011/price/images/vsBarBg2011.png) no-repeat}
+.compare-bar{width:1000px; position:fixed;_position:absolute; left:50%; bottom:0; margin-left:-500px;}
+.compare-bar .pro{width:986px; height:124px; border:2px solid #4a88d7; background:#fff; margin:0 auto; overflow:hidden}
+.compare-bar .bar{height:26px; background-repeat:repeat-x; line-height:26px; border-top:1px solid #bbb; padding:0}
+.compare-bar .lb{width:6px; height:30px; overflow:hidden; float:left; background-position:-24px -548px;}
+.compare-bar .fold{width:29px; height:26px; float:right; background-position:9px -28px; display:inline-block; cursor:pointer; background-color:#d3d3d3; border-right:1px solid #bbb; border-left:1px solid #bbb}
+.compare-bar .tab{float:left;}
+.compare-bar .tab-tit{color:#777; width:65px; float:left; text-align:center; border-right:1px solid #bbb; background:#d3d3d3;}
+.compare-bar .tab i{width:99px; float:left; border-right:1px solid #bbb; color:#333; background-position:84px -147px; padding-right:12px; display:inline-block; text-align:center; cursor:pointer}
+.compare-bar .tab i.on{width:101px; background-position:84px -172px; color:#fff; background-color:#4a88d7; height:27px; margin-top:-1px; border-right:none; margin-left:-1px}
+.compare-bar .tab i.on strong{color:#c00;}
+.compare-bar .tab .tab-span i{width:87px; background-position:72px -147px}
+.compare-bar .tab .tab-span .on{width:89px; background-position:72px -172px; background-color:#4a88d7}
+.compare-bar .tab .tab-span .iHover{background-color:#fff; color:#333; text-decoration:none; background-position:72px -147px;}
+.compare-bar .tab i.iHover{background-color:#fff; color:#333; text-decoration:none; background-position:84px -147px;}
+.compare-bar .user{float:right; padding:0 15px;}
+.compare-bar .user span{color:#d7d7d7}
+.compare-bar .user a{color:#333;}
+.compare-bar .user a:hover{color:#f60;}
+.compare-bar .user .msg{padding-left:18px; background-position:3px -208px;}
+.compare-bar .user .hasMsg{background-position:3px -239px;}
+.compare-bar .pro ul{height:96px; overflow:hidden; float:left}
+.compare-bar .pro ul li{width:210px; height:81px; float:left; border-right:1px solid #d7d7d7; position:relative; padding:15px 0 0 10px; position:relative}
+.compare-bar .pro ul li img{width:80px; height:60px; padding:2px; border:1px solid #d7d7d7}
+.compare-bar .pro ul li a:hover img{border-color:#48d}
+.compare-bar .pro ul li i{float:left; line-height:24px; word-wrap:break-word; overflow:hidden;}
+.compare-bar .pro ul li .pic{position:absolute; left:10px; top:15px;}
+.compare-bar .pro ul li .tit{margin-left:95px; width:105px; height:36px; line-height:18px; padding:3px 0 0}
+.compare-bar .pro ul li .price{margin-left:95px; width:105px; color:#777; height:26px; line-height:26px; white-space:nowrap}
+.compare-bar .pro ul li .price a{color:#c00;}
+.compare-bar .pro ul li .price a:hover{color:#f60;}
+.compare-bar .pro ul li .compare{color:#05a; float:right;_padding-top:5px;}
+.compare-bar .pro ul li .compare input{width:13px; height:13px; margin:0 3px 2px 0;margin-bottom:0px\9; vertical-align:middle;}
+.compare-bar .pro ul li .close{width:15px; height:15px; display:block; position:absolute; top:3px; right:3px; background-position:0 -112px; cursor:pointer}
+.compare-bar .pro ul li .close:hover{background-position:0 -130px}
+.compare-bar .pro ul li.msg{width:874px; text-align:center; line-height:50px; background:none; border:0;}
+.compare-bar .pro_th{height:27px; background:#f5f5f5; border-bottom:1px solid #d7d7d7; line-height:27px;}
+.compare-bar .pro_th .mark{color:#777; padding:0 0 0 10px}
+.compare-bar .pro_th .mark b{color:#333; font-weight:bold}
+.compare-bar .pro_th .mark em{color:#c00}
+.compare-bar .pro_th .cbIcon{float:right; width:31px; height:27px; display:block; background-position:10px -55px; cursor:pointer}
+.compare-bar .pro_th .cbIcon:hover{background-color:#e3e3e3; background-position:10px -55px;}
+.compare-bar .pro .option{width:80px; padding:20px 0 0 15px; float:left; line-height:26px}
+.compare-bar .pro .option2{padding-top:34px}
+.compare-bar .pro .option i{display:block; cursor:pointer}
+.compare-bar .pro .option .cpVsBtn{width:67px; height:21px; line-height:21px; background:#4a88d7; border:1px solid #3774c2; text-align:center; color:#fff; margin:0 0 5px; display:inline-block}
+.compare-bar .pro .option .cpVsBtn:hover{background:#336eba; border-color:#285793; text-decoration:none}
+.compare-bar .pro .option .cpClear{padding:0 0 0 18px; color:#333; background-position:2px -80px}
+.compare-bar .cpCarSec dd{height:24px; display:block; margin:-5px 0 8px 15px; position:relative}
+.compare-bar .cpCarSec dd select{width: 165px;}
+.compare-bar .popMsg{width:198px; margin-left:-100px; height:40px; border:2px solid #4a88d7; background:#fff; line-height:40px; text-align:center; position:absolute; z-index:10; bottom:72px; left:50%;}
+.compare-bar .mini{width:20px; height:70px; position:absolute; margin:0 auto; bottom:0; margin-left:995px; background-position:-480px -446px;}
+.compare-bar .close{width:20px; height:15px; overflow:hidden;background-position:50px 50px; display:block;}
+.compare-bar .close:hover{background-position:-480px -430px;}
+.compare-bar .unfold{width:20px; height:55px; overflow:hidden; text-indent:-100px; background:none; display:block; background:#ccc}
+.compare-bar-fix{/*position:absolute; bottom:-37px;*/}
+#compareBarOut{width:1000px; height:0; margin:0 auto; left:50%; margin-left:-500px; position:absolute; z-index:100;}
+.compare-bar optgroup{font-weight:bold;color:#05a;background:#EDF2FE;}
+/*切换车系弹窗*/
+.subNav_t .changTit{background:#fff;border:1px solid #d7d7d7;}
+.changCx{/*position:relative;width:84px;*/height:23px;float:left;margin-top:12px;z-index:20;background:#f60;}
+.changCx .layerData{/*width:656px;_position:absolute;*/display:inline-block;zoom:1;overflow:hidden;}
+.changCx #boxchang1_content .layerData{background:#F5F5F5 url(http://www1.pcauto.com.cn/2011/images/1110/bgLine.png) repeat-y 0 0}
+.changCx li a:hover{background:#4a88d7;color:#fff;text-decoration:none;border:1px solid #3774c2;}
+.changCx .cur{position:relative;}
+.changCx .cur:link,.changCx .cur:visited{background:#4a88d7;color:#fff;border:1px solid #3774c2;}
+.changLetter{width:226px;padding:14px;float:left;border-right:1px solid #d7d7d7;display:inline;overflow:hidden;zoom:1; background:#fff}
+.letter{height:76px;overflow:hidden;padding:1px 0 0 1px;margin-bottom:10px;font-family:Arial, Helvetica, sans-serif;}
+.letter a,.letter em{float:left;width:24px;height:24px;border:1px solid #a6c1e7;text-align:center;margin:-1px 0 0 -1px;overflow:hidden;}
+.letter a{color:#05a;background:#f3f9ff;}
+.letter em{color:#aaa;background:#f5f5f5;}
+.letter a:hover{background:#4a88d7;border:1px solid #3774c2;color:#fff;font-weight:bold;text-decoration:none;}
+.letter .aTit{color:#c00;}
+.changLetter li{float:left;display:inline;margin:5px 10px 0 0;height:23px;width:100px;}
+.changLetter li a{float:left;width:98px;height:17px;line-height:17px;}
+.changCx .typeList{position:relative; width:380px;padding:0 19px 15px;}
+.changCx dt{padding-top:10px;}
+.changCx .layerBox{position:absolute;line-height:24px;z-index:420;left:auto;top:auto;margin-top:-22px;zoom:1;display:none;background:url(http://www1.pcauto.com.cn/2011/price/images/touming.png);}
+.changCx .changTit{height:21px;line-height:21px;position:relative;cursor:pointer;color:#777;padding-left:10px;width:72px;overflow:hidden;}
+.changCx .changTit em{background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) no-repeat -135px -209px;width:7px;height:4px;position:absolute;right:10px;top:45%;}
+.changCx .layerData{border:2px solid #4a88d7;background:#fff;}
+.changCx .layerTit{background:#4a88d7;height:24px;line-height:24px;width:73px;padding-left:11px;color:#fff;cursor:pointer;position:relative;overflow:hidden;}
+.changCx .layerTit em{background:url(http://www1.pcauto.com.cn/2012/price/images/main.png) no-repeat -126px -223px;width:7px;height:4px;position:absolute;right:11px;top:45%;}
+.layerDataList a{display:block;height:27px;line-height:27px;padding:0 10px;text-align:center;overflow:hidden;}
+.layerDataList a:hover{background:#e3e3e3;text-decoration:none;color:#333;}
+.typeList{float:left;border-left:1px solid #d7d7d7;margin-left:-1px;background:#f5f5f5;}
+.typeList dt{font-weight:bold;clear:both;}
+.typeList dd{display:inline;float:left;width:115px;height:25px;line-height:25px;overflow:hidden; padding:0 5px}
+.typeList dd a{display:inline;float:left;width:115px;height:17px;line-height:17px;overflow:hidden;}
+.typeList dd .cur{padding-left:5px; margin-left:-5px}
+/* 切换车系弹窗 */
+.changCx{margin-top:11px;}
+.changCx .layerTit{background:none repeat scroll 0 0 #4A88D7; color:#FFF; width:73px;}
+.modType .mark{margin:0 16px 0 0;}
+.modType .toc{float:left;display:inline;width:90px;height:25px;border:1px solid #bcbcbc;border-bottom:0;background:#f0f0f0;margin:3px 0 0 3px;text-align:center;line-height:25px;}
+.modType .selected{background:#fff8f0;border-top:3px solid #f60;font-weight:bold;height:27px;margin-top:0;color:#000;}
+.modType .btn a{display:block;background:url(http://www1.pcauto.com.cn/2012/price/images/main.png?t=20120820) no-repeat 0 -268px;width:69px;height:24px;line-height:24px;text-align:center;margin-top:3px;}
+.modType .btn a:hover{background-position:0 -469px;color:#fff;text-decoration:none;}
+.modTypePic .tbC{padding:10px 0 5px;}
+.modTypePic .th{height:31px;line-height:31px;width:710px;margin:0 auto;}
+.modTypePic li{margin:0 3px 10px 19px;width:124px;}
+.modTypePic li p{height:21px;overflow:hidden;}
+.modTypePic .ulPic img{border:2px solid #FFF;padding:0;}
+.modTypePic .ulPic a:hover img{border:2px solid #f60;}
+.ulVedio .pic{display:block;height:100px;width:135px;overflow:hidden;background:#000;display:table-cell; vertical-align:middle;text-align:center;zoom:1;}
+.ulVedio .pic img{margin-top:expression((100 - this.height )/2);}
+.ulVedio .picWrap{display:block;border:2px solid #fff;padding:0;}
+.ulVedio{*zoom:1;}
+.ulVedio:after{content:"\20";clear:both;height:0;display:block;overflow:hidden;}
+.ulVedio li{display:inline;float:left;}
+.ulVedio a:hover .picWrap{border:2px solid #f60;}
+.ulVedio .btnIocn{background:url(http://www1.pcauto.com.cn/2012/price/images/main.png?t=20120820) no-repeat -113px -186px;position:absolute;width:18px;height:16px;margin:82px 0 0 118px;}
+.ulVedio p{color:#05a;}
+.ulVedio a:hover p{color:#f60;}
+.modTypeVedio .tbC{padding:14px 0;}
+.modTypeVedio li{margin:0 10px 0 31px;width:139px;}
+/** 车系频道首页 120 x 90 的视频 */
+.modTypeVedio2 li{width:124px; margin:0 3px 0 19px;}
+.ulVedio2 .pic{width:120px; height:90px;}
+.ulVedio2 .pic img{margin-top:expression((90 - this.height )/2);}
+.ulVedio2 .btnIocn{margin-top:72px; margin-left:102px;}
+.ulVedio2 li p{line-height:1.5;}
+/*经销商*/
+.modPrivilege .tbC{padding:0 20px;}
+.modPrivilege .dCity{line-height:24px;padding:5px 0;}
+.modPrivilege .dCity .layerBox{display:block;}
+.modPrivilege .curCity{color:#777;}
+.modPrivilege .curCity .tit{float:left;}
+.modPrivilege .curCity .sCity{float:left;font-size:12px;}
+.modPrivilege .hotCity{color:#777; margin-left:20px;}
+.modPrivilege .hotCity a{color:#05a;margin:0 7px 0 0px;font-family:Arial, Helvetica, sans-serif;}
+.modPrivilege .hotCity a:hover,.modPrivilege .hotCity a:hover em{color:#f60;}
+.modPrivilege .hotCity em{color:#c00;}
+.modPrivilege .curHot{color:#777;margin-left:20px;}
+.modPrivilege .curHot a{margin-right:7px;color:#0055aa;padding:2px 3px 2px 4px;}
+.modPrivilege .curHot a:hover{background:#ffeabc;border:1px solid #ffeabc;color:#f60;text-decoration:none;padding:1px 2px 1px 3px;}
+.modPrivilege .curHot .red{color:#CC0000;}
+.modPrivilege .curHot a em{font-family:Arial, Helvetica, sans-serif;}
+.modPrivilege .curHot .cur{background:#4A88D7;border:1px solid #3774C2;color:#fff;padding:1px 2px 1px 3px;}
+.modPrivilege .curHot .cur:hover{color:#fff;text-decoration:none;background:#4A88D7;border:1px solid #4A88D7;}
+.dMoreprivilege{text-align:center;height:35px;line-height:35px;}
+/* float 形式的经销商模块 */
+.privilege2{}
+.privilege2 ul{border-top:1px dashed #D7D7D7;}
+.privilege2 .row{padding:9px 0; border-bottom:1px dashed #D7D7D7; }
+.privilege2 .last{border-bottom:none;}
+.privilege2 li{float:left; display:inline; margin:0; padding:0 10px 0 0; width:344px; line-height:24px; font-size:12px;}
+.privilege2 li p{position:relative; color:#777; overflow:hidden;}
+.privilege2 li .com{color:#05A; font-weight:bold;font-size:14px;}
+.privilege2 li .com:hover{color:#F60; text-decoration:underline;}
+.privilege2 li .tel{display:inline; float:left; font-weight:bold; font-family:Arial;color:#333;}
+.privilege2 li .tel strong,.privilege2 li .tel em{color:#c00;}
+.privilege2 li .aBtn{display:inline; float:left; margin:2px 0 0 5px; width:17px;height:17px;background:url(http://www1.pcauto.com.cn/2012/price/images/main.png?t=20120820) no-repeat -125px -693px;text-align:center;color:#fff;}
+.privilege2 li .aBtn:hover{text-decoration:none;/* background-position:-125px -673px;*/}
+.privilege2 li .addr{width:300px;}
+.privilege2 li .phoneWrap{overflow:hidden;}
+.privilege2 li .tit{float:left;color:#777;}
+.privilege2 li .phone{float:left; display:inline; color:#808081; font-weight:bold; font-family:Arial;}
+.privilege2 li .aTel{float:left; display:inline; background:url(http://www1.pcauto.com.cn/2012/price/images/main.png?t=20120820) no-repeat -130px -731px;width:12px;height:12px;margin:5px 0 0 5px;}
+.privilege2 li .aTel .split{margin:0 5px; font-weight:normal; color:#000;}
+.privilege2 li .aTel:hover{/*background-position:-121px -284px;*/}
+.privilege2 li .sale{color:#333;}
+.privilege2 li .sale:hover{color:#f60;}
+.privilege2 li p img{vertical-align:middle;}
+.privilege2 li .phone-400{display:inline; float:left; margin:4px 0 0 5px; width:14px; height: 17px; background:url(http://www1.pcauto.com.cn/2012/price/images/main.png?t=20120820) no-repeat -128px -714px;}
+.privilege2 .info{color:#333;}
+/* .privilege2 end */
+/* float 形式的其它城市优惠 */
+.otherPrivilege2{border:1px solid #d7d7d7;background:#f5f5f5;margin:0 0 10px;padding:0 20px;}
+.otherPrivilege2 .bar{height:31px;line-height:31px;font-weight:bold;border-bottom:1px dashed #d7d7d7;}
+.otherPrivilege2 ul{border-top:none;}
+.otherPrivilege2 .row{border-bottom:none;}
+.otherPrivilege2 li .com{font-weight:normal; color:#777;font-size:12px;}
+.otherPrivilege2 li .tel{color:#777;}
+.otherPrivilege2 li .tel strong,.otherPrivilege2 li .tel em{color:#777;}
+.ulCity{color:#777;margin-bottom:10px;}
+.ulCity a{margin-right:12px;color:#0055aa;padding:2px 3px 2px 4px;}
+.ulCity a:hover{background:#ffeabc;border:1px solid #ffeabc;color:#f60;text-decoration:none;padding:1px 2px 1px 3px;}
+.ulCity .red{color:#CC0000;}
+.ulCity a em{font-family:Arial, Helvetica, sans-serif;}
+.ulCity .cur{background:#4A88D7;border:1px solid #3774C2;color:#fff;padding:1px 2px 1px 3px;}
+.ulCity .cur:hover{color:#fff;text-decoration:none;background:#4A88D7;border:1px solid #4A88D7;}
+.modshop .tbC{padding:10px;line-height:24px;}
+.modshop .list-wrap strong{float:left;}
+.modshop .list-wrap .list{float:left; width:688px; overflow:hidden;}
+.modshop a{margin:0 15px 0 0;display:inline-block;}
+.modshop .brand4s{border-top:1px solid #d7d7d7;padding-top:6px;margin-top:8px;}
+.modTypeInfo .tbC{border:0;margin-top:-1px;}
+.modTypeInfo .thC{overflow:hidden;}
+.modTypeInfo table{table-layout:fixed;width:750px;}
+.modTypeInfo td{background:#fff;line-height:25px;display: table-cell;}
+.modTypeInfo .rowFir td,.modTypeInfo .tit{background:#f5f5f5;}
+.modTypeInfo .tit{text-align:right;}
+.modTypeInfo .num{text-align:center;}
+.modTypeInfo .num strong{font-size:14px;}
+.modTypeInfo .rowFir td{color:#777;text-align:center;}
+.modTypeInfo .rowTwo td{color:#000;text-align:center;}
+.modTypeInfo .towLast{height:30px;line-height:30px;}
+.modTypeInfo .towLast td{background:#f5f5f5;padding:0 0 0 10px}
+.modTypeInfo .towLast span{margin:0 42px 0 4px;}
+.modTypeInfo .des{padding:0 0 0 10px; line-height:1.8;}
+.modCarTie .tbC{padding:15px 0 7px;}
+.modCarTie dl{float:left;display:inline;width:121px;margin:0 0 0 28px;height:76px;}
+.modKs .tbB{padding:8px 0;}
+.modKs ul{margin-left:4px;}
+/*热门车型 热门品牌切换 旧接口样式*/
+.pBox{background:#F5F5F5;border:1px solid #d7d7d7;}
+.hotTabBox{line-height:24px;padding:10px 0;}
+.hotTabBox i{float:left;display:inline;width:90px;background:url(http://www1.pcauto.com.cn/2012/price/images/icon.png) no-repeat 0 -287px;padding-left:8px;margin-left:12px;height:24px;overflow:hidden;}
+.pBox .tagTabTit{border-bottom:1px solid #d7d7d7;}
+.right230 .pBox .tagTabTit{background:none;}
+.pBox .tagTabTit .toc{width:75px;text-align:center;color:#777;float:left;border-right:1px solid #d7d7d7;cursor:pointer;background:#E8E8E8;height:29px;border-top:1px solid #d7d7d7;overflow:hidden;}
+.pBox .tagTabTit .selected{font-weight:bold;color:#000;border-top:3px solid #f60;background:#f5f5f5;height:28px;line-height:26px;width:76px;}
+.pBox .pTubBox{position:absolute;top:-1px;padding-left:1px;}
+.pBox #paginate-tagTab{margin:0;width:229px;} 
+/*弹出框 省 市*/
+.layerCity2{width:506px;}
+.layerCity2 i{float:left;width:69px;margin:4px 0 9px;height:16px;line-height:16px;zoom:1;}
+.layerCity2 .eTit{float:left;}
+.layerCity2 .ipcUl2{zoom:1;}
+.layerCity2 .ipcUl2 li{display:block;float:left;width:414px;border-bottom:1px dashed #d7d7d7;padding-top:5px;zoom:1;}
+.layerCity2 .layerBox{width:506px;}
+.subCityPage{width:288px;border:2px solid #4a87d7;display:none;background:#fff;padding:1px 5px 10px 10px;}
+.subCityPage a{float:left;margin:9px 5px 0 0;width:56px;height:19px;line-height:19px;padding:0 5px;overflow:hidden;}
+.layerCity2 .subCityPage a:hover{background:#4988d8;color:#fff;border:1px solid #3775c2;width:54px;height:17px;line-height:17px;text-decoration:none;}
+.layerCity2 .hide{overflow:hidden;display:block;}
+.layerCity2 .show{position:relative;}
+.layerCity2 .show .subCityPage{display:block;position:absolute;left:0;top:22px;}
+.layerCity2 .ipcUl2 a{color:#05a;}
+.layerCity2 .ipcUl2 a:hover{color:#f60;}
+.layerCity2 .ipcUl2 .subI2{color:#c00;}
+.layerCity2 .ipcUl2 .subI2:hover,.layerCity2 .ipcUl2 .subCityPage a:hover{color:#fff;}
+/*同级别车*/
+.modSameSale .tbC{padding:15px 20px;}
+.modSameSale li{width:334px;padding:0 10px;float:left;}
+/*车型频道页*/
+.page{padding:20px 0 40px;border-top:1px solid #d7d7d7;}
+.page .mark{line-height:20px; width:100px;}
+.page .mark span{color:#f60;}
+.page .toc{margin:0 2px;color:#000;border:1px solid #f80; display:inline-block; cursor:pointer; padding:0 8px;}
+.page .toc:hover,.page .selected{color:#fff;border:1px solid #f80;background:#f80;}
+/*申请车贷*/
+.modGmac .gmac {padding:18px 0;}
+.modGmac .gmacLogo {padding:0 1px;}
+.modGmac .gmacTxt em {color:#cc0000;font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:14px;}
+.modGmac .gmacTxt a:hover {text-decoration:none;}
+.modGmac .gmacTxt a:hover em {color:#f60;}
+.modTake{border:1px solid #d7d7d7;background:#f5f5f5;padding:11px 0;}
+.modTake dt{font-size:14px;width:723px;margin:0 auto 5px;}
+.modTake dd{color:#d7d7d7;}
+.modTake dd a{padding:0 12px;}
+</style>
+<div class="wrap p2st">
+<div class="left750">
+<div class="ivy750">
+<script>showIvyViaJs("auto.bjk.neiye.xtl.")</script>
+</div>
+<div class="ivy750">
+<script>showIvyViaJs("auto.bjk.neiye.sl.")</script>
+</div>
+<!-- 级别车系车型页面小通栏1 -->
+<div class="ivy750">
+<script>showIvyViaJs("auto.bjk.jbcx.ptl1.")</script>
+</div>
+<!-- 区分T,按年款降序、厢体结构（名称）升序、排量升序、价格升序 -->
+<div class="modC modType mgb10 modTypeA">
+<div class="thC"> 
+<h3 class="mark"><a href="http://price.pcauto.com.cn/price/sg919/" target="_blank" rel="nofollow">DB9 <span id="carState">车型</span></a></h3> 
+<span class="pagination" id="paginate-typeList">
+<i class="toc">在售车型</i>
+<i class="toc">停产车型</i>
+</span>
+</div>
+<div class="tbC" id="typeList">
+<div class="contentdiv"> 
+<div class="bar"> 
+<span class="sCol1"> 6.0L车型</span> 
+<span class="sCol2">变速箱</span> 
+<span class="sCol3">官方价</span> 
+<span class="sCol4">经销商报价</span> 
+<span class="sCol5">详情</span> 
+</div>
+<ul>
+<li> 
+<i class="iCol1 blue">
+<em><a href="http://price.pcauto.com.cn/m18648/" target="_blank" title=" 2011款 6.0 Touchtronic Coupe"> 2011款 6.0 Touchtronic Coupe</a></em>
+</i>
+<i class="iCol2">
+手自一体
+</i> 
+<i class="iCol3">
+<em>
+<a href="http://price.pcauto.com.cn/m18648/price.html" target="_blank" rel="nofollow">339.0万</a>
+</em>
+<a class="icon_jsq" href="http://price.pcauto.com.cn/vbuycar.jsp?mid=18648" target="_blank" title="购车费用计算" rel="nofollow"></a>
+</i>
+<i class="iCol4">
+<em class="red">
+<a href="http://price.pcauto.com.cn/m18648/price.html" target="_blank" rel="nofollow">
+325.9 - 339.0万
+</a>
+</em>
+<a class="icon_zs" href="http://price.pcauto.com.cn/dealer/commorders/order.jsp?ad=3338&t=0&mid=18648" target="_blank" title="询问商家报价" rel="nofollow">询价</a>
+</i>
+<i class="iCol5 blue">
+<a href="http://price.pcauto.com.cn/m18648/config.html" target="_blank" title="参数配置" rel="nofollow">参数配置</a> 
+<a href="http://price.pcauto.com.cn/cars/s8394/" target="_blank" title="实拍图片" rel="nofollow">图片</a> 
+</i>
+<i class="iCol6">
+<input class="sContrast" type="button" name="compare_18648" 
+onclick="javascript:compareBar.comparePro(this,'http://price.pcauto.com.cn/m18648/','DB9 2011款 6.0 Touchtronic Coupe','http://img.pcauto.com.cn/images/pcautogallery/d1_80x60.jpg','339.0万',10,18648)" />
+</i>
+</li>
+<li> 
+<i class="iCol1 blue">
+<em><a href="http://price.pcauto.com.cn/m18649/" target="_blank" title=" 2011款 6.0 Touchtronic Volante "> 2011款 6.0 Touchtronic Volante </a></em>
+</i>
+<i class="iCol2">
+手自一体
+</i> 
+<i class="iCol3">
+<em>
+<a href="http://price.pcauto.com.cn/m18649/price.html" target="_blank" rel="nofollow">345.0万</a>
+</em>
+<a class="icon_jsq" href="http://price.pcauto.com.cn/vbuycar.jsp?mid=18649" target="_blank" title="购车费用计算" rel="nofollow"></a>
+</i>
+<i class="iCol4">
+<em class="red">
+<a href="http://price.pcauto.com.cn/m18649/price.html" target="_blank" rel="nofollow">
+345.0 - 349.9万
+</a>
+</em>
+<a class="icon_zs" href="http://price.pcauto.com.cn/dealer/commorders/order.jsp?ad=3338&t=0&mid=18649" target="_blank" title="询问商家报价" rel="nofollow">询价</a>
+</i>
+<i class="iCol5 blue">
+<a href="http://price.pcauto.com.cn/m18649/config.html" target="_blank" title="参数配置" rel="nofollow">参数配置</a> 
+<a href="http://price.pcauto.com.cn/cars/s8394/" target="_blank" title="实拍图片" rel="nofollow">图片</a> 
+</i>
+<i class="iCol6">
+<input class="sContrast" type="button" name="compare_18649" 
+onclick="javascript:compareBar.comparePro(this,'http://price.pcauto.com.cn/m18649/','DB9 2011款 6.0 Touchtronic Volante ','http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596881062_bthumb_80x60.jpg','345.0万',10,18649)" />
+</i>
+</li>
+</ul>
+</div>
+<div class="contentdiv"> 
+<div class="bar"> 
+<span class="sCol1"> 6.0L车型</span> 
+<span class="sCol2">变速箱</span> 
+<span class="sCol3">官方价</span> 
+<span class="sCol4">经销商报价</span> 
+<span class="sCol5">详情</span> 
+</div>
+<ul>
+<li> 
+<i class="iCol1 blue">
+<em><a href="http://price.pcauto.com.cn/m3284/" target="_blank" title=" 2007款 6.0 Manual Coupe"> 2007款 6.0 Manual Coupe</a></em>
+</i>
+<i class="iCol2">
+手动
+</i> 
+<i class="iCol3">
+<em>
+<a href="http://price.pcauto.com.cn/m3284/price.html" target="_blank" rel="nofollow">319.9万</a>
+</em>
+<a class="icon_jsq" href="http://price.pcauto.com.cn/vbuycar.jsp?mid=3284" target="_blank" title="购车费用计算" rel="nofollow"></a>
+</i>
+<i class="iCol4">
+<em class="red">
+<a href="http://price.pcauto.com.cn/m3284/price.html" target="_blank" rel="nofollow">
+319.9万
+</a>
+</em>
+<a class="icon_zs" href="http://price.pcauto.com.cn/dealer/commorders/order.jsp?ad=3338&t=0&mid=3284" target="_blank" title="询问商家报价" rel="nofollow">询价</a>
+</i>
+<i class="iCol5 blue">
+<a href="http://price.pcauto.com.cn/m3284/config.html" target="_blank" title="参数配置" rel="nofollow">参数配置</a> 
+<a href="http://price.pcauto.com.cn/cars/s919/" target="_blank" title="实拍图片" rel="nofollow">图片</a> 
+</i>
+<i class="iCol6">
+<input class="sContrast" type="button" name="compare_3284" 
+onclick="javascript:compareBar.comparePro(this,'http://price.pcauto.com.cn/m3284/','DB9 2007款 6.0 Manual Coupe','http://img.pcauto.com.cn/images/pcautogallery/d1_80x60.jpg','319.9万',10,3284)" />
+</i>
+</li>
+<li> 
+<i class="iCol1 blue">
+<em><a href="http://price.pcauto.com.cn/m12640/" target="_blank" title=" 2007款 6.0 Touchtronic Coupe"> 2007款 6.0 Touchtronic Coupe</a></em>
+</i>
+<i class="iCol2">
+手自一体
+</i> 
+<i class="iCol3">
+<em>
+<a href="http://price.pcauto.com.cn/m12640/price.html" target="_blank" rel="nofollow">325.9万</a>
+</em>
+<a class="icon_jsq" href="http://price.pcauto.com.cn/vbuycar.jsp?mid=12640" target="_blank" title="购车费用计算" rel="nofollow"></a>
+</i>
+<i class="iCol4">
+<em class="red">
+<a href="http://price.pcauto.com.cn/m12640/price.html" target="_blank" rel="nofollow">
+325.9万
+</a>
+</em>
+<a class="icon_zs" href="http://price.pcauto.com.cn/dealer/commorders/order.jsp?ad=3338&t=0&mid=12640" target="_blank" title="询问商家报价" rel="nofollow">询价</a>
+</i>
+<i class="iCol5 blue">
+<a href="http://price.pcauto.com.cn/m12640/config.html" target="_blank" title="参数配置" rel="nofollow">参数配置</a> 
+<a href="http://price.pcauto.com.cn/cars/s919/" target="_blank" title="实拍图片" rel="nofollow">图片</a> 
+</i>
+<i class="iCol6">
+<input class="sContrast" type="button" name="compare_12640" 
+onclick="javascript:compareBar.comparePro(this,'http://price.pcauto.com.cn/m12640/','DB9 2007款 6.0 Touchtronic Coupe','http://img.pcauto.com.cn/images/pcautogallery/d1_80x60.jpg','325.9万',10,12640)" />
+</i>
+</li>
+<li> 
+<i class="iCol1 blue">
+<em><a href="http://price.pcauto.com.cn/m3285/" target="_blank" title=" 2007款 6.0 Manual Volante "> 2007款 6.0 Manual Volante </a></em>
+</i>
+<i class="iCol2">
+手动
+</i> 
+<i class="iCol3">
+<em>
+<a href="http://price.pcauto.com.cn/m3285/price.html" target="_blank" rel="nofollow">339.9万</a>
+</em>
+<a class="icon_jsq" href="http://price.pcauto.com.cn/vbuycar.jsp?mid=3285" target="_blank" title="购车费用计算" rel="nofollow"></a>
+</i>
+<i class="iCol4">
+<em class="red">
+<a href="http://price.pcauto.com.cn/m3285/price.html" target="_blank" rel="nofollow">
+339.9万
+</a>
+</em>
+<a class="icon_zs" href="http://price.pcauto.com.cn/dealer/commorders/order.jsp?ad=3338&t=0&mid=3285" target="_blank" title="询问商家报价" rel="nofollow">询价</a>
+</i>
+<i class="iCol5 blue">
+<a href="http://price.pcauto.com.cn/m3285/config.html" target="_blank" title="参数配置" rel="nofollow">参数配置</a> 
+<a href="http://price.pcauto.com.cn/cars/s919/" target="_blank" title="实拍图片" rel="nofollow">图片</a> 
+</i>
+<i class="iCol6">
+<input class="sContrast" type="button" name="compare_3285" 
+onclick="javascript:compareBar.comparePro(this,'http://price.pcauto.com.cn/m3285/','DB9 2007款 6.0 Manual Volante ','http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596881062_bthumb_80x60.jpg','339.9万',10,3285)" />
+</i>
+</li>
+<li> 
+<i class="iCol1 blue">
+<em><a href="http://price.pcauto.com.cn/m12641/" target="_blank" title=" 2007款 6.0 Touchtronic Volante "> 2007款 6.0 Touchtronic Volante </a></em>
+</i>
+<i class="iCol2">
+手自一体
+</i> 
+<i class="iCol3">
+<em>
+<a href="http://price.pcauto.com.cn/m12641/price.html" target="_blank" rel="nofollow">349.9万</a>
+</em>
+<a class="icon_jsq" href="http://price.pcauto.com.cn/vbuycar.jsp?mid=12641" target="_blank" title="购车费用计算" rel="nofollow"></a>
+</i>
+<i class="iCol4">
+<em class="red">
+<a href="http://price.pcauto.com.cn/m12641/price.html" target="_blank" rel="nofollow">
+349.9万
+</a>
+</em>
+<a class="icon_zs" href="http://price.pcauto.com.cn/dealer/commorders/order.jsp?ad=3338&t=0&mid=12641" target="_blank" title="询问商家报价" rel="nofollow">询价</a>
+</i>
+<i class="iCol5 blue">
+<a href="http://price.pcauto.com.cn/m12641/config.html" target="_blank" title="参数配置" rel="nofollow">参数配置</a> 
+<a href="http://price.pcauto.com.cn/cars/s919/" target="_blank" title="实拍图片" rel="nofollow">图片</a> 
+</i>
+<i class="iCol6">
+<input class="sContrast" type="button" name="compare_12641" 
+onclick="javascript:compareBar.comparePro(this,'http://price.pcauto.com.cn/m12641/','DB9 2007款 6.0 Touchtronic Volante ','http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596881062_bthumb_80x60.jpg','349.9万',10,12641)" />
+</i>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<script>
+var playTag = "1";//默认显示“在售TAG”
+featuredcontentslider.init({id: "typeList",contentsource: ["inline", ""],toc: "markup", nextprev: ["上一条", "下一条"], revealtype: "mouseover",playtab: playTag,enablefade: [false, 0.2],delay:300,autorotate: [false, 0], onChange: function(previndex, curindex){}});
+</script>
+<div id="ivy_t3"><!-- 广告位置 -->
+<script>showIvyViaJs("auto.bjk.neiye.xlxtl.")</script>
+</div>
+<!-- 当25图图片小于 20 张时，出普通图 -->
+<div class="modC modTypePic mgb10">
+<div class="thC">
+<h3 class="mark"><a href="http://price.pcauto.com.cn/cars/sg919/" target="_blank">DB9 实拍图片</a></h3>
+<span class="exmark blue">
+</span>
+<span class="submark blue"><a target="_blank" href="http://price.pcauto.com.cn/cars/sg919/">更多>></a></span>
+</div>
+<div class="tbC">
+<div class="th">
+<strong class="mark blue"><a href="http://price.pcauto.com.cn/cars/sg919-o1-1/" target="_blank">外观(3张)</a></strong>
+<span class="submark blue"><a href="http://price.pcauto.com.cn/cars/sg919-o1-1/" target="_blank">更多>></a></span>
+</div>
+<ul class="ulPic">
+<li> 
+<a href="http://price.pcauto.com.cn/cars/image/252469-1-sg919-o1.html" target="_blank"> 
+<img src="http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596880583_bthumb_120x90.jpg" width="120" height="90" alt="外观">
+</a> 
+</li>
+<li> 
+<a href="http://price.pcauto.com.cn/cars/image/252470-1-sg919-o1.html" target="_blank"> 
+<img src="http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596880352_bthumb_120x90.jpg" width="120" height="90" alt="外观">
+</a> 
+</li>
+<li> 
+<a href="http://price.pcauto.com.cn/cars/image/252471-1-sg919-o1.html" target="_blank"> 
+<img src="http://img.pcauto.com.cn/images/pcautogallery/20104/30/1272596880836_bthumb_120x90.jpg" width="120" height="90" alt="外观">
+</a> 
+</li>
+</ul>
+</div>
+</div>
+<div class="modC modTypeVedio modTypeVedio2 mgb10">
+<div class="thC">
+<h3 class="mark"><a href="http://price.pcauto.com.cn/video/sg919/" target="_blank">DB9 视频</a></h3>
+<span class="submark blue"><a href="http://price.pcauto.com.cn/video/sg919/" target="_blank">更多>></a></span>
+</div>
+<div class="tbC">
+<ul class="ulVedio ulVedio2">
+<li>
+<i class="btnIocn"></i>
+<i class="picWrap">
+<i class="pic">
+<a href="http://v.pcauto.com.cn/video-22063.html" target="_blank" title="媒体试驾阿斯顿马丁DB9 Volante">
+<img height="90" width="120" src="
+http://video.3conline.com/pcauto/videocenter/interior/2012/07/19/A5F5FA410700FB15_120x90.jpg" alt="媒体试驾阿斯顿马丁DB9 Volante">
+</a>
+</i>
+</i>
+<p><a href="http://v.pcauto.com.cn/video-22063.html" target="_blank" title="媒体试驾阿斯顿马丁DB9 Volante">媒体试驾阿斯顿马丁DB</a></p>
+</li>
+<li>
+<i class="btnIocn"></i>
+<i class="picWrap">
+<i class="pic">
+<a href="http://v.pcauto.com.cn/video-21074.html" target="_blank" title="阿斯顿马丁 DB9高清视频欣赏">
+<img height="90" width="120" src="
+http://video.3conline.com/pcauto/videocenter/interior/2012/05/24/C873677D7AB9E905_120x90.jpg" alt="阿斯顿马丁 DB9高清视频欣赏">
+</a>
+</i>
+</i>
+<p><a href="http://v.pcauto.com.cn/video-21074.html" target="_blank" title="阿斯顿马丁 DB9高清视频欣赏">阿斯顿马丁 DB9高清视</a></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="modC modPrivilege mgb10">
+<div class="thC">
+<h3 class="mark"><a target="_blank" href="http://price.pcauto.com.cn/shangjia/sg919/">DB9 经销商</a></h3>
+<span class="submark blue"><a id="moreDealer" target="_blank" href="http://price.pcauto.com.cn/shangjia/sg919/">更多&gt;&gt;</a></span>
+<span class="submark"><a href="http://www1.pcauto.com.cn/fenzhan/wrgcj/2012.html" target="_blank" class="red" style="font-size:14px" rel="nofollow"><b>超低价购车再返现，开启最省购车之旅</b></a></span>
+</div>
+<div class="tbC">
+<div class="dCity"> 
+<span class="curCity"> 
+<span class="tit">当前城市：</span> 
+<strong class="red sCity"><a target="_blank" href="" id="showAreaName">广州市</a></strong>
+<!-- 经销商接口城市地区选择公用文件 -->
+<div class="layerBox" id="boxchang2">
+<p class="layerTit" id="boxchang2_switch">切换城市</p>
+<!--省市列表.start-->
+<div class="layerData layerCity2" id="boxchang2_content">
+<ul class="ipcUl1">
+<li>
+<span class="hotCt" id="hotCt"></span>
+<span class="errorTips">我要纠错：<a href="http://whoisadmin.pconline.com.cn/ipShare/new.htm" target="_blank">所在城市显示错误</a></span>
+</li>
+</ul>
+<ul class="ipcUl2">
+<li>
+<em class="eTit" style="height:60px;">华北东北：</em>
+<i><a href="javascript:;" onclick="change_area('2','北京','2');">北京市</a></i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,20)">
+<a href="javascript:;">天津</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>	
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,21)">
+<a href="javascript:;">山西省</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,27)">
+<a href="javascript:;">内蒙古</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,2)">
+<a href="javascript:;">辽宁省</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,15)">
+<a href="javascript:;">黑龙江</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,24)">
+<a href="javascript:;">吉林省</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>	
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,11)">
+<a href="javascript:;">河北省</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>
+</li>
+<li> 
+<em style=" height:60px;" class="eTit">华东地区：</em>
+<i><a href="javascript:;" onclick="change_area('3','上海','3');">上海市</a></i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,1)">
+<a href="javascript:;">江苏省</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,19)">
+<a href="javascript:;">浙江省</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i> 
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,28)">
+<a href="javascript:;">安徽省</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,3)">
+<a href="javascript:;">福建省</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,16)">
+<a href="javascript:;">江西省</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,13)">
+<a href="javascript:;">山东省</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>
+</li>
+<li>
+<em class="eTit" style="height:30px;">华南华中：</em>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,5)" style="z-index: 350;" mouse="" class="hide">
+<a href="javascript:;">广东省</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,23)" style="z-index: 350;" mouse="" class="hide">
+<a href="javascript:;">广西省</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,18)">
+<a href="javascript:;">海南省</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,22)">
+<a href="javascript:;">河南省</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,4)">
+<a href="javascript:;">湖北省</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,10)">
+<a href="javascript:;">湖南省</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+</li>
+<li>
+<em style=" height:55px;" class="eTit">西北西南：</em>
+<i><a href="javascript:;" onclick="change_area('77','重庆','77');">重庆市</a></i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,8)">
+<a href="javascript:;">陕西省</a>
+<dl class="subCityPage"><dd></dd></dl>
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,25)">
+<a href="javascript:;">甘肃省</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,31)">
+<a href="javascript:;">青海</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,30)">
+<a href="javascript:;">宁夏</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,17)">
+<a href="javascript:;">新疆</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,12)">
+<a href="javascript:;">四川省</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,26)">
+<a href="javascript:;">贵州省</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,9)">
+<a href="javascript:;">云南省</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+<i onmouseout="closeCityPop(this)" onmouseover="showCityPop(this,29)">
+<a href="javascript:;">西藏</a>
+<dl class="subCityPage"><dd></dd></dl>	
+</i>
+</li>
+<div class="clear"></div>
+</ul>
+</div>
+<!--省市列表.end-->
+</div>
+</span> 
+<span class="hotCity" id="li_city1"></span> 
+</div>
+<div id="dealer0" class="privilege2"></div>
+</div>
+</div>
+<div class="privilege2 otherPrivilege2" id="otherPrivilege">
+<div class="bar"><span id="showAreaName2">广州</span>周边优惠</div>
+<div id="ohterCityList"></div>
+</div>
+<script>
+//切换城市
+function change_area(areaId,areaName,siteId){
+if(typeof(doShowAreaQuotations)=='function' ) doShowAreaQuotations(areaId,areaName,serialGroupId); //显示地区行情数据
+if(typeof(doShowDealerQuotations)=='function' ) doShowDealerQuotations(areaId,serialGroupId); //显示一个地区商情数据
+if(typeof(__doShowDealer)=='function')__doShowDealer(areaId,serialGroupId);//显示推荐经销商
+if(typeof(doShowAreaDealers)=='function' ) doShowAreaDealers(areaId,areaName,serialGroupId); //显示地区经销商促销信息
+}
+</script>
+<script>
+var manufacturerId = "62";
+var serialGroupId = "919";
+var DEALERROOT = 'http://price.pcauto.com.cn';
+var sjUrl = DEALERROOT + '/shangjia/c'+1+'/b'+manufacturerId+'/';
+var _areaId = 1;
+var _areaName = '';
+var _provinceId = 0;
+$(function(){
+//热点城市
+$.getScript(DEALERROOT+'/dealer/interface/6_0/dealer_region_js.jsp?manufacturerId='+manufacturerId+'&serialGroupId='+serialGroupId+'&callback=__doShowHotCitys');	
+//经销商促销信息
+var area = getPCautoArea();
+_areaId = area[0];
+_areaName = area[1];
+doShowAreaDealers(area[0],area[1]);
+});
+//热门城市
+function __doShowHotCitys(data){
+doGenCitysHtml(data,_areaId,'li_city1','hotCt');
+}
+//回调函数(显示热门城市列表)
+function doGenCitysHtml(data,areaId,showId,showId2){
+var shtml = '<span class="tit">热门城市：</span>';
+var hotHtml = '<em>热门城市：</em>';
+if (data!=null && data.length>0){
+if (data[1].length>0){
+for(var i=0;i<data[1].length;++i){
+var o = data[1][i];
+var _func = "change_area('"+o.ID+"','"+o.NAME+"','"+(o.SITE_REGION_ID!=undefined?o.SITE_REGION_ID:'')+"')";
+shtml += '<a id="'+o.ID+'"'+(areaId==o.ID?' class="cur"':'')+' href="javascript:'+_func+';">'+o.NAME+'('+o.CNT+')</a>';
+if(i<6){
+hotHtml += '<a id="'+o.ID+'"'+(areaId==o.ID?' class="cur"':'')+' href="javascript:'+_func+';">'+o.NAME+'</a>&nbsp;';	
+}
+}
+}
+}
+if (document.getElementById(showId)) document.getElementById(showId).innerHTML = shtml;
+if (document.getElementById(showId2)) document.getElementById(showId2).innerHTML = hotHtml;
+}
+function doShowAreaDealers(areaId,areaName){
+doRedHotcity();
+_areaId = areaId;
+_areaName = areaName;
+//经销商促销信息
+$.getJSON(DEALERROOT+"/dealer/interface/isRoundBeijing.jsp?md=go&rid="+_areaId, function(data){
+if(data){
+$.getScript(DEALERROOT+'/dealer/interface/5_5/dealer_newest_group_json.jsp?manufacturerId='+manufacturerId+'&serialGroupId='+serialGroupId+'&rid='+areaId+'&callback=__doShowNewestGroup&bc='+data);
+}else{
+$.getScript(DEALERROOT+'/dealer/interface/5_5/dealer_newest_group_json.jsp?manufacturerId='+manufacturerId+'&serialGroupId='+serialGroupId+'&rid='+areaId+'&callback=__doShowNewestGroup');
+}
+});
+var cityUrl = DEALERROOT + "/shangjia/c" + areaId + "/sg" + serialGroupId + "/";
+$("#showAreaName").attr("href",cityUrl);
+$("#showAreaName").text(areaName);
+$("#showAreaName2").text(areaName);
+$("#moreDealer").attr("href",cityUrl);
+/*
+$.getJSON(DEALERROOT+"/dealer/interface/5_5/getProvince.jsp?rid="+areaId, function(data){
+if(data){//省份
+_provinceId = data.provinceId;
+var url = DEALERROOT + "/shangjia/p" + _provinceId + "/sg" + serialGroupId + "/";
+if(document.getElementById('moreDealer'))$("#moreDealer").attr("href",url);
+if(document.getElementById('moreUrl'))$("#moreUrl").attr("href",url);
+}
+});
+*/
+if (document.getElementById('boxchang2')) {document.getElementById('boxchang2').className = 'layerBox';}
+}
+//套红
+function doRedHotcity(){
+$("#li_city1 a").each(function (i){
+$(this).removeClass();
+if ($(this).attr('id')==_areaId) $(this).addClass('cur');
+});
+}
+//回调函数(显示商家促销信息列表)
+function __doShowNewestGroup(_areaData){
+sjUrl = DEALERROOT + "/shangjia/c" + _areaId + "/sg" + serialGroupId + "/";
+/*
+if(_provinceId == 0){
+sjUrl = DEALERROOT + '/shangjia/sg'+serialGroupId+'/';
+}else{
+sjUrl = DEALERROOT + '/shangjia/p'+_provinceId+'/sg'+serialGroupId+'/';
+}
+*/
+var _total = _areaData==null?0:_areaData._total;
+var _hotCity = _areaData==null?0:_areaData._hotCity;
+//先隐藏周边城市
+$("#otherPrivilege").css('display','none');
+if(_areaId != 2 && _total == 0){//除北京外，当地无促销信息
+var alg = _areaData==null?0:_areaData._items==null?0:_areaData._items.length;
+if(alg == 0){//周边也无
+doGenAreaDealerHtml(null,'dealer0',true,sjUrl,_areaId,0); //最新优惠
+$("#dealer0").attr('style','display:block');
+}else{//周边城市为北京的(hotCity==2)用非列表样式显示北京的信息，否则用列表样式显示周边城市信息
+//$("#nomeg").css('display','block');
+$("#dealer0").html('<div align="center" style="padding-top:20px;padding-bottom:20px;">抱歉，本地区暂无经销商信息</div>');
+$("#dealer0").attr('style','display:none');
+if(_hotCity == 2){//周边城市为北京的(hotCity==2)用非列表样式显示北京的信息
+var sjUrl = DEALERROOT + '/shangjia/p6/sg' + serialGroupId + '/';
+var _items = _areaData==null?null:_areaData._items;
+doGenAreaDealerHtml(_items,'ohterCityList',true,sjUrl,2,0); //最新优惠
+$("#otherPrivilege").css('display','block');
+$("#dealer0").attr('style','display:block');
+}else{//用列表样式显示周边城市信息
+var _items = _areaData==null?null:_areaData._items;
+if(_items != null && _items.length > 0){
+doGenAreaDealerHtml(_items!=null?_items.slice(0,_items.length):null,'ohterCityList',true,sjUrl,_hotCity,1); //其他周边(热门)城市优惠信息
+$("#otherPrivilege").css('display','block');
+}
+$("#dealer0").attr('style','display:block');
+}
+}
+}else if((_areaId != 2 && _areaId != 3) && _total <= 4){
+//除上海北京外，当地有促销信息但少于=4，需用非列表样式显示当地信息，并用列表样式显示其他周边城市信息
+var total1 = _total;
+var _items = _areaData==null?null:_areaData._items;
+doGenAreaDealerHtml(_items!=null?_items.slice(0,total1):null,'dealer0',true,sjUrl,_areaId,0); //最新优惠
+$("#dealer0").attr('style','display:block');
+//新的带400按钮的列表样式
+_items = _areaData==null?null:_areaData._items;
+if(_items.length > _total){//周边城市有数据,只取5个
+var shtml = '';
+var l = _items.length - _total;
+var indx = _total + (l>5?5:l);
+doGenAreaDealerHtml(_items!=null?_items.slice(_total,indx):null,'ohterCityList',true,sjUrl,_hotCity,1); //其他周边(热门)城市优惠信息
+$("#otherPrivilege").css('display','block');
+}
+}else{//当地有促销信息并大于4，只需用非列表样式显示当地信息
+var total1 = 0;
+if(_areaId == 2 || _areaId == 3){
+var _items = _areaData==null?null:_areaData._items;
+doGenAreaDealerHtml(_items,'dealer0',true,sjUrl,_areaId,0); //最新优惠
+}else{
+total1 = _total;	
+var _items = _areaData==null?null:_areaData._items;
+doGenAreaDealerHtml(_items!=null?_items.slice(0,total1):null,'dealer0',true,sjUrl,_areaId,0); //最新优惠
+}
+$("#dealer0").attr('style','display:block');
+} 
+}
+/*
+*显示一个地区的数据
+*_items 数据结果集
+*showId 露出数据的html标签ID
+*istype 是否显示商家类型(4S店/综合店) true:是,false:否
+*sjUrl 商家url
+*areaId 地区ID
+*isOtherCity 是否为其他周边(热门)城市优惠信息推荐 1:是,0:否
+*/
+function doGenAreaDealerHtml(_items,showId,istype,sjUrl,areaId,isOtherCity){
+var default_html = '<div style="height:100px;line-height:100px;font-size:14px;text-align:center;color:#5d5d5d">'
++ '<a href="' + sjUrl + '" target="_blank" class="blue" id="moreUrl">点击查看该地区更多商家信息</a>'
++ '</div>';
+var shtml = '';
+if (_items == null || _items.length == 0){
+shtml = default_html;
+}else{	
+shtml = '<ul>';
+for(var i = 0;_items != null && i < _items.length;i++){
+var dealer = _items[i]._dealerId;
+var news = _items[i]._dealerNewsId;
+if(isOtherCity == 1 && i == 2){//控制周边城市只出两条
+break;
+}
+//商家等级
+var vipName = ''; 
+if(isOtherCity == 1){
+vipName = dealer._regionId_name+dealer._agentQualification_desc;
+}else{
+vipName = dealer._agentQualification_desc;	
+}
+//促销车系链接
+var newsUrl = DEALERROOT + '/' + dealer.id + '/model' + serialGroupId + '.html';
+//商家等级图标
+var vipImg = '';
+if (dealer.vip == 2){
+vipImg = '<img src="http://www1.pcauto.com.cn/2010/price/img/chexi_hg.png" title="'+dealer._vip_desc+'商家" />';
+}else if (dealer.vip == 1){
+vipImg = '<img src="http://www1.pcauto.com.cn/2010/price/img/chexi_yg.png" title="'+dealer._vip_desc+'商家" />';
+}
+//400
+var _400A = '';
+//一键通
+var wellCall = '';
+var phone = dealer._400Phone;
+if (dealer.is400Phone == 1 && dealer._400Phone != undefined){
+if(phone.indexOf('-') > -1){
+var index = phone.indexOf('-');
+var phone_400 = phone.substring(0,index);
+phone_400 = phone_400.substring(0,4) + "-" + phone_400.substring(4,7) + "-" + phone_400.substring(7,phone_400.length);
+phone = (isOtherCity==0?'<em>':'') + phone_400 + (isOtherCity==0?'</em>':'')
++ ' 转 '
++ (isOtherCity==0?'<em>':'') + phone.substring(index+1,phone.length) + (isOtherCity==0?'</em>':'');
+}else{
+phone = phone.substring(0,4) + "-" + phone.substring(4,7) + "-" + phone.substring(7,phone.length);
+if(isOtherCity==0){
+phone = '<em>'+phone+'</em>';
+}
+}
+_400A += '<span class="tit">电话：</span>'
++ '<span class="tel">' + phone + '</span>'
++ '<em title="太平洋汽车认证电话，请放心拨打" class="phone-400"></em>';
+}else{
+_400A += '<span class="tit" title="' + phone + '">电话：</span>'
++ '<span class="phone">' + phone + '</span>';
+//if(areaId != 2){
+if(dealer._400PhoneUrl != undefined){
+wellCall = '<a title="免费通话" target="_blank" href="'+dealer._400PhoneUrl+'" class="aTel"></a>';
+}
+//}else{
+//todo
+//}
+}
+//商家地图
+var _mapA = '';
+if (dealer._dealerMapUrl != undefined){
+if(isOtherCity == 1){
+_mapA = '<a class="grade" href="'+dealer._dealerMapUrl+'" target="_blank" title="地图">[地图]</a>';
+}else{
+_mapA = '<a class="blue" href="'+dealer._dealerMapUrl+'" target="_blank" title="地图">[地图]</a>';
+}
+}
+//促销信息
+var newsMsg = '';
+if(news.name != '更多优惠请致电查询'){
+newsMsg = '促销：<a class="sale" href="' + news._dealerNewsUrl + '" target="_blank" title="' + news.name + '">' + news.name + '</a>';
+}else{
+newsMsg = '促销：暂无促销';
+}
+if((i + 2) % 2 == 0){//用于控制样式，一行二条促销信息
+shtml += '<div class="row clearfix">'
+}
+//商家地址
+var address = "";
+var shortAddress = "";
+if(dealer.address != undefined){
+address = dealer.address;
+shortAddress = dealer.address.substring(0,22);
+}
+shtml += '<li>';
+shtml += '<p>' + vipName + '：<a target="_blank" href="'+ newsUrl + '" class="com" title="' + dealer.name + '">' + (dealer.name).substring(0,32) + '</a>' + vipImg + '</p>'
++ '<p class="phoneWrap clearfix">' + _400A + wellCall + '</p>'
++ '<p class="clearfix">'
++ '<span class="fl">地址：</span>'
++ '<span class="fl addr" title=' + address + '>' + shortAddress + _mapA + '</span>'
++ '</p>'
++ '<p>' + newsMsg + '</p>';
+shtml += '</li>';
+if((i + 2) % 2 == 1){//用于控制样式，一行二条促销信息
+shtml += '</div>';
+}else{
+if(i == (_items.length - 1)){
+shtml += '</div>';
+}
+}
+}
+shtml += '</ul>';
+if(showId=='dealer0'){
+shtml += '<div class="dMoreprivilege blue"><a target="_blank" href="' + sjUrl + '">查看更多' + _areaName + '经销商&gt;&gt;</a></div>';
+}
+}	
+if (document.getElementById(showId)) document.getElementById(showId).innerHTML = shtml;
+}
+</script>
+<script>
+//层的显示与隐藏
+function citySelector(id) {
+var btn = $$(id+"_switch"),
+target = $$(id+"_content"),
+box = $$(id),
+txtlink = target.getElementsByTagName("a"),
+tStyle = target.style;
+btn.style.visibility = "visible";
+//绑定事件
+btn.onclick = function(){
+isclass = box.className == "layerBox";
+isclass ? box.className="layerBox layerBoxsl" : box.className = "layerBox";
+return false
+};
+target.onmouseout = function(e){
+e = e || event;
+var relatedTarget = e.toElement || e.relatedTarget;
+while(relatedTarget && relatedTarget != this){
+relatedTarget = relatedTarget.parentNode;
+if(!relatedTarget){
+box.className = "layerBox";
+}
+}	
+}
+}
+//show city pop
+var cityTime,clear=function(){return clearTimeout(cityTime)};
+function showCityPop(obj,id){
+if(cityTime)clear();
+obj.style.zIndex=350;
+obj.setAttribute("mouse","on");
+cityTime = setTimeout(function(){
+if(obj.className!="show"){
+obj.className="show";
+$.getJSON('/common/ajax/region_data_json?areaId='+id,function(o){
+var htm='',cn;
+$(obj).find("dt").remove();
+$.each(o.index,function(i,d){
+cn=d.isSite=="1"?"subI2":"subI1";
+var _func="change_area('"+d.id+"','"+d.name+"','"+d.site_id+"')";
+htm+='<a class="'+cn+'" href="javascript:'+_func+';">'+d.name+'</a>';
+})
+$(obj).find("dl").append("<dt>"+htm+"</dt>");
+})
+}
+},300)
+}
+function closeCityPop(obj,id){
+if(cityTime)clear();
+obj.setAttribute("mouse","");
+setTimeout(function(){if(obj.getAttribute("mouse")!="on"){obj.className="hide"}},100)
+}
+</script>
+<div class="modC mgb10 modSameSale" id="sameSaleDiv">
+<div class="thC"><h2 class="mark">同级别车型促销</h2></div>
+<div class="tbC clearfix" id="privilegeWrap"></div>
+</div>
+<script type="text/javascript">
+var _areaId = 1;
+var serialGroupId = "919";
+$(function(){//显示一个地区最新竟品广告
+var area = getPCautoArea();
+doShowAreaAd(area[0]);	
+});
+//显示一个地区最新竟品广告数据
+function doShowAreaAd(areaId){	
+_areaId=areaId;
+$.getScript('http://price.pcauto.com.cn/dealer/interface/dealer_ad_newest_json.jsp?serialGroupId='+serialGroupId+'&max=10&rid='+areaId+'&callback=__doShowAdNewest');
+}
+function __doShowAdNewest(_areaData){
+var _items=doGetRandomDiffData((_areaData==null?null:_areaData._items),10);	
+if(_items==null || _items.length==0){
+$("#sameSaleDiv").css('display','none');
+}else{
+var sjUrl='';
+$("#sameSaleDiv").css('display','block');
+doGenAreaAdHtml(_items,'privilegeWrap',sjUrl); //最新竟品广告
+}	
+}
+//显示一个地区的数据
+function doGenAreaAdHtml(_items,showId,sjUrl){
+var default_html='';
+var shtml='';
+if (_items==null || _items.length==0){
+shtml=default_html;
+}else{	
+shtml='<ul class="ulTxt ulTxtSameSale f12">';
+for(var i=0;_items!=null && i<_items.length;++i){
+var dealer=_items[i]._dealerId;
+var ad=_items[i]._dealerAdId;
+shtml += '<li>'
++ '<i class="sKey"><a href="http://price.pcauto.com.cn/sg'+ad.serialGroupId+'/'+'" target="_blank" title="'+ad._serialGroupId_name+'">['+ad._serialGroupId_name+']</a></i>'
++ '<i class="tit"><a href="'+ad._dealerAdUrl+'" target="_blank" title="'+ad.name+'">'+ad.name+'</a></i>'
++ '</li>';
+}
+shtml+='</ul>';
+}	
+if (document.getElementById(showId)) document.getElementById(showId).innerHTML = shtml;
+fnhover(showId,"li","liHover");
+}
+</script>
+<!-- 级别车系车型页面小通栏2 -->
+<div class="ivy750">
+<script>showIvyViaJs("auto.bjk.jbcx.ptl2.")</script>
+</div>
+<div class="modC mgb10 modshop">
+<div class="thC"><h3 class="mark">DB9热门城市4S店</h3></div>
+<div class="tbC"> 
+<div class="city4s list-wrap clearfix">
+<strong>城市：</strong>
+<div class="list">
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c2/nb62/" title="北京阿斯顿马丁4S店">北京</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c257/nb62/" title="天津阿斯顿马丁4S店">天津</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c3/nb62/" title="上海阿斯顿马丁4S店">上海</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c1/nb62/" title="广州阿斯顿马丁4S店">广州</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c4/nb62/" title="深圳阿斯顿马丁4S店">深圳</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c177/nb62/" title="南京阿斯顿马丁4S店">南京</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c76/nb62/" title="武汉阿斯顿马丁4S店">武汉</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c127/nb62/" title="沈阳阿斯顿马丁4S店">沈阳</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c45/nb62/" title="西安阿斯顿马丁4S店">西安</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c87/nb62/" title="成都阿斯顿马丁4S店">成都</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c77/nb62/" title="重庆阿斯顿马丁4S店">重庆</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c217/nb62/" title="杭州阿斯顿马丁4S店">杭州</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c317/nb62/" title="青岛阿斯顿马丁4S店">青岛</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c248/nb62/" title="大连阿斯顿马丁4S店">大连</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c218/nb62/" title="宁波阿斯顿马丁4S店">宁波</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c147/nb62/" title="济南阿斯顿马丁4S店">济南</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c227/nb62/" title="长春阿斯顿马丁4S店">长春</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c287/nb62/" title="厦门阿斯顿马丁4S店">厦门</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c267/nb62/" title="郑州阿斯顿马丁4S店">郑州</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c117/nb62/" title="长沙阿斯顿马丁4S店">长沙</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c237/nb62/" title="南昌阿斯顿马丁4S店">南昌</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c293/nb62/" title="贵阳阿斯顿马丁4S店">贵阳</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c297/nb62/" title="合肥阿斯顿马丁4S店">合肥</a>
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c137/nb62/" title="石家庄阿斯顿马丁4S店">石家庄</a> 
+<a target="_blank" href="http://price.pcauto.com.cn/shangjia/c187/nb62/" title="哈尔滨阿斯顿马丁4S店">哈尔滨</a>
+</div>
+</div>
+<div class="brand4s list-wrap clearfix">
+<strong>品牌：</strong>
+<div class="list">
+<!--ssi[http://www.pcauto.com.cn/carshop/1203/intf1246.html]--><p><a title="大众4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb2/">大众4S店</a> <a title="丰田4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb10/">丰田4S店</a> <a title="奥迪4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb1/">奥迪4S店</a> <a title="现代4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb34/">现代4S店</a> <a title="起亚4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb12/">起亚4S店</a> <a title="本田4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb3/">本田4S店</a> <a title="宝马4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb20/">宝马4S店</a> <a title="奔驰4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb4/">奔驰4S店</a> <a title="日产4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb15/">日产4S店</a> <a title="别克4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb7/">别克4S店</a> <a title="标致4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb41/">标致4S店</a> <a title="奇瑞4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb57/">奇瑞4S店</a> <a title="福特4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb21/">福特4S店</a> <a title="长城4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb110/">长城4S店</a> <a title="马自达4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb17/">马自达4S店</a> <a title="雪铁龙4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb6/">雪铁龙4S店</a> <a title="雪佛兰4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb225/">雪佛兰4S店</a> <a title="比亚迪4S店" target="_blank" href="http://price.pcauto.com.cn/shangjia/nb107/">比亚迪4S店</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="right230">
+<div id="ivy_t3">
+<script>showIvyViaJs("auto.bjk.neiye.youce.")</script>
+</div>
+<div class="modSellWarp ">
+<div class="mod_gray mgb10 modSell modB" style="" id="modSell">
+<div id="modSellCon">
+<div class="thB"><strong><a href="http://price.pcauto.com.cn/price/nb62/" target="_blank">阿斯顿马丁</a> 在售车系</strong></div>
+<dl>
+<dt class="blue"><a href="http://price.pcauto.com.cn/price/b62/" target="_blank">阿斯顿马丁</a></dt>
+<dd> 
+<a href="http://price.pcauto.com.cn/sg919/" target="_blank">DB9</a> 
+<em>
+(
+339.0&sim;345.0万
+)
+</em>
+</dd>
+<dd> 
+<a href="http://price.pcauto.com.cn/sg3054/" target="_blank">DBS</a> 
+<em>
+(
+449.9&sim;489.9万
+)
+</em>
+</dd>
+<dd> 
+<a href="http://price.pcauto.com.cn/sg4329/" target="_blank">One-77</a> 
+<em>
+(
+暂无数据
+)
+</em>
+</dd>
+<dd> 
+<a href="http://price.pcauto.com.cn/sg4386/" target="_blank">Rapide</a> 
+<em>
+(
+368.8&sim;368.8万
+)
+</em>
+</dd>
+<dd> 
+<a href="http://price.pcauto.com.cn/sg4215/" target="_blank">V12 Vantage</a> 
+<em>
+(
+329.0&sim;389.38万
+)
+</em>
+</dd>
+<dd> 
+<a href="http://price.pcauto.com.cn/sg111/" target="_blank">V8 Vantage</a> 
+<em>
+(
+239.0&sim;318.0万
+)
+</em>
+</dd>
+<dd> 
+<a href="http://price.pcauto.com.cn/sg7185/" target="_blank">Virage</a> 
+<em>
+(
+430.0&sim;456.0万
+)
+</em>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+<div id="ivy_t3">
+<script>showIvyViaJs("auto.bjk.neiye.yc2.")</script>
+</div>
+<div class="modB mod_gray modTool mgb10">
+<div class="thB"><strong class="mark">常用工具</strong></div>
+<div class="tbB clearfix"> 
+<a class="odd icon_cs" href="http://price.pcauto.com.cn/choose.jsp" target="_blank" rel="nofollow">参数对比</a> 
+<a class="even icon_tp" href="http://price.pcauto.com.cn/choose_photo.jsp" target="_blank" rel="nofollow">图片对比</a> 
+<a class="odd icon_cx" href="http://price.pcauto.com.cn/pk/sid.html" target="_blank" rel="nofollow">车系对比</a> 
+<a class="even icon_wz" href="http://www.pcauto.com.cn/zt/weizhang/" target="_blank">违章查询</a> 
+<a class="odd icon_gc" href="http://price.pcauto.com.cn/vbuycar.jsp" target="_blank">购车计算</a> 
+<a class="even icon_dk" href="http://price.pcauto.com.cn/daikuanbuycar.jsp" target="_blank">贷款购车</a> 
+</div>
+</div>
+<div class="modB mod_gray modKs mgb10">
+<div class="thB">
+<strong class="mark"><a href="http://k.pcauto.com.cn/sr/DB9/" target="_blank">快问</a></strong>
+<span class="submark blue"><a href="http://k.pcauto.com.cn/sr/DB9/" target="_blank">更多>></a></span>
+</div>
+<div class="tbB clearfix">
+<ul class="ulTxt ulFex f12">
+<li><a href="http://k.pcauto.com.cn/question/2140463.html" target="_blank" title="NF6新车的补丁">NF6新车的补丁</a></li>
+<li><a href="http://k.pcauto.com.cn/question/2107717.html" target="_blank" title="谁知道极品9的车子的名字啊？">谁知道极品9的车子的名字啊？</a></li>
+<li><a href="http://k.pcauto.com.cn/question/2100247.html" target="_blank" title="阿斯顿马丁的参数配置。">阿斯顿马丁的参数配置。</a></li>
+<li><a href="http://k.pcauto.com.cn/question/2100250.html" target="_blank" title="我想问一下阿斯顿马丁DBS,DB9和V12 Vanquis之间的区别,哪个更适合在中国的路况下行驶,价钱分别是多少？">我想问一下阿斯顿马丁DBS,DB9和V12 Vanquis之间的区别,哪个更适合在中国的路况下行驶,价钱分别是多少？</a></li>
+<li><a href="http://k.pcauto.com.cn/question/2100253.html" target="_blank" title="阿斯顿马丁百公里油耗是多少？">阿斯顿马丁百公里油耗是多少？</a></li>
+</ul>
+</div>
+</div>
+<!--ssi[http://www.pcauto.com.cn/price/1009/intf61.html]--><style type="text/css">
+.pBox .tagTabTit{ background:url(http://www1.pcauto.com.cn/2010/price/img/chexi_nation.png) no-repeat -100px -128px; height:29px; line-height:30px; padding: 0px; clear:both; position:relative;}
+#paginate-tagTab{padding-left:0;margin-left:-1px;}
+</style>
+<div class="pBox mgb10">
+<div class="pTit tagTabTit">
+<div id="paginate-tagTab" class="pTubBox">
+<i class="toc">热门车型</i>
+<i class="toc">热门品牌</i>
+</div>
+</div>
+<div class="pBody2 hotTabBox" id="tagTab">
+<div class="contentdiv">
+<p><i><a href="http://price.pcauto.com.cn/sg3404/" target="_blank">福克斯</a></i> 
+<i><a href="http://price.pcauto.com.cn/sg3544/" target="_blank">科鲁兹</a></i> 
+<i><a href="http://price.pcauto.com.cn/sg3188/" target="_blank">凯越</a></i>
+<i><a href="http://price.pcauto.com.cn/sg3225/" target="_blank">朗逸</a></i>
+<i><a href="http://price.pcauto.com.cn/sg4437/" target="_blank">高尔夫</a></i> 
+<i><a href="http://price.pcauto.com.cn/sg3286/" target="_blank">宝来</a></i>
+<i><a href="http://price.pcauto.com.cn/sg4611/" target="_blank">瑞纳</a></i>
+<i><a href="http://price.pcauto.com.cn/sg3174/" target="_blank">悦动</a></i>
+<i><a href="http://price.pcauto.com.cn/sg5045/" target="_blank">骐达</a></i>
+<i><a href="http://price.pcauto.com.cn/sg90/" target="_blank">雅阁</a></i>
+<i><a href="http://price.pcauto.com.cn/sg3895/" target="_blank">途观</a></i>
+<i><a href="http://price.pcauto.com.cn/sg3195/" target="_blank">天籁</a></i>
+<i><a href="http://price.pcauto.com.cn/sg4550/" target="_blank">凯美瑞</a></i>
+<i><a href="http://price.pcauto.com.cn/sg2453/" target="_blank">明锐</a></i>
+<i><a href="http://price.pcauto.com.cn/sg3996/" target="_blank">轩逸</a></i> 
+<i><a href="http://price.pcauto.com.cn/sg8440/" target="_blank">速锐</a></i>
+<i><a href="http://price.pcauto.com.cn/sg3975/" target="_blank">奥迪Q3</a></i>
+<i><a href="http://price.pcauto.com.cn/sg8049/" target="_blank">朗动</a></i>
+<i><a href="http://price.pcauto.com.cn/sg4647/" target="_blank">MG3</a></i>
+<i><a href="http://price.pcauto.com.cn/sg99/" target="_blank">帕萨特</a></i>
+<i><a href="http://price.pcauto.com.cn/sg4580/" target="_blank">哈弗H6</a></i>
+<i><a href="http://price.pcauto.com.cn/serial/" target="_blank">2012新车</a></i></p>
+<div class="clear"></div>
+</div>
+<div class="contentdiv">
+<p><i><a target="_blank" href="http://price.pcauto.com.cn/price/nb2/">大众</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb10/">丰田</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb1/">奥迪</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb20/">宝马</a></i>
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb3/">本田</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb34/">现代</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb15/">日产</a></i>
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb4/">奔驰</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb12/">起亚</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb225/">雪佛兰</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb7/">别克</a></i>
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb21/">福特</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb110/">长城</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb107/">比亚迪</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb29/">路虎</a></i>
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb17/">马自达</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb47/">劳斯莱斯</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb30/">雷克萨斯</a></i>
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb64/">兰博基尼</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb205/">MINI</a></i>
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb61/">法拉利</a></i> 
+<i><a target="_blank" href="http://price.pcauto.com.cn/price/nb44/">保时捷</a></i></p>
+<div class="clear"></div>
+</div>
+</div>
+<script>
+featuredcontentslider.init({id: "tagTab",contentsource: ["inline", ""],toc: "markup", nextprev: ["上一条", "下一条"], revealtype: "mouseover",enablefade: [false, 0.2],delay:300,autorotate: [false, 0], onChange: function(previndex, curindex){}});
+</script>
+</div> 
+<div id="ivy_t3">
+<script>showIvyViaJs("auto.bjk.yc1.")</script>
+</div>
+</div>
+</div>
+<script>
+var status = "0";
+if(status == 0){
+citySelector("boxchang2");
+citySelector("boxchang3");
+}
+//鼠标经过显示全部车型
+function showTheLay2(id, name){
+if(!$$(id)){return}
+var id= $$(id);
+id.onmouseover = function(){addClass(this,name)}
+id.onmouseout = function(){removeClass(this,name)}
+}
+showTheLay2("modSell", "modSellHv");
+function $$(id){return document.getElementById(id);}
+function addClass(o,cn){o.className += (o.className ? " ":"") + cn}
+function removeClass(o,cn){var re = new RegExp("(\\s*|^)"+cn+"\\b","g");	var sName = o.className;	o.className = sName.replace(re,"")}
+function fnhover(sid,stag,cn){
+if(!$$(sid)){return}
+var obj=$$(sid),tags = obj.getElementsByTagName(stag);
+if(tags.length==0){return}
+for(var i=0,l=tags.length;i<l;i++){
+tags[i].onmouseover = function(){addClass(this,cn)}
+tags[i].onmouseout = function(){removeClass(this,cn)}
+}
+}
+fnhover("typeList","input","sContrastHv");
+</script>
+<script>_submitIvyID();</script>
+<script src="http://price.pcauto.com.cn/common/__counter.jsp?id=1295985"></script>
+<script class="defer" src="http://www.pcauto.com.cn/global/footer/index.html"></script>
+<script>showIvyViaJs("auto.baojia.kcf.")</script>
+<!--/*产品对比栏开始*/-->
+<script type="text/javascript">
+var hasAddAdvModel = false; //确保竞品车型只添加一次
+//cookie插件
+jQuery.cookie = function(name, value, options) {
+if (typeof value != 'undefined') {
+options = options || {};
+if (value === null) {
+value = '';
+options.expires = -1
+}
+var expires = '';
+if (options.expires
+&& (typeof options.expires == 'number' || options.expires.toUTCString)) {
+var date;
+if (typeof options.expires == 'number') {
+date = new Date();
+date.setTime(date.getTime()
++ (options.expires * 24 * 60 * 60 * 1000))
+} else {
+date = options.expires
+}
+expires = '; expires=' + date.toUTCString()
+}
+var path = options.path ? '; path=' + (options.path) : '';
+var domain = options.domain ? '; domain=' + (options.domain) : '';
+var secure = options.secure ? '; secure' : '';
+document.cookie = [ name, '=', encodeURIComponent(value), expires,
+path, domain, secure ].join('')
+} else {
+var cookieValue = null;
+if (document.cookie && document.cookie != '') {
+var cookies = document.cookie.split(';');
+for ( var i = 0; i < cookies.length; i++) {
+var cookie = jQuery.trim(cookies[i]);
+if (cookie.substring(0, name.length + 1) == (name + '=')) {
+cookieValue = decodeURIComponent(cookie
+.substring(name.length + 1));
+break
+}
+}
+}
+return cookieValue
+}
+};
+/**
+* 最近浏览产品数据格式
+* pubUrl|shorName|picUrl|price|smallTypeId|id;pubUrl|shorName|picUrl|price|smallTypeId|id
+* 每条产品数据用英语分号;分隔，每个产品项字段用竖线|分隔。(PS：最后一条数据结尾不用分号)
+* 最近浏览数据要在对比栏初始化之前输出
+*/
+var historyProduct = $.cookie("compareProducts");
+if(''=='true') {
+$.cookie("compareProducts", "", {path : '/',expires : 1}); 
+historyProduct = "";
+$.cookie("productSmallType", 10, {path : '/',expires : 1});
+}
+if(historyProduct!=null && historyProduct!='')
+historyProduct = historyProduct.substring(0, historyProduct.lastIndexOf(";"));
+//对比工具栏.S
+var compareBar = function() {
+this.create();
+this.data = {
+barBox : $("#compareBarOut"),
+toolBar : $("#JtoolBar"),
+mini : $("#Jmini"),
+numbox : $("#Jchoose"),
+tabs : $("#JtoolBar .tab i"),
+contents : $("#JtoolBar .pro"),
+closeLi : $("#JtoolBar .close"),
+foldBtn : $("#JtoolBar .fold"),
+//	unfoldBtn: $("#J_shareBox_tools"),
+closeBtn : $("#Jmini .close"),
+epCompare : $("#JepCompare"),
+epView : $("#JepView"),
+compareUl : $("#compareUl"),
+compareFaker : $("#compareFaker"),
+viewUl : $("#viewUl"),
+userState : $("#userState"),
+links : $("#JtoolBar .btn a"),
+popMsg : $("#JtoolBar .popMsg"),
+closeTabBtn : $("#JtoolBar .pro_th .cbIcon"),
+closeTab : $("#JtoolBar .pro"),
+smallType : null, // 小类ID
+choosePro : [], // 已经加入对比的产品id
+message : [ "暂无添加任何车型，你可以添加最多四款车型进行对比。",
+"对不起，您最多只可以添加4款车型，请先删除对比栏的一些车型后再添加。", "暂无浏览过的车型",
+"该车型已加入对比栏中", "你还没有添加车型，无法进行对比，请先添加车型。",
+"对不起，您选择的是不同类别的车型无法加入对比，请选择同类车型或清空当前对比栏再选择。",
+"请选择两款车型以上进行比较", "该车型已在对比栏中，请选择其他车型", "该车型已从比栏中移除"]
+}
+this.init();
+this.setInitData();
+this.synchroLogin();
+}
+compareBar.prototype = {
+create : function() {
+var box = '';
+box += '<div id="compareBarOut"><div id="JcompareBar" class="compare-bar">';
+box += '<div id="JtoolBar">';
+box += '	<div class="pro"><div class="pro_th"><span class="mark"><b>对比中的车型</b> (<em id="Jchoose">0</em>/4)</span><a title="收起" class="cbIcon" href="javascript:;"></a></div>';
+box += '	<ul id="compareFirst"><li class="fSelect"><form action="" id="fromCar_1" method="post"><dl class="cpCarSec"><dd><select id="cpBrand_1" name="bid"><option value="">请选择品牌</option></select></dd><dd><select id="cpFirm_1" name="sid" disabled="disabled"><option value="">请选择车系</option></select></dd><dd><select id="cpCar_1" name="mid" disabled="disabled"><option value="">请选择车型</option></select></dd></dl></form></li></ul><ul id="compareUl"></ul><ul id="compareFaker"><li class="fSelect"><form action="" id="fromCar0" method="post"><dl class="cpCarSec"><dd><select id="cpBrand_0" name="bid"><option value="">请选择品牌</option></select></dd><dd><select id="cpFirm_0" name="sid" disabled="disabled"><option value="">请选择车系</option></select></dd><dd><select id="cpCar_0" name="mid" disabled="disabled"><option value="">请选择车型</option></select></dd></dl></form></li></ul>';
+box += '	<div class="option"><a href="" target="_blank" class="cpVsBtn">开始对比</a><i class="cpClear" id="JepCompare">清空车型</i></div>';
+box += '	<div class="clear"></div>';
+box += '	</div><div class="pro hide"><div class="pro_th"><span class="mark"><b>浏览过的产品</b></span><a title="收起" class="cbIcon" href="javascript:;"></a></div>';
+box += '	<ul id="viewUl"></ul>';
+box += '	<div class="option option2"><i class="cpClear" id="JepView">清空记录</i></div><div class="clear"></div>';
+box += '	</div><div class="bar clearfix">';
+box += '	<div class="tab"><span class="tab-tit">工具栏</span><i class="on" rel="0" target="1"><em>车型对比栏</em></i><span class="tab-span"><i rel="1" target="0"><em>对比记录</em></i></span></div>';
+box += '	<div class="fold"></div><div class="user" id="userState"></div>';
+box += '	</div><div class="popMsg hide"></div>';
+box += '</div></div></div>';
+document.write(box);
+},
+init : function() {
+var self = this, d = this.data;
+d.foldBtn.bind("click", function() {
+self.showMini()
+});
+//	d.unfoldBtn.bind("click", function(){self.showToolBar()});
+d.closeBtn.bind("click", function() {
+self.removeBar()
+});
+d.epCompare.bind("click", function() { ///delete
+self.emptyCont1("compareUl");
+hasAddAdvModel = false;
+initList0();
+initList1();
+});
+d.epView.bind("click", function() {
+self.emptyCont2("viewUl")
+});
+d.closeTabBtn.bind("click", function() {
+self.hidTab()
+});
+d.tabs.each(function(i) {
+$(this).bind("click", function() {
+var that = $(this);
+if (that.hasClass("on")) {
+that.removeClass("on iHover");
+d.contents.eq(i).addClass("hide");
+} else {
+that.addClass("on").removeClass('iHover');
+d.tabs.eq(that.attr("target")).removeClass("on");
+d.contents.eq(i).removeClass("hide");
+d.contents.eq(that.attr("target")).addClass("hide");
+}
+});
+});
+d.tabs.hover(function() {
+var $this = $(this);
+if (!$this.hasClass('on'))
+$this.addClass('iHover');
+}, function() {
+$(this).removeClass('iHover');
+});
+d.closeLi.live("click", function(e) {
+var uId = $(this).parent().parent().attr("id");
+if (uId == "compareUl") {
+var pId = $(this).parent().find("input:hidden").val();
+self.delComparePro(pId);
+} else {
+$(this).parent().remove();
+if (d.viewUl.find("li").length == 0) {
+self.setEmpty("viewUl");
+//this.clearHistory();
+//清空页面的一条历史记录 ---要开发方提供 or 主动处理页面dom ？
+}
+}
+});
+d.links.each(function() {
+$(this).bind(
+"click",
+function(e) {
+if (parseInt(d.numbox.text()) == 0) {
+self.popMsg(d.message[4], 300);
+return false;
+//	}else if(parseInt(d.numbox.text()) == 1){
+//	self.popMsg(d.message[6],300);
+//	return false;
+} else {
+$(this).attr(
+"href",
+$(this).attr("href")
++ d.choosePro.join());
+}
+})
+});
+},
+setInitData : function() {
+var d = this.data;
+$("#JtoolBar .pro").eq(0).addClass("hide");
+var productSmallType = $.cookie("productSmallType");
+var compareProducts = $.cookie("compareProducts");
+if(''=='true') {
+compareProducts = "";
+}
+if (productSmallType == "" || productSmallType == null
+|| compareProducts == "" || compareProducts == null) {
+//	d.compareUl.html('<li class="fSelect"><form action="" id="fromCar_1" method="post"><dl class="cpCarSec"><dd><select id="cpBrand_1" name="bid"><option value="">请选择品牌</option></select></dd><dd><select id="cpFirm_1" name="sid" disabled="disabled"><option value="">请选择车系</option></select></dd><dd><select id="cpCar_1" name="mid" disabled="disabled"><option value="">请选择车型</option></select></dd></dl></form></li>');
+d.barBox.addClass("hide");
+$("#compareFirst").find("li.fSelect").show();
+} else {
+compareProducts = compareProducts.substring(0, compareProducts
+.lastIndexOf(";"));
+var arrProduct = compareProducts.split(";");
+var len = arrProduct.length > 4 ? 4 : arrProduct.length;
+var item = "";
+for ( var i = 0; i < len; i++) {
+var arrParam = arrProduct[i].split("|");
+var pubUrl = arrParam[0];
+var shorName = arrParam[1];
+var picUrl = arrParam[2];
+var price = arrParam[3];
+var id = arrParam[4];
+if (shorName == null)
+shorName = "";
+if (price == null)
+price = "";
+$("input:button[name=compare_" + id + "]").each( //1
+function() {
+$(this).attr("class", "sContrasted");
+});
+d.choosePro.push(parseInt(id));
+item += '<li><i class="pic"><a href="'+ pubUrl +'" target="_blank"><img width="80" height="60" src="'+ picUrl +'"></a></i>';
+item += '<i class="tit"><a href="'+ pubUrl +'" target="_blank">'
++ shorName + '</a></i>';
+item += '<i class="price"><a href="'+ pubUrl +'" target="_blank">'
++ price + '</a></i>';
+item += '<a href="javascript:void(0)" class="close" title="移除"></a>';
+item += '<input type="hidden" value="' + id + '" id="compare_' + id + '" />';
+item += '</li>';
+}
+d.compareUl.append(item);
+d.numbox.text(len);
+d.smallType = productSmallType;
+}
+if (parseInt(d.numbox.text()) > 3 && d.choosePro.length > 3) {
+d.compareFaker.find("li.fSelect").hide();
+}
+if (parseInt(d.numbox.text()) > 0 && d.choosePro.length > 0) {
+$("#compareFirst").find("li.fSelect").hide();
+}
+//初始化最近对比记录
+if (typeof historyProduct == "undefined" || historyProduct == ""
+|| historyProduct == null) {
+d.viewUl.html('<li class="msg">' + d.message[2] + '</li>');
+return false;
+}
+var arrHistory = historyProduct.split(";");
+var len = arrHistory.length > 4 ? 4 : arrHistory.length;
+var str = "", hideClass = "";
+for ( var i = 0; i < len; i++) {
+var arrParam = arrHistory[i].split("|");
+var pubUrl = arrParam[0];
+var shorName = arrParam[1];
+var picUrl = arrParam[2];
+var price = arrParam[3];
+var smallTypeId = arrParam[4];
+var id = arrParam[5];
+if (shorName == null)
+shorName = "";
+if (price == null)
+price = "";
+(smallTypeId == d.smallType || d.smallType == null) ? hideClass = ""
+: hideClass = " hide";
+str += '<li><i class="pic"><a href="'+ pubUrl +'" target="_blank"><img width="60" height="45" src="'+ picUrl +'"></a></i>';
+str += '<i class="tit"><a href="'+ pubUrl +'" target="_blank">'
++ shorName + '</a></i>';
+str += '<i class="price"><a href="'+ pubUrl +'" target="_blank">'
++ price + '</a></i>';
+str += '<a href="javascript:void(0)" class="close" title="移除"></a>';
+}
+d.viewUl.append(str);
+},
+comparePro : function(chkbox, pubUrl, shorName, picUrl, price,
+smallTypeId, id) {
+if (!$(chkbox).hasClass('sContrasted')) {
+var d = this.data;
+if (d.smallType == "" || d.smallType == null) {
+d.smallType = smallTypeId;
+} else if (d.smallType != smallTypeId) {
+alert(d.message[5]);
+$(chkbox).attr("class", "sContrast");
+return false;
+}
+if (parseInt(d.numbox.text()) >= 4 && d.choosePro.length >= 4) {
+alert(d.message[1]);
+$("#compareBarOut").removeClass("hide");
+$("#JtoolBar").removeClass("hide");
+d.contents.eq(0).removeClass("hide");
+d.contents.eq(1).addClass("hide");
+d.tabs.eq(0).addClass("on");
+d.tabs.eq(1).removeClass("on");
+$(chkbox).attr("class", "sContrast");
+return false;
+}
+if (parseInt(d.numbox.text()) >= 3 && d.choosePro.length >= 3) {
+d.compareFaker.find("li.fSelect").hide();
+}
+if ($.inArray(id, d.choosePro) > -1) {
+return false; //已在对比栏中
+}
+if (d.barBox.hasClass("hide"))
+d.barBox.removeClass("hide");
+if ($("#compareFirst").find("li.fSelect"))
+$("#compareFirst").find("li.fSelect").hide();
+if (d.contents.eq(0).hasClass("hide")
+&& chkbox.id.indexOf("compare_") > -1)
+d.tabs.eq(0).trigger("click");
+$("input:button[name=compare_" + id + "]").each(function() { //2
+$(this).attr("class", "sContrasted");
+});
+this.addComparePro(pubUrl, shorName, picUrl, price,
+smallTypeId, id);
+} else {
+this.delComparePro(id);
+}
+},
+addComparePro : function(pubUrl, shorName, picUrl, price, smallTypeId,
+id) {
+$.cookie("barClass", "show", {path : '/',expires : 1}); 
+//添加竞品广告车型判断
+var advmodelId = '';
+var array = new Array(); 
+for(var i=0; i<array.length; i++) {
+if(array[i][0]==id) {
+advmodelId = array[i][1];
+break;
+}
+}
+var d = this.data;
+if(advmodelId > 0 && ''=='true' && hasAddAdvModel == false) {
+hasAddAdvModel = true;
+$.getJSON("/5_5/compare/action/do_generate_param.jsp?mid="+advmodelId,function(returnData){
+if(returnData && returnData.status=='ok'){
+if(parseInt(d.numbox.text()) >= 3 && d.choosePro.length >= 3) {
+compareBar.data.compareFaker.find("li.fSelect").hide();
+}
+if(d.choosePro.length >= 4 && d.numbox.text() >= 4)
+d.choosePro.push(parseInt(returnData.id));
+else
+compareBar.addComparePro(returnData.url, returnData.modelName,returnData.photoPath,returnData.priceRange,10,returnData.id);
+}});
+}
+if (d.compareUl.find("li").length == 0) {
+d.viewUl.find("input:button").each(function() { //3
+if ($(this).attr("rel") != smallTypeId)
+$(this).parent().parent().addClass("hide");
+});
+}
+var item = '<li><i class="pic"><a href="'+ pubUrl +'" target="_blank"><img width="60" height="45" src="'+ picUrl +'"></a></i>';
+item += '<i class="tit"><a href="'+ pubUrl +'" target="_blank">'
++ shorName + '</a></i>';
+item += '<i class="price"><a href="'+ pubUrl +'" target="_blank">'
++ price + '</a></i>';
+item += '<a href="javascript:void(0)" class="close" title="移除"></a>';
+item += '<input type="hidden" id="compare_'+ id +'" value="'+ id +'" /></li>';
+$(item).hide().appendTo(d.compareUl).fadeIn(300);
+d.numbox.text(parseInt(d.numbox.text()) + 1);
+d.choosePro.push(parseInt(id));
+//	this.popMsg(d.message[3]);
+this.addCookie(pubUrl, shorName, picUrl, price, smallTypeId, id);
+$("#compareBarOut").removeClass("hide");
+$("#JtoolBar").removeClass("hide");
+d.contents.eq(0).removeClass("hide");
+d.contents.eq(1).addClass("hide");
+d.tabs.eq(0).addClass("on");
+d.tabs.eq(1).removeClass("on");
+},
+delComparePro : function(id) {
+var temp1 = '';
+var temp2 = ',"' + id + '")';
+if(temp1.indexOf(temp2)>-1) {
+hasAddAdvModel = false;
+}
+var d = this.data;
+//d.compareFaker.sync(); //清空选择框
+var pos = jQuery.inArray(parseInt(id), d.choosePro);
+if (pos > -1) {
+d.choosePro.splice(pos, 1); //从数组中删除已选产品的id
+} else {
+alert("已选择产品数据出错！");
+return false;
+}
+$("#compare_" + id).parent().remove();
+d.numbox.text(parseInt(d.numbox.text()) - 1);
+$("input:button[name=compare_" + id + "]").each(function() { //4
+$(this).attr("class", "sContrast");
+});
+if (parseInt(d.numbox.text()) <= 3){
+d.compareFaker.find("li.fSelect").show();
+}
+if (parseInt(d.numbox.text()) <= 0 && d.choosePro.length <= 0) {
+$("#compareFirst").find("li.fSelect").show();
+}
+d.choosePro.length == 0 ? this.setEmpty("compareUl") : this
+.delCookie(id);
+$("#compareBarOut").removeClass("hide");
+$("#JtoolBar").removeClass("hide");
+d.contents.eq(0).removeClass("hide");
+d.contents.eq(1).addClass("hide");
+d.tabs.eq(0).addClass("on");
+d.tabs.eq(1).removeClass("on");
+},
+addCookie : function(pubUrl, shorName, picUrl, price, smallTypeId, id) {
+var productSmallType = $.cookie("productSmallType");
+if (productSmallType == "" || productSmallType == null) {
+$.cookie("productSmallType", smallTypeId, {
+path : '/',
+expires : 1
+});
+}
+var product = pubUrl + "|" + shorName + "|" + picUrl + "|" + price
++ "|" + id + ";";
+var compareProducts = $.cookie("compareProducts");
+compareProducts = (compareProducts == "" || compareProducts == null) ? product
+: compareProducts + product;
+$.cookie("compareProducts", compareProducts, {
+path : '/',
+expires : 1
+});
+},
+delCookie : function(id) {
+var compareProducts = $.cookie("compareProducts");
+var arrProduct = compareProducts.split(";");
+var pos = -1;
+for ( var i = 0; i < arrProduct.length; i++) {
+param = arrProduct[i].split("|");
+if (id == param[4]) {
+pos = i;
+break;
+}
+}
+arrProduct.splice(pos, 1);
+compareProducts = arrProduct.join(";");
+$.cookie("compareProducts", compareProducts, {
+path : '/',
+expires : 1
+});
+},
+emptyCont1: function(v){
+$("#"+v).empty();
+this.setEmpty(v);
+$("#compareFirst").find("li.fSelect").show();
+},
+emptyCont2: function(v){
+$("#"+v).empty();
+this.setEmpty(v);
+},
+setEmpty : function(v) {
+var d = this.data;
+if (v == "compareUl") {
+var len = d.choosePro.length;
+for ( var i = 0; i < len; i++) {
+$("input:button[name=compare_" + d.choosePro[i] + "]") //5
+.each(function() {
+$(this).attr("class", "sContrast");
+});
+}
+d.numbox.text(0);
+//d.compareUl.html('<li class="fSelect"><form action="" id="fromCar_1" method="post"><dl class="cpCarSec"><dd><select id="cpBrand_1" name="bid"><option value="">请选择品牌</option></select></dd><dd><select id="cpFirm_1" name="sid" disabled="disabled"><option value="">请选择车系</option></select></dd><dd><select id="cpCar_1" name="mid" disabled="disabled"><option value="">请选择车型</option></select></dd></dl></form></li>');
+if (d.compareFaker.find("li.fSelect").hide()) {
+d.compareFaker.find("li.fSelect").show();
+}
+d.viewUl.find("i.compare").removeClass("hide");
+d.smallType = null;
+d.choosePro = [];
+$.cookie("compareProducts", null, {
+path : '/'
+});
+$.cookie("productSmallType", null, {
+path : '/'
+});
+} else if (v == "viewUl") {
+d.viewUl.html('<li class="msg">' + d.message[2] + '</li>');
+//清空页面的历史记录 ---要开发方提供
+}
+},
+clearHistory : function() {
+this.emptyCont2("viweUl");
+},
+userState : function(html) {
+this.data.userState.html(html);
+},
+popMsg : function(msg, width) {
+var d = this.data;
+if (width)
+d.popMsg.css({
+"width" : width + "px",
+"margin-left" : -(width / 2 + 1) + "px"
+});
+d.popMsg.text(msg).fadeIn(100);
+setTimeout(function() {
+d.popMsg.fadeOut(500);
+d.popMsg.removeAttr("style");
+}, 1500);
+},
+showToolBar : function() {
+var d = this.data;
+d.toolBar.removeClass("hide");
+$.cookie("barClass", "show", {
+path : '/',
+expires : 1
+});
+//	d.mini.addClass("hide");
+this.resetOtherBar();
+},
+showMini : function() {
+var d = this.data;
+d.toolBar.addClass("hide");
+$.cookie("barClass", "hide", {
+path : '/',
+expires : 1
+});
+//	d.mini.removeClass("hide");
+//	this.setOtherBar();
+},
+removeBar : function() {
+var d = this.data;
+d.unfoldBtn.trigger("click");
+d.barBox.addClass("hide");
+//添加cookies 
+$.cookie("barClass", "hide", {
+path : '/',
+expires : 1
+});
+},
+hidTab : function() {
+var d = this.data;
+d.closeTab.addClass("hide");
+d.tabs.removeClass("on");
+},
+setOtherBar : function() {
+if ($("#JparamBar")) {
+$("#JparamBar").css("bottom", 323);
+window.paramBarDist = 398 + 80;
+}
+$("#goTopButton").addClass("goTopBtnEx");
+window.goTopDist = 233 + 80;
+},
+resetOtherBar : function() {
+if ($("#JparamBar")) {
+$("#JparamBar").removeAttr("style");
+window.paramBarDist = 398;
+}
+$("#goTopButton").removeClass("goTopBtnEx");
+window.goTopDist = 233;
+},
+//登录状态同步
+synchroLogin : function() {
+var self = this;
+if (typeof ajaxLogan == "undefined" || ajaxLogan == ""
+|| ajaxLogan == null) {
+//	setTimeout(arguments.callee, 200);
+setTimeout(function() {
+self.synchroLogin()
+}, 200);
+} else {
+var offLine = '<a target="_self" class="loginTxt" href="http://my.pcauto.com.cn/login.jsp?return='
++ escape(location.href)
++ '">登录</a> <span>|</span> <a target="_blank" href="http://my.pcauto.com.cn/passport/register.jsp">注册新用户</a>', online = '欢迎您：<a href="http://my.pcauto.com.cn/" target="_blank" id="synchroUser"></a>(<a href="http://my.pcauto.com.cn/msg/inbox.jsp" target="_blank"><em class="msg" id="msgNum"></em></a>) [<a href="javascript:void(0)" id="synchroExit">退出</a>]', logan = ajaxLogan
+.checkLogin();
+if (logan.state == true) {
+self.userState(online);
+var logoutBtn = $("#ajaxLogon").find("a:contains('退出')"),
+userName = $("#name_wrap").text(), msgNum = $("#msg_count")
+.text();
+$("#synchroUser").text(userName);
+$("#msgNum").text(msgNum);
+if (msgNum > 0)
+$("#msgNum").addClass("hasMsg");
+$("#synchroExit").bind("click", function() {
+self.synchroLogout();
+return false;
+});
+logoutBtn.bind("click", self.synchroLogin);
+} else {
+self.userState(offLine);
+}
+}
+},
+synchroLogout : function() {
+ajaxLogan.exitLogan();
+this.synchroLogin();
+}
+}
+compareBar = new compareBar();
+//滚动位置效果控制
+$(function() {
+var isIE6 = ($.browser.msie && $.browser.version < 7);
+if (isIE6)
+$('#compareBarOut').css({
+"position" : "absolute",
+"top" : $(window).scrollTop() + $(window).height()
+});
+$(window).bind(
+"scroll load",
+function() {
+$('#compareBarOut').css('top',
+$(this).scrollTop() + $(this).height());
+});
+});
+//对比工具栏.End
+/**--------------------------------------------------------------
+* 方法调用：
+* 增加一款对比产品：compareBar.comparePro(this, pubUrl, shorName, picUrl, price, smallTypeId, id);
+* 清空对比记录：compareBar.clearHistory();
+* 用户状态设置：compareBar.userState(html);
+*
+* 产品checkbox的id命名规则：<input type="checkbox" name="compare_产品id" />
+*
+* 用户状态：
+* 登录前：<a href="#" target="_blank">登录</a> <span>|</span> <a href="#" target="_blank">注册新用户</a>
+* 登录后：欢迎您：<a href="#" target="_blank">sense08ms</a>(<a href="#" target="_blank"><em class="msg">10</em></a>) [<a href="#">退出</a>]
+*/
+</script>
+<div id="aoptionData" style="display:none;height:0px;width:0px;">
+</div>
+<script>
+function initList1() {
+$.get("/common/ajax/getAllOptions", function(data) {
+//找到三个下拉框
+$("#aoptionData").html(data);
+var brandSelect = $("#cpBrand_1");
+var groupSelect = $("#cpFirm_1");
+var serialSelect = $("#cpCar_1");
+var brandId;
+var groupid;
+var modelId;
+brandSelect.html('<option value="">请选择品牌</option>');
+groupSelect.html('<option value="">请选择车系</option>');
+serialSelect.html('<option value="">请选择车型</option>');
+groupSelect.attr("disabled", "true");
+serialSelect.attr("disabled", "true");
+//alert($("#root").html());
+brandSelect.append($("#aroot").html());
+brandSelect.change(function() {
+brandId = $(this).val();
+groupSelect.html("<option value=''>请选择车系</option>");
+serialSelect.html("<option value=''>请选择车型</option>");
+groupSelect.append($("#abrand_".concat(brandId)).html());
+groupSelect.removeAttr("disabled");
+serialSelect.attr("disabled", "true");
+});
+groupSelect.change(function() {
+groupid = $(this).val();
+serialSelect.empty();
+serialSelect.append($("#agroup_".concat(groupid)).html());
+serialSelect.removeAttr("disabled");
+});
+});
+}
+function initList0() {
+$.get("/common/ajax/getAllOptions", function(data) {
+//找到三个下拉框
+$("#aoptionData").html(data);
+var brandSelect = $("#cpBrand_0");
+var groupSelect = $("#cpFirm_0");
+var serialSelect = $("#cpCar_0");
+brandSelect.html('<option value="">请选择品牌</option>');
+groupSelect.html('<option value="">请选择车系</option>');
+serialSelect.html('<option value="">请选择车型</option>');
+groupSelect.attr("disabled", "true");
+serialSelect.attr("disabled", "true");
+var brandId;
+var groupid;
+var modelId;
+//alert($("#root").html());
+brandSelect.append($("#aroot").html());
+brandSelect.change(function() {
+brandId = $(this).val();
+groupSelect.html("<option value=''>请选择车系</option>");
+serialSelect.html("<option value=''>请选择车型</option>");
+groupSelect.append($("#abrand_".concat(brandId)).html());
+groupSelect.removeAttr("disabled");
+serialSelect.attr("disabled", "true");
+});
+groupSelect.change(function() {
+groupid = $(this).val();
+serialSelect.empty();
+serialSelect.append($("#agroup_".concat(groupid)).html());
+serialSelect.removeAttr("disabled");
+});
+});
+}
+initList0();
+initList1();
+$('#cpCar_1').change(function(){
+initList1();
+var param = $(this).attr("value");
+$('#cpBrand_0').attr('disabled',false);
+$('#cpBrand_1').attr('disabled',false);
+if($(this).parent().parent().parent().attr("id")!='faker-cpCar_0-body')
+$("#compareFirst").find("li.fSelect").hide();
+if(parseInt(compareBar.data.numbox.text()) >= 3 && compareBar.data.choosePro.length >= 3) {
+compareBar.data.compareFaker.find("li.fSelect").hide();
+}
+$.getJSON("/5_5/compare/action/do_generate_param.jsp?mid="+param,function(returnData){
+if(returnData && returnData.status=='ok'){
+compareBar.addComparePro(returnData.url, returnData.modelName,returnData.photoPath,returnData.priceRange,10,returnData.id);
+}});
+});
+$('#cpCar_0').change(function(){
+initList0();
+var param = $(this).attr("value");
+$('#cpBrand_0').attr('disabled',false);
+$('#cpBrand_1').attr('disabled',false);
+if($(this).parent().parent().parent().attr("id")!='faker-cpCar_0-body')
+$("#compareFirst").find("li.fSelect").hide();
+if(parseInt(compareBar.data.numbox.text()) >= 3 && compareBar.data.choosePro.length >= 3) {
+compareBar.data.compareFaker.find("li.fSelect").hide();
+}
+$.getJSON("/5_5/compare/action/do_generate_param.jsp?mid="+param,function(returnData){
+if(returnData && returnData.status=='ok'){
+compareBar.addComparePro(returnData.url, returnData.modelName,returnData.photoPath,returnData.priceRange,10,returnData.id);
+}});
+});
+$("#compareBarOut").addClass("hide");
+//开始对比
+$(".cpVsBtn").click(function(){if(compareBar.data.choosePro==''){alert('请选择车型');return false;}$(this).attr("href", 'http://price.pcauto.com.cn/choose.jsp?mid='+compareBar.data.choosePro);});
+//跟据cookies查看工具条是否收缩
+var barClass = $.cookie("barClass");
+if(barClass=='hide')
+$("#compareBarOut").addClass("hide");
+else {
+$("#compareBarOut").removeClass("hide");
+$("#JtoolBar .pro").eq(0).addClass("hide");
+$("#JtoolBar .pro").eq(1).addClass("hide");
+$("#JtoolBar .tab i").eq(0).removeClass("on");
+$("#JtoolBar .tab i").eq(1).removeClass("on");
+}
+</script>
+<!--工具栏s-->
+<div id="fixBox"></div>
+<script src="http://js.3conline.com/ue/share/auto/shareBox.js"></script>
+<script>
+shareBox.init({
+clickTools : function() {
+barClass = $.cookie("barClass");
+if(barClass=='show')	
+$.cookie("barClass", "hide", {path : '/',expires : 1}); 
+else if(barClass=='hide')
+$.cookie("barClass", "show", {path : '/',expires : 1}); 
+else
+$.cookie("barClass", "hide", {path : '/',expires : 1}); 
+if ($("#compareBarOut").hasClass("hide")
+|| $("#JtoolBar").hasClass("hide")) {
+$("#compareBarOut").removeClass("hide");
+$("#JtoolBar").removeClass("hide");
+$("#JtoolBar .pro").eq(0).removeClass("hide");
+$("#JtoolBar .pro").eq(1).addClass("hide");
+$("#JtoolBar .tab i").eq(0).addClass("on");
+$("#JtoolBar .tab i").eq(1).removeClass("on");
+} else {
+$("#compareBarOut").addClass("hide");
+}
+}
+});
+</script>
+<!--工具栏e-->
+<!--/*产品对比栏结束*/-->
+<!--/*轨迹监控开始*/-->
+<script type="text/javascript">var __startTime=1336705943000;var __endTime=1338520343000;var __min=100;var __max=10000;</script>
+<script type="text/javascript" src="http://js.3conline.com/js/intf/locus.min.js"></script>
+<!--/*轨迹监控结束*/-->
+</body>
+</html>

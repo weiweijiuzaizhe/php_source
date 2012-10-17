@@ -1,0 +1,441 @@
+631	Cygnet			阿斯顿马丁	cygnet		微型车
+631	Kangoo-be-bop			雷诺	kangoobebop		微型车
+631	forfour			smart	smartforfour		微型车
+631	suzuki-splash			铃木	splash(海外)		微型车
+631	suzuki-alto			铃木	奥拓(海外)		微型车
+631	haima-baimawangzi			海马	白马王子		微型车
+631	P-NUT			本田	本田pnut		微型车
+631	peugeot-107			标致	标致107		微型车
+631	peugeot-bb1			标致	标致bb1		微型车
+631	peugeot-ion			标致	标致ion		微型车
+631	fox			大众	大众fox		微型车
+631	vw-e-up			大众	大众up		微型车
+631	tai-concept			东风	东风概念车		微型车
+631	Panda			菲亚特	菲亚特panda		微型车
+631	Aygo			丰田	丰田aygo		微型车
+631	toyota-ftch			丰田	丰田ftch		微型车
+631	iQ			丰田	丰田iq		微型车
+631	Flyer			比亚迪	福莱尔		微型车
+631	ford-start			福特	福特start		微型车
+631	haima-me			海马	海马me		微型车
+631	LC-E			吉利	吉利lce		微型车
+631	jac-vision			江淮	江淮愿景iv		微型车
+631	renault-Twingo			雷诺	雷诺twingo		微型车
+631	Agila			欧宝	欧宝agila		微型车
+631	qwkulla			长城	欧拉		微型车
+631	pop			起亚	起亚pop		微型车
+631	haima-qingwawangzi			海马	青蛙王子		微型车
+631	nissan-landglider			日产	日产landglider		微型车
+631	nissan-micra			日产	日产micra		微型车
+631	nissan-pixo			日产	日产pixo		微型车
+631	townpod			日产	日产townpod		微型车
+631	riich-m3			瑞麒	瑞麒m3		微型车
+631	hyundai-i10			现代	现代i10		微型车
+631	citroen-c1			雪铁龙	雪铁龙c1		微型车
+631	c-zero			雪铁龙	雪铁龙czero		微型车
+631	lacoste			雪铁龙	雪铁龙lacoste		微型车
+631	citroen-revolte			雪铁龙	雪铁龙revolte		微型车
+631	benz-BlueZero			奔驰	bluezero		小型车
+631	vw-polo			大众	polo(海外)		小型车
+631	alfa mito				阿尔法罗米欧mito		小型车
+631	MiTo			阿尔法罗密欧	阿尔法罗密欧mito		小型车
+631	aodiCross			奥迪	奥迪cross		小型车
+631	beiqi-c60			北京汽车	北京汽车c60		小型车
+631	honda-crz			本田	本田crz		小型车
+631	peugeot-206			标致	标致206		小型车					10.28万,9.18万,8.28万,	1.6mL,1.6mL,1.4mL,	93号汽油:3	4挡手自一体:1,5挡手动:2	5门5座:3	3873*1673*1435:3
+631	peugeot-206cc			标致	标致206cc		小型车					25.50万,	1.6mL,	97号汽油:1	4挡手自一体:1	2门2座:1	3835*1673*1373:1
+631	sirion			大发	大发sirion		小型车
+631	vw-l1			大众	大众l1		小型车
+631	vw-up-lite			大众	大众uplite		小型车
+631	honda-fit			本田	飞度(海外)		小型车
+631	fiat-Idea			菲亚特	菲亚特idea		小型车
+631	uno			菲亚特	菲亚特uno		小型车
+631	ford-Ka			福特	福特ka		小型车
+631	Gol			大众	高尔		小型车
+631	vw-gol			大众	高尔(海外)		小型车
+631	Haoqing			吉利	豪情		小型车
+631	ford-fiesta			福特	嘉年华(海外)		小型车
+631	aveo			雪佛兰	乐骋		小型车					8.99万,9.79万,7.99万,8.79万,7.19万,	1598mL,1598mL,1399mL,1399mL,1206mL,	93号汽油:5	5挡手动:3,4挡自动:2	5门5座:5	3920*1680*1499:5
+631	chevrolet-aveo			雪佛兰	乐骋(海外)		小型车
+631	lexus-LF-Ch			雷克萨斯	雷克萨斯lfch		小型车
+631	renault-Symbol			雷诺	雷诺symbol		小型车
+631	nissan-leaf			日产	聆风		小型车
+631	Mazda-2			马自达	马自达2(海外)		小型车
+631	Meiri			吉利	美日之星		小型车
+631	MG3			名爵	名爵mg3sw		小型车					7.98万,8.98万,8.98万,10.08万,	1.4mL,1.4mL,1.4mL,1.4mL,	93号汽油:4	5挡手动:2,无级变速:2	5门5座:4	3980*1736*1495:4
+631	Perla			菲亚特	派朗		小型车
+631	Palio			菲亚特	派力奥		小型车
+631	kia-picanto			起亚	起亚picanto		小型车
+631	soul-09			起亚	起亚soul		小型车
+631	Maxima			日产	千里马		小型车
+631	gleagle-gc3			全球鹰	全球鹰gc3		小型车
+631	nissan-cube			日产	日产cube		小型车
+631	nissan-note			日产	日产note		小型车
+631	colt			三菱	三菱colt		小型车
+631	i-MiEV			三菱	三菱i		小型车
+631	xenia			大发	森雅		小型车
+631	honda-city			本田	思迪		小型车
+631	roomster			斯柯达	斯柯达roomster		小型车
+631	seat-ibe			西亚特	西亚特ibe		小型车
+631	Ibiza			西亚特	西亚特ibiza		小型车
+631	siena			菲亚特	西耶那		小型车
+631	hyundai-getz			现代	现代getz		小型车
+631	i20			现代	现代i20		小型车
+631	hyundai-rb			现代	现代rb		小型车
+631	soyat			南汽	新雅途		小型车
+631	citroen c2				雪铁龙c2(海外)		小型车
+631	C3			雪铁龙	雪铁龙c3		小型车
+631	c3-Picasso			雪铁龙	雪铁龙c3毕加索		小型车
+631	citroen-ds3			雪铁龙	雪铁龙ds3		小型车
+631	auris			丰田	雅力士(海外)		小型车
+631	hundai-Accent			现代	雅绅特(海外)		小型车
+631	Youliou			吉利	优利欧		小型车
+631	yuyan-05			铃木	雨燕(海外)		小型车
+631	Weekend			菲亚特	周末风		小型车
+631	Schnitzer-3			宝马	acschnitzer3系		紧凑型车
+631	Giulietta			阿尔法罗密欧	alfagiulietta		紧凑型车
+631	subaru-hybrid			斯巴鲁	hybrid		紧凑型车
+631	vw-Jetta			大众	jetta		紧凑型车
+631	vw-newcompact			大众	newcompact		紧凑型车
+631	PTCruiser			克莱斯勒	pt漫步者		紧凑型车					23.99万,	2429mL,	97号汽油:1	4挡自动:1	5门5座:1	4288*1748*1601:1
+631	alfaromeo			阿尔法罗密欧	阿尔法罗密欧147		紧凑型车
+631	e-tron			奥迪	奥迪etron		紧凑型车
+631	beiqi-c70			北京汽车	北京汽车c70		紧凑型车
+631	beiqi-c71			北京汽车	北京汽车c71		紧凑型车
+631	insight			本田	本田insight		紧凑型车
+631	biyadi-f5			比亚迪	比亚迪f5		紧凑型车
+631	peugeot-307cc			标致	标致307cc		紧凑型车
+631	V802			长安	长安v802		紧凑型车
+631	materia			大发	大发materia		紧凑型车
+631	mira			大发	大发mira		紧凑型车
+631	auris-09			丰田	丰田auris		紧凑型车
+631	toyota-matrix			丰田	丰田matrix		紧凑型车
+631	ford-focus			福特	福克斯(海外)		紧凑型车
+631	fukang			雪铁龙	富康		紧凑型车
+631	saibao			哈飞	哈飞赛豹v		紧凑型车
+631	Hyshine			华普	华普海炫		紧凑型车
+631	junjiewagon			中华	骏捷wagon		紧凑型车
+631	corolla-04			丰田	卡罗拉(海外)		紧凑型车
+631	CADILLAC-bls			凯迪拉克	凯迪拉克bls		紧凑型车
+631	Chevrolet-Cruze			雪佛兰	科鲁兹(海外)		紧凑型车
+631	renault-clio			雷诺	雷诺clio		紧凑型车
+631	lincoln-c			林肯	林肯c		紧凑型车
+631	suzuki-sx4			铃木	铃木sx4(海外)		紧凑型车
+631	Lioncel			东南	菱帅		紧凑型车
+631	Ampera			欧宝	欧宝ampera		紧凑型车
+631	Corsa 				欧宝corsa		紧凑型车
+631	Octavia-oy			斯柯达	欧雅		紧凑型车					0.00万,	1798mL,	93号汽油:1	6挡手动:1	5门5座:1	4572*1769*1468:1
+631	ceed			起亚	起亚ceed		紧凑型车
+631	kia-forte			起亚	起亚forte		紧凑型车
+631	Venga			起亚	起亚venga		紧凑型车
+631	gleagle-gc5			全球鹰	全球鹰gc5		紧凑型车
+631	gleagle-gc5-rv			全球鹰	全球鹰gc5rv		紧凑型车
+631	nissan-altima			日产	日产altima		紧凑型车
+631	nissan-versa			日产	日产versa		紧凑型车
+631	Xsara			雪铁龙	赛纳		紧凑型车
+631	sx4			铃木	天语sx4		紧凑型车
+631	volvos40			沃尔沃	沃尔沃s40(进口)		紧凑型车
+631	elantra-xd			现代	现代avante		紧凑型车
+631	yundai-i30			现代	现代i30(海外)		紧凑型车
+631	chevrolet-agile			雪佛兰	雪佛兰agile		紧凑型车
+631	ds4			雪铁龙	雪铁龙ds4		紧凑型车
+631	tfc			一汽	一汽tfc		紧凑型车
+631	hundai-Elantra			现代	伊兰特(海外)		紧凑型车
+631	geely-sc6-rv			英伦	英伦sc6rv		紧凑型车
+631	zotyez300			众泰	众泰z300		紧凑型车
+631	ALFA159			阿尔法罗密欧	alfa159		中型车
+631	kia-magentis			起亚	magentis		中型车
+631	Volkswagenpassat			大众	passat(进口)		中型车					34.00万,37.15万,	1984mL,1984mL,	97号汽油:2	6挡双离合:2	5门5座:2	4774*1820*1517:2
+631	sonata-xd			现代	sonata(海外)		中型车
+631	audia4			奥迪	奥迪a4(进口)		中型车
+631	honda-fcx			本田	本田fcx		中型车
+631	5-by-peugeot			标致	标致5bypeugeot		中型车
+631	peugeot-508			标致	标致508(进口)		中型车
+631	sebring			克莱斯勒	铂锐		中型车					22.70万,21.50万,18.20万,19.90万,	2.7mL,2.4mL,2.0mL,2.0mL,	93号汽油:4	4挡手自一体:4	4门4座:4	4842*1808*1498:4
+631	R36			大众	大众r36		中型车					34.00万,37.15万,	1984mL,1984mL,	97号汽油:2	6挡双离合:2	5门5座:2	4774*1820*1517:2
+631	Avenger			道奇	道奇锋哲		中型车					22.80万,24.80万,	2.4mL,2.4mL,	93号汽油:2	4挡手自一体:2	4门4座:2	4850*1843*1497:2
+631	toyota-avalon			丰田	丰田avalon		中型车
+631	avensis			丰田	丰田avensis		中型车
+631	cefivo			日产	风度		中型车
+631	ford-falcon			福特	福特falcon		中型车
+631	ford-fusion			福特	福特fusion		中型车
+631	Taurus			福特	福特金牛座		中型车
+631	skoda-superb			斯柯达	昊锐(海外)		中型车
+631	ht-b21			华泰	华泰b21		中型车
+631	jaguar-xtype			捷豹	捷豹xtype		中型车
+631	hyunori			现代	君爵		中型车
+631	cadillac_cts			凯迪拉克	凯迪拉克cts		中型车
+631	chrysler-200			克莱斯勒	克莱斯勒200		中型车
+631	200c			克莱斯勒	克莱斯勒200c		中型车
+631	Nassau			克莱斯勒	克莱斯勒sebring		中型车
+631	Coupe			现代	酷派		中型车
+631	bluebird			日产	蓝鸟		中型车
+631	laolunshi-c			劳伦士	劳伦士c级		中型车
+631	lexus-hs			雷克萨斯	雷克萨斯hs		中型车
+631	Mazda-6			马自达	马自达6(海外)		中型车
+631	Shinari			马自达	马自达shinari		中型车
+631	ford mondeo				蒙迪欧		中型车
+631	ford-mondeo			福特	蒙迪欧致胜(海外)		中型车
+631	acura-tsx			讴歌	讴歌tsx		中型车
+631	Insignia			欧宝	欧宝insignia		中型车
+631	nissan-maxima			日产	日产maxima		中型车
+631	toyota-reiz			丰田	锐志(海外)		中型车
+631	Superb			斯柯达	速派		中型车
+631	seat-exeo			西亚特	西亚特exeo		中型车
+631	hyundai-yf			现代	现代yf		中型车
+631	hongqi-mingshi			红旗	新明仕		中型车
+631	Malibu			雪佛兰	雪弗兰malibu		中型车
+631	Citroenc5			雪铁龙	雪铁龙c5(进口)		中型车
+631	geely-sc6			英伦	英伦sc6		中型车
+631	Sonata-NF			现代	御翔		中型车
+631	acumen			广汽	卓越		中型车
+631	alfa-166			阿尔法罗密欧	alfa166		中大型车
+631	charger			道奇	charger		中大型车
+631	cadillacSLS			凯迪拉克	sls赛威(海外)		中大型车
+631	audi-a6			奥迪	奥迪a6		中大型车
+631	audia6			奥迪	奥迪a6(进口)		中大型车
+631	benz-F800			奔驰	奔驰f800		中大型车
+631	honda-legend			本田	本田legend		中大型车
+631	legend			本田	本田里程		中大型车
+631	peugeot-607			标致	标致607		中大型车					47.00万,	3.0mL,	97号汽油:1	6挡手自一体:1	4门4座:1	4902*1835*1442:1
+631	eastar6			奇瑞	东方之子6		中大型车
+631	fuga			日产	风雅		中大型车
+631	X-power			广汽	广汽概念车		中大型车
+631	jaguar-stype			捷豹	捷豹stype		中大型车
+631	cadillac-sts			凯迪拉克	凯迪拉克sts		中大型车
+631	cadillac-xts			凯迪拉克	凯迪拉克xts		中大型车
+631	chrysler-300C			克莱斯勒	克莱斯勒300c		中大型车					30.00万,50.90万,39.50万,34.90万,33.90万,	2.7mL,5.7mL,3.5mL,2.7mL,2.7mL,	97号汽油:5	4挡自动:3,5挡手自一体:2	4门4座:5	5015*1880*1475:5
+631	Lorinser-e			劳伦士	劳伦士e级		中大型车
+631	Opirus			起亚	欧菲莱斯		中大型车					30.80万,27.50万,23.90万,	3.8mL,2.7mL,2.7mL,	93号汽油:3	5挡手自一体:3	4门4座:3	5000*1850*1485:3
+631	royaum			别克	荣御		中大型车
+631	hq3			红旗	盛世		中大型车					68.88万,39.98万,34.98万,	4293mL,2995mL,2995mL,	97号汽油:3	6挡手自一体:3	4门4座:3	4965*1795*1485:3
+631	velsatis			雷诺	威赛帝		中大型车
+631	volvo-s80			沃尔沃	沃尔沃s80		中大型车					123.98万,	4.4mL,	97号汽油:1	6挡手自一体:1	4门4座:1	4851*1861*1493:1
+631	yuanjingIII			江淮	愿景iii		中大型车
+631	brooklands			宾利	brooklands		豪华车
+631	audi-s8			奥迪	奥迪s8		豪华车
+631	lincoln			林肯	城市		豪华车
+631	galue			光冈	光冈galue		豪华车
+631	hongqi-hqe			红旗	红旗hqe		豪华车
+631	hongqi-qijian			红旗	红旗旗舰		豪华车
+631	geely-ge			吉利	吉利ge		豪华车
+631	DeVille			凯迪拉克	凯迪拉克帝威		豪华车
+631	Maybach			迈巴赫	迈巴赫		豪华车					1298.00万,900.00万,618.00万,538.00万,	5980mL,5980mL,5513mL,5513mL,	97号汽油:4	5挡自动:4	4门4座:4	6165*1980*1573:3,5728*1980*1572:1
+631	Cima			日产	西玛		豪华车
+631	azure			宾利	雅骏		豪华车
+631	alfa-gt			阿尔法罗密欧	alfagt		跑车
+631	TZ3			阿尔法罗密欧	alfatz3		跑车
+631	gumpert-apollo			Gumpert	apollo		跑车
+631	carreragt			保时捷	carreragt		跑车
+631	circuit-ev			道奇	circuitev		跑车
+631	EfficientDynamics			宝马	efficientdynamics		跑车
+631	Flextreme-GT-E 				flextremegte		跑车
+631	galibier			布加迪	galibier		跑车
+631	astonmartin-one-77			阿斯顿马丁	one77		跑车
+631	sesto-elemento			兰博基尼	sestoelemento		跑车
+631	survolt			雪铁龙	survolt		跑车
+631	mg-tf			名爵	tf		跑车					26.58万,24.96万,	1796mL,1796mL,	93号汽油:2	无级变速:1,5挡手动:1	2门2座:2	3943*1628*1249:2
+631	vanquish			阿斯顿马丁	vanquish		跑车
+631	X-BOW			KTM	xbow		跑车
+631	Pagani-zonda			帕加尼	zonda		跑车					,	mL,			门座:1	**:1
+631	alfa-156			阿尔法罗密欧	阿尔法罗密欧156		跑车
+631	2uettottanta			阿尔法罗密欧	阿尔法罗密欧2uettottanta		跑车
+631	alfa-8c			阿尔法罗密欧	阿尔法罗密欧8c		跑车
+631	audi-quattro			奥迪	奥迪quattro		跑车
+631	bmw-z8			宝马	宝马z8		跑车
+631	prosche-spyder			保时捷	保时捷918spyder		跑车
+631	benz-clk			奔驰	奔驰clk		跑车					91.80万,82.00万,73.10万,	3.5mL,3.0mL,1.8mL,	97号汽油:3	7挡手自一体:2,5挡手自一体:1	2门2座:3	4652*1740*1413:3
+631	Benz-SLR			奔驰	奔驰slr		跑车
+631	honda-hsv			本田	本田hsv010gt		跑车
+631	s2000			本田	本田s2000		跑车
+631	peugeot-ex1			标致	标致ex1		跑车
+631	peugeot-sr1			标致	标致sr1		跑车
+631	Viper			道奇	道奇蝰蛇		跑车
+631	Challenger			道奇	道奇挑战者		跑车
+631	emgrand-gt			帝豪	帝豪gt		跑车
+631	ferrari-575m			法拉利	法拉利575m		跑车
+631	Enzo			法拉利	法拉利enzo		跑车
+631	ferrari-f360			法拉利	法拉利f360		跑车
+631	ferrari-f40			法拉利	法拉利f40		跑车
+631	toyota-ft			丰田	丰田ft86		跑车
+631	Ford-GT			福特	福特gt		跑车
+631	crossfire			克莱斯勒	交叉火力		跑车
+631	c-x75			捷豹	捷豹cx75		跑车
+631	Converj			凯迪拉克	凯迪拉克converj		跑车
+631	Agera			柯尼赛格	柯尼塞格agera		跑车
+631	Koenigsegg-ccr			柯尼赛格	柯尼赛格ccr		跑车
+631	Estoque 				兰博基尼estoque		跑车
+631	reventon			兰博基尼	兰博基尼reventon		跑车					1500.00万,	6496mL,	97号汽油:1	6挡序列变速箱:1	2门2座:1	4700*2058*1135:1
+631	lexus-LF-A			雷克萨斯	雷克萨斯lfa		跑车
+631	lexus-sc			雷克萨斯	雷克萨斯sc		跑车					132.10万,	4.3mL,	97号汽油:1	6挡自动:1	2门2座:1	4535*1825*1370:1
+631	renault-DeZir			雷诺	雷诺dezir		跑车
+631	renault-Wind			雷诺	雷诺wind		跑车
+631	lotus-elan			莲花	莲花elan		跑车
+631	elite			莲花	莲花elite		跑车
+631	lotus-esprit			莲花	莲花esprit		跑车
+631	eterne			莲花	莲花eterne		跑车
+631	PROWLER			克莱斯勒	猎兽prowler		跑车
+631	RX-8			马自达	马自达rx8		跑车
+631	maserati-3200gt			玛莎拉蒂	玛莎拉蒂3200gt		跑车
+631	maserati-coupe			玛莎拉蒂	玛莎拉蒂coupe		跑车
+631	Spyder 				玛莎拉蒂spyder		跑车
+631	Meirenbao			吉利	美人豹		跑车
+631	gt			欧宝	欧宝gt		跑车
+631	kia-kee			起亚	起亚kee		跑车
+631	nissan-350z			日产	日产350z		跑车
+631	370Z			日产	日产370z		跑车
+631	chery-a6			瑞麒	瑞麒z5		跑车
+631	saab9-x			萨博	萨博9x		跑车
+631	sanlingra			三菱	三菱ra		跑车
+631	spyker-c12			世爵	世爵c12		跑车
+631	wiesmann-roadster			威兹曼	威兹曼roadster		跑车
+631	Corvette			雪佛兰	雪弗兰克尔维特		跑车
+631	citroen-gq			雪铁龙	雪铁龙gq		跑车
+631	citroen-gt			雪铁龙	雪铁龙gt		跑车
+631	eclipse			三菱	伊柯丽斯		跑车					29.80万,32.80万,30.80万,33.80万,	2.4mL,2.4mL,2.4mL,2.4mL,	93号汽油:4	4挡手自一体:4	2门2座:4	4600*1835*1366:4
+631	infiniti-essence			英菲尼迪	英菲尼迪essence		跑车
+631	Schnitzer-X1			宝马	acschnitzerx1		SUV
+631	Schnitzer-X5			宝马	acschnitzerx5		SUV
+631	Schnitzer-X6			宝马	acschnitzerx6		SUV
+631	gmc-acadia			GMC	acadia		SUV
+631	bluesport			大众	bluesport		SUV
+631	Durango			道奇	durango		SUV
+631	gmc-envoy			GMC	envoy		SUV
+631	gmc-graphyte			GMC	graphyte		SUV
+631	Lagonda			阿斯顿马丁	lagonda		SUV
+631	mini-beachcomber			宝马	minibeachcomber		SUV
+631	saab9-7			萨博	saab97		SUV
+631	gmc-terrain			GMC	terrain		SUV
+631	urban-cruiser			丰田	urbancruiser		SUV
+631	yeti			斯柯达	yeti		SUV
+631	gmc-yukon			GMC	yukon		SUV
+631	audiq3			奥迪	奥迪q3（进口）		SUV
+631	beijingjeep			吉普	北京jeep		SUV
+631	beiqi-b40			北京汽车	北京汽车b40		SUV
+631	beiqi-b60			北京汽车	北京汽车b60		SUV
+631	beiqi-b61			北京汽车	北京汽车b61		SUV
+631	beiqi-b90			北京汽车	北京汽车b90		SUV
+631	pilot			本田	本田pilot		SUV
+631	peugeot-4007			标致	标致4007		SUV
+631	peugeot-hr1			标致	标致hr1		SUV
+631	zhongxing-chiye			中兴	驰野鑫精英		SUV
+631	Grand-Cherokee			吉普	大切诺基		SUV
+631	emgrand-ex7			帝豪	帝豪ex7		SUV
+631	emgrand-ex8			帝豪	帝豪ex8		SUV
+631	emgrand-ex9			帝豪	帝豪ex9		SUV
+631	Discovery			路虎	发现3		SUV					69.80万,109.80万,95.80万,	2.7mL,4.4mL,4.0mL,	0号柴油:1,97号汽油:2	6挡手自一体:3	5门5座:3	4835*2190*1940:3
+631	Sedici			菲亚特	菲亚特sedici		SUV
+631	4runner			丰田	丰田4runner		SUV
+631	toyota-venza			丰田	丰田venza		SUV
+631	sequoia			丰田	丰田红杉		SUV					110.00万,	5663mL,	97号汽油:1	6挡手自一体:1	5门5座:1	5210*2029*1895:1
+631	ford-expedition			福特	福特expedition		SUV
+631	ford-flex			福特	福特flex		SUV
+631	Kuga			福特	福特kuga		SUV
+631	hanma			东风	汗马		SUV					88.00万,	6.5mL,	0号柴油:1	4挡自动:1	5门5座:1	4970*2134*1912:1
+631	hummer-h1			悍马	悍马h1		SUV
+631	hummer-h2			悍马	悍马h2		SUV					128.00万,	6198mL,	97号汽油:1	6挡自动:1	5门5座:1	5170*2063*2012:1
+631	hummer-hx			悍马	悍马hx		SUV
+631	Liberty			吉普	吉普自由人		SUV
+631	Captiva			雪佛兰	科帕奇		SUV					26.38万,25.78万,25.28万,24.68万,	2384mL,2384mL,2384mL,2384mL,	93号汽油:4	6挡手自一体:4	5门5座:4	4673*1868*1756:4
+631	Aspen			克莱斯勒	克莱斯勒aspen		SUV
+631	laibao			双环	来宝srv		SUV
+631	landcruiser			丰田	兰德酷路泽(进口)		SUV
+631	Lorinser-GLK			劳伦士	劳伦士glk		SUV
+631	Lorinser-ML			劳伦士	劳伦士ml级		SUV					174.80万,122.80万,	5461mL,3498mL,	97号汽油:2	7挡手自一体:2	5门5座:2	4788*1911*1815:1,4788*1911*1779:1
+631	lexus-LF-Xh			雷克萨斯	雷克萨斯lfxh		SUV
+631	lincolnmkx			林肯	林肯mkx		SUV					88.00万,	mL,		6挡自动:1	门座:1	**:1
+631	XL7			铃木	铃木xl7		SUV
+631	beiqi-luba			北京汽车	陆霸		SUV
+631	mazda-cx9			马自达	马自达cx9		SUV
+631	acura-rdx			讴歌	讴歌rdx		SUV
+631	pajero-sport			三菱	帕杰罗速跑		SUV
+631	prius-2010			丰田	普锐斯(海外)		SUV
+631	Cherokee			吉普	切诺基(进口)		SUV
+631	nissan-juke			日产	日产juke		SUV
+631	nissan-murano			日产	日产murano		SUV
+631	nissan-pathfinder			日产	日产pathfinder		SUV
+631	nissan-rogue			日产	日产rogue		SUV
+631	nissan-qijian			日产	日产旗舰		SUV
+631	Saab9-4X			萨博	萨博94x		SUV
+631	Saifu			长城	赛弗系列		SUV					8.88万,9.96万,9.28万,7.78万,8.86万,8.18万,	2.2mL,2.2mL,2.2mL,2.2mL,2.2mL,2.2mL,	93号汽油:6	5挡手动:6	5门5座:6	4625*1780*1820:1,4560*1780*1820:2,4860*1780*1820:1,4795*1780*1820:2
+631	Saiying			长城	赛影suv		SUV					10.98万,9.48万,8.98万,7.48万,	2.8mL,2.8mL,2.2mL,2.2mL,	0号柴油:2,93号汽油:2	5挡手动:4	5门5座:4	5105*1785*1870:4
+631	px-miev			三菱	三菱pxmiev		SUV
+631	kia-sportage			起亚	狮跑(进口)		SUV
+631	spyker-d12			世爵	世爵d12		SUV
+631	sl-c200			双龙	双龙c200		SUV
+631	terios			丰田	特锐		SUV
+631	volvo-v50			沃尔沃	沃尔沃v50		SUV
+631	volvo-v70			沃尔沃	沃尔沃v70		SUV
+631	VOLVO-XC70			沃尔沃	沃尔沃xc70		SUV
+631	v3			中兴	无限v3		SUV
+631	seat-altea			西亚特	西亚特altea		SUV
+631	hundai-ix35			现代	现代ix35(海外)		SUV
+631	Nuvis			现代	现代nuvis		SUV
+631	nissan-Qashqai			日产	逍客(海外)		SUV
+631	chevrolet-equinox			雪佛兰	雪佛兰equinox		SUV
+631	Traverse			雪佛兰	雪佛兰traverse		SUV
+631	c-crosser			雪铁龙	雪铁龙ccrosser		SUV
+631	Maverick			福特	翼虎		SUV
+631	daoquyilong			道奇	翼龙		SUV
+631	geely-sx5			英伦	英伦sx5		SUV
+631	geely-sx6			英伦	英伦sx6		SUV
+631	yongshi			北京汽车	勇士		SUV
+631	Element			本田	元素		SUV
+631	Commander			吉普	指挥官		SUV					64.99万,61.99万,	5.7mL,4.7mL,	93号汽油:2	5挡手自一体:2	5门5座:2	4787*2261*1919:2
+631	Berlingo Multispace				berlingomultispace		MPV
+631	biekebusiness			别克	business		MPV
+631	exiga			斯巴鲁	exiga		MPV
+631	fiorino-qubo			菲亚特	fiorinoqubo		MPV
+631	vw-milano			大众	milano		MPV
+631	MP-X			福田	mpx蒙派克		MPV					13.80万,13.08万,13.18万,12.60万,11.47万,10.98万,10.00万,9.90万,12.30万,12.30万,10.68万,10.68万,12.50万,12.08万,12.08万,12.08万,10.20万,10.20万,10.20万,	2771mL,2351mL,2351mL,2776mL,2771mL,2351mL,1998mL,1997mL,2499mL,2499mL,2351mL,2351mL,2771mL,2499mL,2499mL,2499mL,2351mL,2351mL,2351mL,	0号柴油:9,93号汽油:10	5挡手动:19	4门4座:14,5门5座:5	5235*1825*1950:14,4790*1825*1950:5
+631	ford-smax			福特	smax		MPV
+631	Viano			奔驰	奔驰viano		MPV					86.80万,86.80万,82.80万,72.80万,	3498mL,3498mL,3498mL,3199mL,	97号汽油:4	5挡手自一体:4	5门5座:4	5008*2013*1923:2,4993*1901*1923:1,4993*1905*1923:1
+631	stream			本田	本田时韵		MPV
+631	peugeot-5008			标致	标致5008		MPV
+631	peugeot-807			标致	标致807		MPV
+631	kylin			长丰	长丰骐菱		MPV					8.68万,7.78万,6.98万,	1.6mL,1.6mL,1.6mL,	93号汽油:3	5挡手动:3	5门5座:3	4239*1735*1603:3
+631	vw-routan			大众	大众routan		MPV
+631	emgrand-ev7			帝豪	帝豪ev7		MPV
+631	emgrand-ev8			帝豪	帝豪ev8		MPV
+631	09crosseastar			奇瑞	东方之子cross		MPV
+631	doblo			菲亚特	菲亚特多宝		MPV
+631	toyota-saina			丰田	丰田sienna		MPV
+631	avensis-verso			丰田	丰田verso		MPV
+631	toyota-wish			丰田	丰田wish		MPV
+631	Furuida			昌河	福瑞达		MPV
+631	c-max			福特	福特cmax		MPV
+631	ford-galaxy			福特	福特galaxy		MPV
+631	ford-grand c-max				福特grandcmax		MPV
+631	jb-haishi			金杯	海狮		MPV
+631	Carnival			起亚	嘉华		MPV					25.80万,28.80万,24.98万,22.98万,21.98万,19.58万,	3.5mL,3.5mL,2.7mL,2.7mL,2.7mL,2.7mL,	93号汽油:6	5挡自动:2,4挡自动:4	5门5座:6	4930*1895*1760:6
+631	Candy			大众	开迪		MPV
+631	caddy			大众	开迪(海外)		MPV
+631	Karry-youpai			开瑞	开瑞优派		MPV					3.68万,3.48万,4.28万,	999mL,999mL,999mL,	93号汽油:3	5挡手动:3	5门5座:3	3436*1481*1875:3
+631	karry-youya			开瑞	开瑞优雅		MPV					5.28万,5.68万,4.68万,4.98万,4.18万,4.38万,	1297mL,1297mL,1297mL,1170mL,1170mL,1170mL,	93号汽油:6	5挡手动:6	5门5座:6	4040*1640*1900:6
+631	karry-youyi			开瑞	开瑞优翼		MPV					6.28万,5.78万,6.08万,	1.6mL,1.6mL,1.6mL,	93号汽油:3	5挡手动:3	5门5座:3	4610*1693*1855:3
+631	karry-youyou			开瑞	开瑞优优		MPV					4.39万,3.79万,3.93万,4.69万,3.99万,4.13万,4.29万,3.69万,3.83万,4.59万,5.09万,4.69万,5.39万,4.99万,3.89万,4.03万,	1083mL,1083mL,1083mL,1083mL,1083mL,1083mL,999mL,999mL,999mL,999mL,999mL,999mL,999mL,999mL,999mL,999mL,	93号汽油:12,0号柴油:4	5挡手动:16	5门5座:16	3993*1607*1908:16
+631	Landy			铃木	浪迪		MPV					5.20万,4.98万,5.35万,5.25万,	1243mL,1243mL,1372mL,1372mL,	93号汽油:4	5挡手动:4	5门5座:4	3850*1510*1910:4
+631	renault-Espace			雷诺	雷诺espace		MPV
+631	Sprinter			奔驰	凌特sprinter		MPV					125.00万,	3498mL,	97号汽油:1	5挡自动:1	5门5座:1	5910*1993*2720:1
+631	Space-Wagon			三菱	菱绅		MPV
+631	dabawang			哈飞	路尊大霸王		MPV					5.78万,6.08万,5.98万,5.49万,5.09万,	1488mL,1488mL,1488mL,1299mL,1299mL,	93号汽油:5	5挡手动:5	5门5座:5	4180*1695*1875:5
+631	mazda8			马自达	马自达8		MPV
+631	Matrix			现代	美佳		MPV
+631	meriva			欧宝	欧宝meriva		MPV
+631	gleagle-gv5			全球鹰	全球鹰gv5		MPV
+631	nissan-elgrand			日产	日产elgrand		MPV
+631	nissannv200			日产	日产nv200(进口)		MPV
+631	ruifenghechang			江淮	瑞风·和畅		MPV					15.98万,18.18万,	1997mL,1997mL,	97号汽油:2	6挡手动:2	5门5座:2	5100*1840*1970:2
+631	chery			瑞麒	瑞麒2		MPV
+631	vw-touran			大众	途安(海外)		MPV
+631	rely-h5			威麟	威麟h5		MPV					19.38万,21.38万,16.98万,	1971mL,1971mL,1971mL,	93号汽油:3	5挡手动:3	4门4座:3	5410*1920*2290:3
+631	rely-v8			威麟	威麟v8		MPV
+631	benz-vito			奔驰	威霆(进口)		MPV
+631	hongtu			五菱	五菱鸿途		MPV
+631	wulingzhiguang			五菱	五菱之光		MPV
+631	seat-alhambra			西亚特	西亚特alhambra		MPV
+631	ix20			现代	现代ix20		MPV
+631	Chevrolet-Express			雪佛兰	雪佛兰express		MPV
+631	Orlando			雪佛兰	雪佛兰orlando		MPV
+631	geely-sv5			英伦	英伦sv5		MPV
+631	karry-09			开瑞	优胜		MPV					4.03万,3.48万,4.23万,3.78万,3.93万,3.38万,4.13万,3.68万,3.28万,	1083mL,1083mL,1083mL,1083mL,999mL,999mL,999mL,999mL,999mL,	93号汽油:9	5挡手动:9	5门5座:9	3780*1484*1870:8,3636*1484*1870:1
